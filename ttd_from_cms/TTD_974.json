@@ -1,0 +1,369 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300606
+  },
+  "products": [
+    {
+      "id": "product-974",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Melaka Wonderland"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Melaka Wonderland Theme Park &amp; Resort is located in Ayer Keroh Melaka, one of Malaysia’s most popular destination. Melaka Wonderland is the latest tourist attraction for both local and overseas tourist. It is a complete water park experience for everyone - families, kids, teens and thrill seeker alike. From high-speed water slides to tranquil greenery, the Melaka Wonderland Theme Park &amp; Resort would excite any visitor. This unique water theme park features 11 attractions, namely Tornado Chaser (1st in Malaysia), Lazy cum Crazy River, 1 Big Wave pool, Adventure Island and is surrounded by 360 hectares of natural recreational forest. Melaka Wonderland’s exclusive attractions promise unlimited fun, taking every visitor on a thrilling ride and breathtaking view of a natural forest. Go inside this colorful water ball &amp; start journey walk across the pool."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "It's a complete water park experience for families, kids, teens, and thrill seekers!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "These attractions include the Tornado Chaser, Kamikaze Racer, 1 Big Wave Pool, Adventure Island, and more!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "You can also enjoy lake activities like pedal boat rides as well as rabbit and fish feeding to maximize your fun!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Melaka Wonderland Theme Park is a famous waterpark with 11 exhilarating and water-splashing attractions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Try the multi-level active water play structure that combines 8 slides into one big playground."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Expect a splashing good time at Melaka Wonderland! Dive into a world of fun with thrilling water slides, a relaxing lazy river, and a wave pool perfect for families. Enjoy the excitement of rafting with friends or simply relax and soak up the sun poolside. Kids and adults alike will love the interactive water play areas, while the park's commitment to cleanliness ensures a safe and enjoyable experience for everyone."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather: In the event of severe weather conditions, it may become necessary to temporarily close the pools and attractions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Melaka Wonderland Theme Park & Resort official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Height or any restrictions for the slides in the park, please kindly visit Melaka Wonderland Theme Park official website for more information."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Appropriate swimwear is recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to Melaka Wonderland"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Ticket valid 120 days from date of purchased Adult: 13 years old & above Child: below 12 years old Free of charge for children below 90cm All published prices are subject to change without prior notice No-show forfeit Ticket Visitors are prohibited from smoking, any rough behavior, running, swimming, diving or throwing rubbish into the lake. Children at the age of 12 years and below are to be accompanied by an adult of 18 years old and above. Visitors are required to get out of the lake in the event of heavy rain, thunderstorm or electric interference and obey the instructions of the lifeguards and authorities. No refund will be given for purchase of tickets in the event of continuous bad weather or thunder storm. Outside food and drinks are not allowed at the theme park/ lake. Pedal Boat Activity & Tube Ride Activity: Pedal boats and tube ride must be used in designated area only. All visitors must wear a life jacket. The pedal boat and tube ride can only fit 2 pax. Children must be able to sit in the boat seat on their own. Users are not allowed to sit on another’s lap."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance Ticket (WEEKEND/School Holiday/Public Holiday)- MYKAD"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/melaka-wonderland"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "water-parks"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJp7k3yJlVzDER4m8n2p5k9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance Ticket (WEEKDAY)- MYKAD"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/melaka-wonderland"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "water-parks"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJp7k3yJlVzDER4m8n2p5k9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 39
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 32
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance Ticket (ALL DAY)- NON-MYKAD"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/melaka-wonderland"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "water-parks"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJp7k3yJlVzDER4m8n2p5k9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 48
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/974/DSP/974_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Melaka Wonderland"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Globaltix 1113"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJp7k3yJlVzDER4m8n2p5k9Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

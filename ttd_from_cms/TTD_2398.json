@@ -1,0 +1,545 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300630
+  },
+  "products": [
+    {
+      "id": "product-2398",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Breakout Escape Game Avenue K"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Whether you prefer an experience that challenges your brains, your physical stamina or just want to have fun time together, we’ve got them all here! Our escape rooms and spy game missions come with many difficulty levels, a variety of physical agility requirements and also family friendly option suitable for the younger one. For the horror fans, check out Breakout’s sister brand Hauntu for a different, unique and terrifying experience."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Escape game that comes with realistic design & props, an engaging storyline that immerses you in to the gameplay."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Every theme room can accommodate between 2-8 players."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Solve exciting missions, engaging puzzles, and obstacles and escape within 55 minutes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "At Avenue K, our 5 exclusive Breakout Rooms promise an unforgettable experience with 100% original storylines and mind-bending challenges.Immersive Storylines: Each room comes with a unique theme and narrative designed to pull you into a thrilling adventure. You won’t just be solving puzzles; you’ll be part of an unfolding story.Varied Difficulty Levels: Whether you're a seasoned escape room pro or a first-time adventurer, we offer a range of difficulty levels to keep everyone on their toes. Challenge yourself or work together as a team to crack the codes.Creative &amp; Unrepeated Puzzles: Get ready for puzzles that are as unique as they are engaging. Our rooms feature a mix of classic challenges and innovative new twists, ensuring no two experiences are ever the same.Wow-Factor Surprises: Expect the unexpected. From intricate designs to high-tech elements, our rooms are packed with surprises that will leave you in awe and make your escape room experience stand out.Teamwork &amp; Strategy: These rooms are built for collaboration, so gather your friends, family, or colleagues and work together to unravel the mystery. The more creative and communicative your team is, the better your chances of escaping in time!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wear comfortable clothing and shoes suitable for light movement and activity"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Listen carefully to the pre-game briefing and follow the game rules set by the staff."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Arrive at least 15 minutes before your scheduled game time for briefing and instructions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission at Breakout Avenue K"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Customers can choose 1 of the listed games: Project Fallout (minimum 3 players), Post Mortem, Cerebrum (maximum 6 players), Mr Oswald’s Greatest Show"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Once a ticket is purchased, please WhatsApp 6012-683 3628 for the steps and instructions to book your preferred timeslot. Additionally, we are reachable on social media (IG: @breakoutmy & FB: Breakout Malaysia)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: If customers are late for less than 10 minutes, the game will start and the experience time will be shortened. If customers are late for more than 10 minutes, the game will be rescheduled with another available time slot (subject to availability of the game session). If customers arrive with fewer participants than the purchase amount, no refund will be available. Additional players will be charged accordingly. Children aged 7 and below can play for FREE. Children aged 12 and below must be accompanied by a guardian who is 18 years old or above inside the room to play with them. Underage teens aged 13-17 will require a guardian to be present, and the guardian must sign a consent form before the teens are allowed to play alone."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation till validity ends."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: This package is entitled for the game: Chamber of Hocus - Remastered only"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Avenue K [2 Pax] - Choose one: Project Fallout, Post Mortem, Cerebrum, Mr Oswald’s Greatest Show"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/breakout-escape-game-avenue-k"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "entertainment-and-nightlife"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER7n2p8k5l4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 48
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Avenue K [3 - 4 Pax] - Choose one: Project Fallout, Post Mortem, Cerebrum, Mr Oswald’s Greatest Show"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/breakout-escape-game-avenue-k"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "entertainment-and-nightlife"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER7n2p8k5l4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 42
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Avenue K [5 - 6 Pax] - Choose one: Project Fallout, Post Mortem, Cerebrum, Mr Oswald’s Greatest Show"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/breakout-escape-game-avenue-k"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "entertainment-and-nightlife"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER7n2p8k5l4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Avenue K [7 - 8 Pax] - Choose one: Project Fallout, Post Mortem, Cerebrum, Mr Oswald’s Greatest Show"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/breakout-escape-game-avenue-k"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "entertainment-and-nightlife"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER7n2p8k5l4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Avenue K [2 Pax]: Chamber of Hocus - Remastered"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/breakout-escape-game-avenue-k"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "entertainment-and-nightlife"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER7n2p8k5l4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 52
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Avenue K [3 - 4 Pax]: Chamber of Hocus - Remastered"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/breakout-escape-game-avenue-k"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "entertainment-and-nightlife"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER7n2p8k5l4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 48
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Avenue K [5 - 6 Pax]: Chamber of Hocus - Remastered"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/breakout-escape-game-avenue-k"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "entertainment-and-nightlife"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER7n2p8k5l4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-8",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Avenue K [7 - 8 Pax]: Chamber of Hocus - Remastered"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/breakout-escape-game-avenue-k"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "entertainment-and-nightlife"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER7n2p8k5l4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-8-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 42
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2398/DSP/2398_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Escape Game Avenue K"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Superdough Sdn Bhd"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJg4k6mJ1JzDER7n2p8k5l4Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

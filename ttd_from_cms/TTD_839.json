@@ -1,0 +1,262 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300571
+  },
+  "products": [
+    {
+      "id": "product-839",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Lebam River Kayaking Adventure from Desaru , Johor"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Enjoy a scenic pick-up from your hotel within the Desaru Coast area followed by a comfortable 15-minute drive to the tranquil Lebam River. Upon arrival, you will board a local transfer boat that transports you and the kayaks upstream to the quieter upper section of the river where the adventure begins. Once on the water, paddle gently through calm mangrove-lined channels surrounded by lush greenery, where you may spot wild ducks, herons, and colorful kingfishers that thrive within this serene ecosystem.After approximately 90 minutes of kayaking, you will meet the safety boat for the return journey back to Kuala Sungai Lebam. Before heading back to your hotel, the tour includes a stop at the popular Desaru Fruit Farm Shop, where you can browse and purchase locally harvested fresh fruits. The experience concludes with a relaxed drive back to your accommodation in Desaru Coast, offering a perfect blend of active exploration and natural beauty."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy a peaceful paddle on the Lebam River, spotting herons, swallows, monkeys, crabs, and the vibrant mangrove ecosystem."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore the ways wildlife and distinctive mangrove trees thrive within Lebam River’s tide-driven ecosystem."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Discover the harmonious relationship between Sungai Lebam’s fishing communities and nature."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Recommended Attire; Hat, t-shirt, shorts or long pants, sun protection, covered shoes or sports shoes, towel, and a change of clothes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ensure to bring along a dry bag to store your camera and phone."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Free pick-up from hotels within Desaru."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Drinking water"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: English speaking nature guide"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Round trip shared transfers within Desaru"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Life jacket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Hotel Pick up: +60 19-225 2300"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Adult rate applicable from age 13 to 70 years old. Child rate applicable from age 5 to 12 years old. Child below 5 years old are not recommended for this activity. Children below 16 years old are required to be accompanied by an adult age 18 years old and above. The above tour rate is inclusive of complimentary pick-up from the following hotels: Hardrock, Westin, Anantara, The Sireya, Four Points, TunaMaya, Lotus, Sand & Sandal and other accommodations located in the vicinity of Desaru. Attendees will be notified promptly in case of event cancellation due to weather conditions. Should the operator cancel due to adverse weather conditions, attendees will be entitled to a full refund of the ticket price."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation if cancelled 24 hours before the selected date."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lebam River Kayaking Adventure - Sharing"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/johor/lebam-river-kayaking-adventure-from-desaru-johor"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJN1k7l5ZQzDER4n2p7k5l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 162
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 138
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/839/DSP/839_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lebam River Kayaking Adventure from Desaru , Johor"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Junglewalla Desaru"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJN1k7l5ZQzDER4n2p7k5l8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

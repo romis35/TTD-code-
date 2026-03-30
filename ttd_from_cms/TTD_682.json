@@ -1,0 +1,403 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300614
+  },
+  "products": [
+    {
+      "id": "product-682",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Koisaan Cultural Village"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "The Koisaan Cultural Village is located at Hongkod Koisaan KDCA Complex, Km 8, Penampang Road. The Village represents a living museum to preserve the multi-ethnic Kadazandusun culture. It aims to share the knowledge, history, and cultural heritage of the multi-ethnic Kadazandusun community.The KCV offers you the opportunity to see and experience the culture and lifestyle of how the indigenous ethnic communities of the Kadazandusun used to live in the past.The village features 11 different ethnic cultural houses in one village. They are The Penampang Cultural House, The Tenom Cultural – Lansaran House, The Beaufort Cultural House, The Kota Belud Cultural House, The Kuala Penyu Cultural House, The Keningau Cultural House, The Tambunan Cultural House, The Papar Cultural House, The Ranau Cultural House, The Tuaran Cultural House and The Kudat Cultural Long House"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Koisaan Cultural Village is at Hongkod Koisaan KDCA Complex, preserving Kadazandusun culture."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "It's a living museum sharing the history and lifestyle of the Kadazandusun community."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The village has 11 ethnic houses, like The Penampang Cultural House, providing a glimpse into diverse traditions in one place."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore the rich heritage of the Kadazandusun community at Koisaan Cultural Village, featuring 11 ethnic houses showcasing their unique traditions and lifestyle with"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "various kind of cultural activities."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dress Modestly: Respect local customs with appropriate attire.  pen_spark"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Photo Courtesy: Inquire about photography restrictions before taking pictures.  pen_spark"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Uneven Terrain: Wear comfortable shoes suitable for walking.  pen_spark"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Complimentary Drinks"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Visit all cultural house the Unduk Ngandau Gallery, and Craft Shop"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Magagung & Sumazau Demonstration"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Giant Slippers"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Fire Making Demonstration"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Display & Demo of Sigah and Sirung"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Momolositik (Sling Shooting)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Murut Lansaran"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Watch Huminodun Movie"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Ticket valid 90 days from purchased date Ticket only applicable at Koisaan Cultural Village. Ticket is non-refundable and cannot be exchanged for cash."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Koisaan Cultural Village Tour Basic Walk in Package - Guided Tour [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kota-kinabalu/koisaan-cultural-village"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx8k2l6wzUDAR3n8k2m7p4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 55
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (7–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 35
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 35
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Koisaan Cultural Village Tour Basic Walk in Package - Guided Tour [Non - Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kota-kinabalu/koisaan-cultural-village"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx8k2l6wzUDAR3n8k2m7p4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 50
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 50
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/682/DSP/682_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Koisaan Cultural Village"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Koisaan Culture Village"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJx8k2l6wzUDAR3n8k2m7p4Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

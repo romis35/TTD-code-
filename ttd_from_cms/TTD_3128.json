@@ -1,0 +1,1321 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300560
+  },
+  "products": [
+    {
+      "id": "product-3128",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Singapore Oceanarium"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Located at Resorts World Sentosa, Singapore Oceanarium is a leading ocean institute with the purpose to inspire greater knowledge, love, and action for the ocean and aquatic life. We are dedicated to advance marine education, research, and supporting the conservation and preservation of threatened species. With a unique blend of live habitats, oceanic stories, state-of-the-art digital innovation, and interactive technology, Singapore Oceanarium connects knowledge from meaningful marine education and encounters to real-world applications. Our long-term partnerships with institutes, accreditation by the Association of Zoos &amp; Aquariums (AZA), and membership of World Association of Zoos and Aquariums (WAZA) and Southeast Asian Zoo and Aquarium Association (SEAZA) is a testament to our commitment to inspire generations of ocean stewards for greater action. Singapore Oceanarium also encompasses a Research and Learning Centre – a dedicated space that offers advanced purpose-built spaces for research, conservation and community outreach. Certified by Singapore’s Building and Construction Authority as a Green Mark Platinum Zero Energy building, the centre is designed with environmental sustainability at its core and its energy needs are powered entirely by solar energy."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "One of the world’s largest kreisel tanks, home to over 5,000 moon jellyfish, offering a mesmerizing, ethereal display"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "A recreated mangrove habitat featuring interactive, touch‑friendly displays showcasing native biodiversity"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Features life‑sized animatronics and fossils of prehistoric marine creatures, tracing evolution from primeval seas to land"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "A deep‑sea display portraying how whale carcasses nurture entire ecosystems, using immersive visuals and real habitats"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "A breathtaking 36‑metre‑wide viewing panel where reef manta rays and zebra sharks glide before your eyes"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Step into a world where ocean discovery meets purpose-driven conservation at Singapore Oceanarium, located at Resorts World Sentosa. Designed as a leading ocean institute, the Oceanarium offers an immersive journey that inspires deeper understanding, appreciation, and action for marine life and ecosystems.Explore thoughtfully curated live habitats brought to life through compelling oceanic stories, enhanced by state-of-the-art digital innovation and interactive technology. These experiences connect meaningful marine encounters with real-world conservation efforts, making learning both engaging and impactful.Visitors can also look forward to the Oceanarium’s strong commitment to marine education and research, supported by long-term partnerships with renowned institutes. Its accreditations and memberships with AZA, WAZA, and SEAZA reflect global standards in animal care, conservation, and sustainability.A key highlight is the Research and Learning Centre, a purpose-built facility dedicated to research, conservation, and community outreach. As a Green Mark Platinum Zero Energy building certified by Singapore’s BCA, the centre showcases environmental sustainability in action, with operations powered entirely by solar energy.Together, these experiences make Singapore Oceanarium a place not just to observe the ocean—but to be inspired to protect it."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Operating hours are subject to change; please verify before your visit: https://www.singaporeoceanarium.com/en/visit/operating-hours.html"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Oceanarium operating hours vary based on the time of year and day of week. Do note that attraction operation hours are subject to change."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Non-transferable, non-refundable, and not for sale or exchange. This applies to the following, including events outside our control; governmental acts, acts of God, riots, strikes, natural disasters, haze or inclement weather (regardless of severity). Void if altered, tampered with, or damaged. Applicable for admission during regular park operating hours, but not valid during Exclusive Events. Regular Park operating hours are subject to change without prior notice. Hand stamp and ticket are required for same day re-entry into Singapore Oceanarium. Please be mindful of your safety and belongings at all times, as we shall not be liable for any damage or loss that you may suffer arising from your use of Singapore Oceanarium, whether such damage or loss is caused by our negligence or otherwise. For the safety of all our guests, team members and marine animals, bags are subject to inspection before entry. You acknowledge that failure to follow posted guidelines may result in serious injury or expulsion from Singapore Oceanarium. Any resale of tickets/vouchers is strictly prohibited unless authorized in writing by Us and We reserve the right to invalidate tickets/vouchers in connection with any fraudulent/unauthorized resale transaction, without refund or other compensation. Tickets/Vouchers only allows for a one (1) - time use only. If it is determined by Us that there are multiple copies/usages of the ticket, usage of the ticket will be denied. In the event of any dispute, a final decision shall be made based on our electronic record. Other Terms and Conditions apply. By entering Singapore Oceanarium, and/or purchasing tickets to the stated Attraction, you agree to the above terms and conditions"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1 x Singapore Oceanarium Admission Ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 2 x $5 Meal Voucher (Min spend $25. Redeemable at all Food & Beverage Outlets in Singapore Oceanarium, except Ocean Restaurant. Not applicable for merchandise / souvenir / alcoholic beverages. One voucher per transaction.)​"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 2 x $5 Retail Voucher (Min spend $50. Redeemable at Tidal Trove and Singapore Oceanarium Store in Singapore Oceanarium. Not applicable for promotional items. Product exclusions apply. One voucher per transaction.)​"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1 x Universal Studios Singapore Admission Ticket (Valid on the specified period mentioned.)​"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1 x $5 F&B Voucher (Min spend $25. Valid at Universal Studios Singapore restaurants & food carts. Not applicable for souvenir/alcoholic beverages. Excludes Roving carts, Starbucks, Oasis Spice Café and Me Want Cookie!. One voucher per transaction.)​"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1 x $5 Retail Voucher (Min spend $50. Redeemable at all USS retail outlet excludes Carnival Games, Roving Carts, Digiphoto products/services & Mighty Jaxx merchandise. 1 voucher per transaction. Product exclusions apply.)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Please proceed to the gantry"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The ticket is valid for entry for 7 days starting from the selected visit date. Each guest should scan his or her unique QR code at the entrance. Singapore Oceanarium admission ticket is valid for re-entry only on the same date of visit. Please obtain a re-entry handstamp and keep your admission ticket.   Universal Studios Singapore admission is not valid for re-entry. Regular park operating hours are subject to change without prior notice. Tickets and vouchers are non-transferable, not for sale, or exchange.  Non-refundable, even in cases of inclement weather.  Void if altered.  Strictly no outside food or beverages permitted inside Singapore Oceanarium.  Not valid during special events.  Not to be used for marketing or promotional purposes.   Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and-conditions.html.  Please see details and other important terms and conditions at www.rwsentosa.com/attractions-terms."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: $5 SGO Retail Voucher (Min Spend $50)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: When more than 1 (one) QR code ticket is purchased, each guest should scan their respective unique QR code at the entrance. Singapore Oceanarium admission ticket is valid for re-entry only on the same date of visit. Please obtain a re-entry handstamp and keep your admission ticket. Tickets and vouchers are non-transferrable, not for sale, or exchange. Non-refundable, even in cases of inclement weather. Void if altered. Not valid during special events. Not to be used for marketing or promotional purposes. Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and-conditions.html."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: $10 SGO Meal Voucher (No Min Spend)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: When more than 1 (one) QR code ticket is purchased, each guest should scan their respective unique QR code at the entrance. Singapore Oceanarium admission ticket is valid for re-entry only on the same date of visit. Please obtain a re-entry handstamp and keep your admission ticket. Tickets and vouchers are non-transferrable, not for sale, or exchange. Non-refundable, even in cases of inclement weather. Void if altered. Strictly no outside food or beverages permitted inside the Singapore Oceanarium. Not valid during special events. Not to be used for marketing or promotional purposes. Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and-conditions.html."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1x Animal Spotlight: Seahorses Programme (English)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The Animal Spotlight: Seahorses (\"Programme\") is subject to availability. This ticket is not valid for admission to Singapore Oceanarium This Programme shall procead as scheduled regardless of weather conditions (ie. rain or shine) and no rain checks or refunds shall be allowed. Participants are to be at the Meeting Point (Singapore's Coast) at least 15 minutes before the start of this Programme. Failure to comply, with this may result in the participant missing certain components. This Programme is open to participants aged 4 and above only. However, exceptions can be made for children under 4 years old who can walk independently in support areas. Participants under the age of 18 years must be accompanied by a paying, parent/ legal guardian at all times. For the safety of all guests and marine animals, participants will have to adhere to the safety instructions of Resorts World Sentosa Team Members. Guests who do not comply with the safety instructions may miss certain components of this programme or not be able to participate in the tour. Resorts World Sentosa reserves the right to change, amend, or alter these Terms and Conditions at any time without prior notice, in its sole and absolute discretion. When more than 1 (one) QR code ticket is purchased, each guest should scan their respective QR code at the entrance. Tickets and vouchers are non-transferable and may not be sold or exchanged. Tickets are non-refundable, even in cases of inclement weather. Void if altered. Strictly no outside food or beverages permitted inside Singapore Oceanarium. Not valid during special events. Not to be used for marketing or promotional purposes. General terms and conditions, rules, and regulations of Singapore Oceanarium apply. Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and- conditions.html."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Pre-book in Manage Bookings website: https://managebookings.com"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Tickets are cancellable as long as they have not been redeemed or used. Once a ticket has been redeemed, it will no longer be eligible for cancellation or refund. Void if altered, tampered with, or damaged. Applicable for admission during regular park operating hours, but not valid during Exclusive Events. Regular Park operating hours are subject to change without prior notice. Hand stamp and ticket are required for same-day re-entry into Singapore Oceanarium. Please be mindful of your safety and belongings at all times, as we shall not be liable for any damage or loss that you may suffer arising from your use of Singapore Oceanarium, whether such damage or loss is caused by our negligence or otherwise. For the safety of all our guests, team members, and marine animals, bags are subject to inspection before entry. You acknowledge that failure to follow posted guidelines may result in serious injury or expulsion from Singapore Oceanarium. Any resale of tickets/vouchers is strictly prohibited unless authorized in writing by Us and We reserve the right to invalidate tickets/vouchers in connection with any fraudulent/unauthorized resale transaction, without refund or other compensation. Tickets/Vouchers only allows for a one (1) - time use only. If it is determined by Us that there are multiple copies/usages of the ticket, usage of the ticket will be denied. In the event of any dispute, a final decision shall be made based on our electronic record. Other Terms and Conditions apply. By entering Singapore Oceanarium, and/or purchasing tickets to the stated Attraction, you agree to the above terms and conditions"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1x Singapore Oceanarium Admission Ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1 x $5 Retail Voucher (Min spend $50. Redeemable at Tidal Trove and Singapore Oceanarium Store in Singapore Oceanarium. Not applicable for promotional items. Product exclusions apply. One voucher per transaction.)​"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The ticket is valid for entry for 7 days starting from the selected visit date. Each guest should scan his or her unique QR code at the entrance. Singapore Oceanarium admission ticket is valid for re-entry only on the same date of visit. Please obtain a re-entry handstamp and keep your admission ticket.   Tickets and vouchers are non-transferable, not for sale, or exchange.  Non-refundable, even in cases of inclement weather.  Void if altered.  Strictly no outside food or beverages permitted inside the Singapore Oceanarium.  Not valid during special events.  Not to be used for marketing or promotional purposes.   Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and-conditions.html."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Singapore Oceanarium +  Dolphin Observer [Non-Peak] - English"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Programme is exclusively reserved for guests with friends or family participating in the Dolphin Immersion, Exploration or Connection programmes. Please note tha dolphin observer cannot be purchase without other dolphin programmes Dolphin Observer tickets cannot be purchased without other Dolphin programmes Children of all ages may participate as observers. Additional Requirements where participants are aged below 13 years of age: v- Children below 13 years of age must be always accompanied by a paying adult participant (21 years old and above); Maximum supervisory ratio of 3 children to 1 adult (21 years of age or older). Participants entering from Singapore Oceanarium are advised to enter the park 60 minutes prior to their programme. No animal interaction is included in this programme. Photography and videography are not allowed. Guests are not allowed to bring in their belongings such as handphones and wallets, or wear jewellery and other accessories. Small lockers will be provided. All programmes are weather permitting, and subject to change by Resorts World Sentosa in its sole and absolute discretion. No outside food and beverages are allowed within Singapore Oceanarium and Marine Mammal Habitat. Other general terms and conditions, park rules, and regulations of Singapore Oceanarium and Marine Mammal Habitat apply. Guests who do not meet the terms and conditions of the programme may be refused entry. When more than 1 (one) QR code ticket is purchased, each guest should scan their respective unique QR code at the entrance. Not to be used for marketing or promotional purposes. Admin fees will apply for rescheduling. All rescheduling is subject to availability. Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and-conditions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Singapore Oceanarium + Dolphin Exploration [Non-Peak] - English"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Suitable for children under 4 years old with an accompanying paying adult. No minimum age or height requirement to participate. Adult-Child supervisory ratio for participants aged below 13: v- Children Child must always be accompanied by a paying adult participant (above 21 years of age); and Maximum of 3 children to 1 adult (above 21 years of age). Check in will open 30 minutes prior to the programme start time at Marine Mammal Habitat counter located inside Singapore Oceanarium and will close 10 minutes after the programme start time. Participants who arrive after the cut-off time may be refused entry. Participants entering through Singapore Oceanarium are advised to enter the aquarium 60 minutes prior to their programme. All programmes are weather-permitting, and subject to change by Resorts World Sentosa in its sole and absolute discretion. Larger groups may be split into smaller groups for a better experience. Participants are not allowed to bring in their belongings, such as handphones and wallets, or wear jewellery and other accessories. Small lockers will be provided. Photography and videography are not allowed. An official photographer will be available onsite to capture the experience. Separate fees apply for the purchase of photographs. All programmes are weather-permitting and subject to change by Resorts World Sentosa in its sole and absolute discretion. No outside food and beverages are allowed within Singapore Oceanarium and Marine Mammal Habitat. Other general terms and conditions, rules, and regulations of Singapore Oceanarium and Marine Mammal Habitat apply. Participants who do not meet the terms and conditions of the programme may be refused entry. Admin fees will apply for any rescheduling within the following time frames: v- Reservations for 1-6 pax: Any rescheduling request made within 72 hours of programme date/time will be subject to a S$20 admin fee per ticket. v- Reservations for 7 pax and above: Any rescheduling request made within 2 weeks of programme date/time will be subject to a S$20 admin fee per ticket. All rescheduling is subject to availability. When more than 1 (one) QR code ticket is purchased, each guest should scan their respective unique QR code at the entrance. Not to be used for marketing or promotional purposes. Strictly no cancellations or refunds. No-shows will be charged 100% of the programme fee. All participants are required to complete a release and indemnity form for the programme at Marine Mammal Habitat. Participants below 18 years of age must have a parent or legal guardian over 18 sign. Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and-conditions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1x Singapore Oceanarium Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1x Adventure Cove Waterpark"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1x Universal Studios Singapore Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the Gantry of each attraction"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: This ticket is valid for use 7 days from your selected start date. Re-entry is not allowed after you leave Universal Studios Singapore. When more than 1 (one) QR code ticket is purchased, each guest should scan their respective unique QR code at the entrance. Universal Studios Singapore admission is not valid for re-entry. Singapore Oceanarium admission ticket is valid for re-entry only on the same date of visit. Please obtain a re-entry handstamp and keep your admission ticket.   Adventure Cove Waterpark is valid for re-entry on the same date of visit. Please obtain a re-entry handstamp and keep your admission ticket. Regular park operating hours are subject to change without prior notice. Tickets and vouchers are non-transferable, not for sale, or exchange.  Non-refundable, even in cases of inclement weather.  Void if altered.  Strictly no outside food or beverages permitted.  Not valid during special events.  Not to be used for marketing or promotional purposes.   Please see details and other important terms and conditions at www.rwsentosa.com/attractions-terms. Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and-conditions.html."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Minimum age requirement: 4 years old Minimum height requirement: 110cm Additional requirements where participants are aged 4-12 years of age: Children must always be accompanied in the water by a paying adult participant (above 21 years of age); and Maximum supervisory ratio of 3 children to 1 adult (above 21 years of age). Participants must be in swimming attire and footwear upon arrival at Marine Mammal Habitat. Wetsuits will be provided. Program is suitable for non-swimmers. Check in will open 30 minutes prior to the program start time at the Marine Mammal Habitat counter located inside Singapore Oceanarium and will close 10 minutes after the program start time. Participants who arrive after the cut off time may be refused entry. Participants entering from Singapore Oceanarium are advised to arrive at the aquarium 60 minutes prior to their program. All programmes are weather permitting, and subject to change by Resorts World Sentosa in its sole and absolute discretion. Large groups may be split into smaller groups for a better experience. Participants are not allowed to bring in their belongings such as handphones and wallets, or wear jewelry and other accessories. Small lockers will be provided. Photography and videography are not allowed. An official photographer will be available onsite to capture the experience. Separate fees apply for purchase of photographs. No outside food and beverages are allowed within Singapore Oceanarium and Marine Mammal Habitat. Other general terms and conditions, rules, and regulations of Singapore Oceanarium and Marine Mammal Habitat apply. Participants who do not meet the terms and conditions of the program may be refused entry. Admin fees apply for all rescheduling done within the following periods: Reservations for 1-8 pax: Any rescheduling request made within 72 hours of program date/time will be subject to a S$30 admin fee per ticket. Reservations for 9pax and above: Any rescheduling request made within 2 weeks of program date/time will be subject to a S$30 admin fee per ticket. All rescheduling is subject to availability. When more than 1 (one) QR code ticket is purchased, each guest should scan their respective unique QR code at the entrance. Not to be used for marketing or promotional purposes. Strictly no cancellations or refunds. No shows will be charged 100% of the program fee. All participants are required to complete a release and indemnity form for the programme at Marine Mammal Habitat. Participants below 18 years of age must have a parent or legal guardian over 18 sign. Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and-conditions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Singapore Oceanarium + Dolphin Connection [Non-Peak] - English"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Participants must be 13 years old and above. Program is suitable for confident swimmers. Participants are required to be in swimming attire and footwear to enter. Wetsuits will be provided. Personal wetsuits will not be allowed for use. Life jackets, fins, masks and snorkels will be provided. Participants may choose to bring their own mask, snorkel and fins. Check in will open 30 minutes prior to the program start time at Marine Mammal Habitat counter located inside Singapore Oceanarium and will close 10 minutes after the program start time. Participants who arrive after the cut off time may be refused entry. Participants entering from Singapore Oceanarium are advised to arrive at the aquarium 60 minutes prior to their program. All programmes are weather permitting and subject to change by Resorts World Sentosa in its sole and absolute discretion. Larger groups may be split into smaller groups for a better experience. Participants are not allowed to bring in their belongings such as handphones or wallets, or wear jewelry and other accessories. Small lockers will be provided. Photography and videography are not allowed. An official photographer will be available onsite to capture the experience. Separate fees apply for purchase of photographs. No outside food and beverages are allowed within Singapore Oceanarium and Marine Mammal Habitat. Other general terms and conditions, rules, and regulations of Singapore Oceanarium and Marine Mammal Habitat apply. Participants who do not meet the terms and conditions of the program may be refused entry. Admin fee applies for all rescheduling done within the following periods: Reservations for 1-8 pax: Any rescheduling request made within 72 hours of program date/time will be subject to a S$30 admin fee per ticket. Reservations for 9 pax and above: Any rescheduling request made within 2 weeks of program date/time will be subject to a S$30 admin fee per ticket. All rescheduling is subject to availability. When more than 1 (one) QR code ticket is purchased, each guest should scan their respective unique QR code at the entrance. Not to be used for marketing or promotional purposes. Strictly no cancellations or refunds. No shows will be charged 100% of the program fee. All participants are required to complete a release and indemnity form for the programme at Marine Mammal Habitat. Participants below 18 years of age must have a parent or legal guardian over 18 sign. Please see details and other important terms and conditions at https://www.singaporeoceanarium.com/en/ticketing-terms-and-conditions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Singapore Oceanarium"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Dolphin Immersion Private Group Experience"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket (Dated)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 146
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 121
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 121
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "[OTA] Universal Studios Singapore + Singapore Oceanarium + Free SGD 5 Meal and Retail Vouchers  [7 Day Validity from Selected Date] [Non Peak]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 356
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 325
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "[OTA] Universal Studios Singapore + Singapore Oceanarium + Free SGD 5 Meal and Retail Vouchers [7 Day Validity from Selected Date] [Peak]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 377
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 325
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "$5 SGO Retail Voucher (Min Spend $50)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 9
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "$10 SGO Meal Voucher (No Min Spend)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 32
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Animal Spotlight: Seahorses Programme [English]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 79
+              }
+            },
+            {
+              "id": "option-6-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 79
+              }
+            },
+            {
+              "id": "option-6-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 79
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket (Open Dated)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 146
+              }
+            },
+            {
+              "id": "option-7-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 121
+              }
+            },
+            {
+              "id": "option-7-senior",
+              "title": "Senior (60–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 121
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-8",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket + Free SGD 5 Meal and Retail Vouchers [7 Day Validity from Selected Date]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-8-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 146
+              }
+            },
+            {
+              "id": "option-8-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 121
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-9",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Oceanarium +  Dolphin Observer"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-9-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 231
+              }
+            },
+            {
+              "id": "option-9-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 197
+              }
+            },
+            {
+              "id": "option-9-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 197
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-10",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Oceanarium + Dolphin Exploration - English"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-10-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 292
+              }
+            },
+            {
+              "id": "option-10-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 267
+              }
+            },
+            {
+              "id": "option-10-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 267
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-11",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Multipark Promotion [USS, SGO, ACW] - Peak"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-11-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 417
+              }
+            },
+            {
+              "id": "option-11-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 376
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-12",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Multipark Promotion [USS, SGO, ACW] - Non Peak"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-12-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 404
+              }
+            },
+            {
+              "id": "option-12-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 376
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-13",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Oceanarium +  Dolphin Immersion - English"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-13-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 463
+              }
+            },
+            {
+              "id": "option-13-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 429
+              }
+            },
+            {
+              "id": "option-13-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 429
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-14",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Oceanarium + Dolphin Connection - English"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-14-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 542
+              }
+            },
+            {
+              "id": "option-14-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 517
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-15",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Oceanarium +  Dolphin Immersion Private Group Experience - English"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-oceanarium"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-15-per-pax",
+              "title": "Per Pax (4–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 3532
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3128/DSP/3128_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Oceanarium"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Resorts World Sentosa"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

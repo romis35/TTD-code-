@@ -1,0 +1,328 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300555
+  },
+  "products": [
+    {
+      "id": "product-523",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Tech Dome Penang"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Tech Dome Penang is an initiative by the Penang State Government to create a hub for technology learning and exchange of ideas. It will be a vehicle for improving scientific literacy and technology ability in Malaysia. Located at the geodesic dome of KOMTAR just adjacent to the George Town UNESCO World Heritage Site in Penang, visitors will discover the exciting world of technology and how they work by exploring the world-class exhibits in its galleries. Regular programs will be conducted for schools, colleges and families that are specially designed to cultivate the spirit of inquiry and teach children and teenagers the skills required to thrive in a high-tech, knowledge-based future."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "A not-for-profit science and technology center, offers an exciting array of exhibits and experiences for visitors."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "STEM Showcase 2024: Tech Dome Penang is proud to present the much-anticipated event of the year – the STEM Showcase."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mini Penang: Within the museum, you’ll find Mini Penang, a charming display where miniature bears are dressed and placed in small sets."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Photo Opportunities: Capture memorable moments with life-sized teddy bears in whimsical settings."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Main Galleries"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Life Tech takes a walk through the sciences on how our body works and technologies that maintain human health. From nutrients to diagnostic systems, to technologies in an operating theatre, the visitor will gain an appreciation of the many levels, technologies and people that work together to keep people healthy!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Forces & Motion lets you experience the physical branch of science. From gravity to momentum, to kinetics and dynamics, visitors will be able to learn Newton's laws of motion through a full-body experience!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Electromagnetism tells the love story between electricity and magnetism. Visitors will learn about the flow of electrons, experience magnetic attraction and repulsion, and see magnetic fields with their very own eyes. Be careful as you may see sparks fly!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Robotics pulls a robot apart into its various components for you to appreciate how they function. Visitors will have the chance to play and tinker with robots and understand how robots think, sense and act."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Information Technology celebrates the humble sand and its place in modern technology. Integrated circuits together with other electronic components are now a cornerstone of modern day devices and appliances. Visitors will learn how electronic components are made and how they \"talk\" with each other to perform functions in our electronic devices."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Optics will demonstrate the unique characteristics of different types of light. Visitors will learn how different types of light can be used, experience how each light influences human perception, and understand the chemistry of creating light and why we use energy-efficient lighting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Tech Dome Penang official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather: Indoor attraction with no wet weather restrictions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Tech Dome Penang is wheelchair friendly with a wheelchair friendly toilet and elevators to bring guests up to the Mezzanine floor."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to Tech Dome"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Children aged between 0-4 can enter for free Children aged 13 and above will be charged as adult price Storage areas are available at the venue. Please contact staff on site for rates This activity is stroller and wheelchair-accessible"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation till validity ends."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "General Admission Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/penang/tech-dome-penang"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "museums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJyX0l5q9DzDER3l7k9m2n5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 24
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 15
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/523/DSP/523_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Tech Dome Penang"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Tech Dome Penang"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJyX0l5q9DzDER3l7k9m2n5Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

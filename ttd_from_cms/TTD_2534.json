@@ -1,0 +1,273 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300566
+  },
+  "products": [
+    {
+      "id": "product-2534",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Dino Desert Entry Ticket"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Step into a prehistoric world at Dino Desert, an exciting attraction that combines the thrill of exploration with the wonder of dinosaurs. Set against a dramatic desert landscape, this immersive experience lets you wander through life-sized dinosaur replicas, interactive exhibits, and themed activities that transport you back to the age of these ancient giants.Discover fascinating facts about the creatures that once roamed the earth, take part in fossil-digging adventures, or embark on thrilling jeep rides through the rugged terrain. Perfect for families, friends, and dinosaur enthusiasts, Dino Desert offers an unforgettable blend of fun, education, and excitement."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Thrilling prehistoric theme transports visitors back to the age of dinosaurs"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience majestic cliffs and panoramic views in a Jurassic setting"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Embark on an unforgettable adventure at Dino Desert's prehistoric paradise"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dino Desert offers an exciting blend of history and adventure"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Journey through time to when dinosaurs roamed the earth"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Embark on an unforgettable adventure at Dino Desert, where majestic cliffs, and panoramic views collide with a thrilling prehistoric theme Jurassic age. Journey back in time when dinosaurs roam in Dino Desert now."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Bring a camera or smartphone to capture the incredible dinosaur replicas and scenic desert backdrops"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Parts of the attraction may be outdoors; bring sunscreen, a hat, and water to stay hydrated in sunny weather."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wear comfortable clothing and footwear suitable for walking or exploring rugged terrains. Hats and sunglasses are recommended for outdoor areas"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Follow all safety guidelines, especially in interactive zones or during vehicle rides. Children should be supervised at all times."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to: Dino Dessert Day Pass"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Enter the venue directly with your voucher"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Free for children aged 0-1 years old Children aged 2-12 years old must be accompanied by a paying adult Children aged 13-59 years old will be charged the same rate as adults Accessible to all age groups Children below 12 years old must be accompanied by an adult and should be monitored at all times. We will not be held responsible for any incident due to guest's neligence Free admission for Children ages below 2 years old. MyKid card must be presented to validate the free admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Day Pass Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/selangor/dino-desert-entry-ticket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER5n2p8k4l7Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 55
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2534/DSP/2534_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dino Desert Entry Ticket"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Monkeys Canopy"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJg4k6mJ1JzDER5n2p8k4l7Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

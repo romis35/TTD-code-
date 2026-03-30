@@ -1,0 +1,468 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300539
+  },
+  "products": [
+    {
+      "id": "product-207",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Singapore Zoo"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Get closer to the wild than you&rsquo;ve ever imagined with this Ultimate Wildlife Experience!. World renowned for our open concept, enjoy unparalleled views of our animals as they roam around their lush habitats. See them walk right up to you, and be among them when you step into our walk-through biodome. Enjoy our award-winning Jungle Breakfast with Wildlife as you dine with our adorable orang utans, and be entertained by our exciting and interactive animal shows! Our wildlife wonderland is home to over 2,800 animals and they can&rsquo;t wait to meet you!"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KidzWorld: Home of the Ranger Buddies - meet the world smallest horse breed, the Falabella at Animal Land."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Fragile Forest: Step into this 20,000 cubic meter biodome that mimics a tropical rainforest habitat."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "RepTopia: Encounter captivating reptiles such as the Bearded Dragon, Dyeing Poison Frog and the Panther Chameleon."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Activities:"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Feed the Animals: Catch our animals when they’re most active — during feeding sessions!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Wildlife Experiences: Make your visit extra wild! Go behind-the-scenes and get closer to our wildlife!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Keeper Talk: Learn more about our wildlife from the people who know best — the keepers! Hear interesting quirks of the animals and get a chance to feed some of them yourselves."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Presentations: Catch our presentations to witness the amazing talents of our animals alongside their trainers."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- For Kids: A multitude of fun activities awaits kids! From a water playground for a splashing good time, close encounters with farmyard animals, to a wild carousel ride, and many more!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Unique Dining Experience: Start your day well with this iconic dining experience designed to inspire a love for wildlife and delight your senses!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Singapore Zoo's official website for any updates"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Wheelchair, stroller, and electric scooters accessible."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Once you received the ticket, please secure your preferred date and timeslot in advance before visiting our parks from the below link https://reseller.mandai.com/ticketstore/GuestBookTimeslot"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please arrive no later than 45 minutes from above selected time. If the park’s capacity has been reached, you may be required to wait till there is availability"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Upon confirmation of date/time via the link, there is no change of timeslot upon e-ticket with barcode being issued."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: To increase the supply of taxis to our parks during peak hours, a $5 surcharge is applicable to all hired taxis departing from Mandai Wildlife Reserve from 1:00pm to 11:59pm daily. A child is defined as a person between 3 to 12 years of age for the purpose of determining whether an admission ticket to a WRS Park is required. Children below 3 years old may enter the WRS Parks for free, subject to WRS’ satisfactory verification. A senior is defined as a person at 60 years of age and above for the purpose of determining whether an admission ticket to a WRS Park is required. All TA Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Singapore Zoo Admission ticket(s)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Tram Ride"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Valid for one entry only. To increase the supply of taxis to our parks during peak hours, a $5 surcharge is applicable to all hired taxis departing from Mandai Wildlife Reserve from 1:00pm to 11:59pm daily. A child is defined as a person between 3 to 12 years of age for the purpose of determining whether an admission ticket to a Mandai Wildlife Group (MWG) Park is required. Children below 3 years old may enter the Mandai Wildlife Group (MWG) Parks for free, subject to Mandai Wildlife Group (MWG)’ satisfactory verification. A senior is defined as a person at 60 years of age and above for the purpose of determining whether an admission ticket to a Mandai Wildlife Group (MWG) Park is required. All TA Admission Tickets are subject to Mandai Wildlife Group (MWG) Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at voucher holder's own risk. Mandai Wildlife Group (MWG) will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. Mandai Wildlife Group (MWG) may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, Mandai Wildlife Group (MWG) electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: To increase the supply of taxis to our parks during peak hours, a $5 surcharge is applicable to all hired taxis departing from Mandai Wildlife Reserve from 1:00pm to 11:59pm daily. A child is defined as a person between 3 to 12 years of age for the purpose of determining whether an admission ticket to a WRS Park is required. Children below 3 years old may enter the WRS Parks for free, subject to WRS’ satisfactory verification. A senior is defined as a person at 60 years of age and above for the purpose of determining whether an admission ticket to a WRS Park is required. All TA Local Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "[Open Dated] Singapore Zoo - Tourist Admission with Tram Ride"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-zoo"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER3p8n2l4k7Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 151
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 105
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "[Dated] Singapore Zoo - Tourist Admission with Tram Ride - Direct Entry"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-zoo"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER3p8n2l4k7Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 151
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 105
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "[Open Dated] Singapore Zoo - Local Residence Admission with Tram Ride"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-zoo"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER3p8n2l4k7Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 151
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 105
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/207/DSP/207_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Zoo"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Mandai Wildlife Group (MWG)"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJr0l5d5AZ2jER3p8n2l4k7Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

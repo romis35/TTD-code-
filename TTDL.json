@@ -1,0 +1,456 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603271944
+  },
+  "products": [
+    {
+      "id": "product-9",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Lost World Of Tambun Ipoh"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Make your Malaysia trip extra memorable at Sunway Lost World of Tambun Amusement and Water Park! Enter Malaysia's premier family destination and explore its themed areas and over 80 attractions. Begin your trip by going to the Lost World Water Park, featuring the country's biggest wave pool, Jungle Wave Bay, and the longest man-made river, Adventure River. Experience a thrilling ride on the two water slides in the park, the Cliff Racer and Tube Raider! Don't miss out on the Kids Explorabay with your little ones."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 8638
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "88 Attractions 10 Parks: The park is cocooned by lush tropical jungle, natural hot springs, and 400 million-year-old limestone hills."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "123 Animal Species: The park is home to 123 different species of animals."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Natural Hot Springs: The park is the only theme park in Southeast Asia with natural hot springs."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Water Park, Amusement Park, Petting Zoo, Tiger Valley, Tin Valley, Hot Springs & Spa: These are some of the main attractions within the park."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hotspring Night Park: Experience the magical ambiance of the park as it transforms into a haven of relaxation and tranquility at night."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Theme Parks"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Water Park: Within the dense heat of our ancient rain-forest lies the wonderful Lost World Water Park where you can cool off with endless wet and wild fun! There are thrills and spills for one and all, young and old."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Amusement Park: If you prefer to be on dry land, head off to our Lost World Amusement Park! But remember, you may be dry but you may not always be on land. Come soar and fly. Get that speedy rush on our thrilling rides. There’s fun to be had by one and all!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Tin Valley: Tin mining is one of the oldest industries in Malaya and Ipoh “The City that Tin Built”, became the meeting point and commercial center of the Kinta Valley. Lost World Tin Valley aims to educate today’s generation in the rich heritage of tin mining in Ipoh. Hence the latest attraction in the form of a Tin Mining area which is equipped with a life-sized palung (sluice box), an original gravel pump monitor and a large area for young visitors to experience “Dulang Washing”(Tin Ore Panning) just like the good old days. Visitors can also learn about the history of tin mining and see real artefact from the past at our Galleria."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Tiger Valley: Tigers are the largest of all wild cats and are renowned for their power and strength. Get up close and personal with our very own Siberian Tigers at Lost World Tiger Valley. Watch as our trained rangers conduct feeding time for these great cats and be amazed by their agility, strength and power."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Petting Zoo: Discover the wonders of Lost World Petting Zoo, our haven of animals from 55 species. The Malaysia zoo is truly an adventure and an immersive educational experience."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Adventure Park: Packed with adrenaline-filled thrills, this is the perfect place for any company to get the best out of their people. They will each learn to work as a team and even to lead. All round fun yet competitive exercises that will encourage team spirit!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Lost World Of Tabun official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Minimum height requirements apply for selected rides. Please read and observe these and other physical requirements."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Guests are required to comply with all safety rules and regulations displayed at each attraction/ride."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Children 12 years of age and below must be accompanied by a competent person aged 18 years and above."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Guests are encouraged to wear appropriate swimming attire to enjoy the pools at all times for safety and hygiene purposes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Appropriate swimming attire with Lycra or Nylon material are encouraged (these are the non-absorbent material which is suitable for swimming)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Please comply with the dress code displayed at the relevant areas of the park, including those relating to swimwear."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Baby strollers, wheelchairs and push cars are available for rent inside the park."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian - Lost World Hot Springs Night Park Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult",
+              "price": {
+                "currency_code": "MYR",
+                "units": 90
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysia MyKad Holder - Lost World Hot Springs Night Park Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult",
+              "price": {
+                "currency_code": "MYR",
+                "units": 74
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian - Lost World Of Tambun Entrance Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult",
+              "price": {
+                "currency_code": "MYR",
+                "units": 140
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysia MyKad Holder - Lost World Of Tambun Entrance Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult",
+              "price": {
+                "currency_code": "MYR",
+                "units": 95
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/406/DSP/406_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {}
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Lost World Of Tambun Ipoh"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

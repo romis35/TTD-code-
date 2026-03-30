@@ -1,0 +1,251 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300611
+  },
+  "products": [
+    {
+      "id": "product-379",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Laketown Waterpark"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Splashing fun times at Laketown Waterpark. Straddling an area of 11 acres, it is one of the largest in the northern region of Peninsular Malaysia."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore great times if you're here to play, stay, eat or even work at our endless offers of facilities from the Laketown Waterpark"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Straddling an area of 11 acres, it is one of the largest in the northern region of Peninsular Malaysia"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy the stunning views of a 7,000-acre lake encircled by lush forest greenery."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Bukit Merah Laketown Resort's Laketown Waterpark has 14 attractions in the park including :&nbsp;Family Splash Adventure&nbsp;Racer Slides&nbsp;Crazee Cone&nbsp;Boomerang&nbsp;Giant Wet Bubble&nbsp;Sandy Beachfront Wave Pool&nbsp;Water Speed Slides&nbsp;Body Slides&nbsp;Giant Tube Rides&nbsp;Activity Pool&nbsp;Lazy River&nbsp;Kids Adventure River&nbsp;Jumbo Shower&nbsp;Water Pillar"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Laketown Waterpark official website for any updates of operation hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: For age, height or any restrictions for the slides in the park, please kindly visit Laketown Waterpark official website for more information."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather: In the event of severe weather conditions, it may become necessary to temporarily close the pools and attractions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Appropriate swimwear is recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Laketown Warterpark Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Tickets are valid for 90 days from the date of purchase. Due to safety regulations, the maximum capacity for Bukit Merah Laketown Waterpark is 1,500 people. Please arrive at least one hour before opening time to help secure admission on weekends and public holidays.Eligibility Child rates apply to children above 90 cm in height or aged 12 years old and below. Children below 90 cm are entitled to free admission. An identification card for age verification must be presented at the attraction when purchasing Child tickets.Attraction Access Admission is subject to daily capacity limits in accordance with safety regulations.Additional Information Rates and operating hours are subject to change or cancellation without prior notice.Important Notes Please plan your visit early, especially during peak periods such as weekends and public holidays, to avoid disappointment."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation till validity ends."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Waterpark Standard Admission Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/perak/laketown-waterpark"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "water-parks"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJk7p3x2sxzDER4m9k1l8n5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–100 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 24
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 20
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/379/DSP/379_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Laketown Waterpark"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Bukit Merah Resort Sdn Bhd"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJk7p3x2sxzDER4m9k1l8n5Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

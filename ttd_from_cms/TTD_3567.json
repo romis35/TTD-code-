@@ -1,0 +1,681 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300599
+  },
+  "products": [
+    {
+      "id": "product-3567",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Langkawi Mangrove & Island Hopping Tours"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Discover the very best of Langkawi in one value-packed experience! This island hopping &amp; mangrove tour is one of the best, cheapest, and most safety-focused packages available on redBus which is perfect for travelers who want to explore more while spending less.Journey through Langkawi’s breathtaking highlands and uncover the island’s hidden gems, then cruise into the heart of its enchanting mangrove forests. From dramatic landscapes and lush greenery to serene waterways and unique wildlife, this tour brings you deep into the natural beauty of Langkawi Island."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Covers two must-do experiences in one affordable packages"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "One island, two iconic experiences, and unbeatable value"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "This package is priced to be extremely affordable, making it a smart choice to purchase both experiences together instead of separately."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Professional guides and operators with strong safety precautions"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy a scenic boat ride across Langkawi’s crystal-clear waters with stunning views of surrounding islands.Visit multiple iconic islands, including stops for photo-taking, sightseeing, and light exploration (subject to sea and weather conditions).Experience Langkawi’s natural beauty up close, from limestone formations to lush greenery and open sea views.Relax and enjoy the ride with experienced boat operators who prioritize safety and comfort.Learn interesting facts and local insights shared by the guide during the tour."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mangrove Tour boarding location: Kampung Kilim, Mukim Air Hangat, 07000 Langkawi, Kedah, Darul Aman."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The tour duration may vary depending on weather, sea conditions, and operational factors."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Suitable for families, couples, and groups looking for a short, enjoyable island adventure."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Island Hopping boarding location: Jeti Nelayan Teluk Baru , Jalan Pantai Tengah , Jeti Teluk Baru, 07000 Langkawi"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Please note that Highland Hopping and Mangrove Tour are operated from different locations.Guests must check their booking confirmation to identify the exact BP"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Round Trip Shared Transfer"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Island Hopping tour as per selected package"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Safety briefing prior to departure"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Life jacket for each participant"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Meet Up location: Jeti Nelayan Teluk Baru , Jalan Pantai Tengah , Jeti Teluk Baru, 07000 Langkawi"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: All bookings are confirmed upon successful payment. Guests are responsible for ensuring that all booking details (travel date, time slot, and participant information) are accurate at the time of purchase. All confirmed bookings are strictly non-refundable, including but not limited to cancellations, no-shows, late arrivals, or changes of mind. This policy applies to all payment methods and promotional bookings. Please note that Highland Hopping and Mangrove Tour are operated from different locations.Guests must check their booking confirmation to identify the exact boarding point for each activity. Island Hopping boarding location: Jeti Nelayan Teluk Baru , Jalan Pantai Tengah , Jeti Teluk Baru, 07000 Langkawi Guests must arrive at least 30 minutes before the scheduled departure time for check-in and safety briefing. Late arrivals may be denied boarding and will not be eligible for refunds or rescheduling. Children must be accompanied by a paying adult at all times during the tour. Guests must be in a suitable physical condition to participate in the activities. The operator reserves the right to deny participation if a guest is deemed unfit for safety reasons. All participants must follow instructions given by the tour guide or crew at all times. The operator reserves the right to remove any participant who poses a safety risk or disrupts the tour, without refund. The operator shall not be held liable for any loss, damage, injury, or delay caused by factors beyond reasonable control, including but not limited to weather conditions, wildlife behavior, sea conditions, or participant negligence. By purchasing this package, guests acknowledge and accept that each activity may operate independently, with separate timings, locations, and operational requirements, all of which will be provided in the booking confirmation."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Mangrove tour as per selected package"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Meet Up location: Kampung Kilim, Mukim Air Hangat, 07000 Langkawi, Kedah, Darul Aman."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: All bookings are confirmed upon successful payment. Guests are responsible for ensuring that all booking details (travel date, time slot, and participant information) are accurate at the time of purchase. All confirmed bookings are strictly non-refundable, including but not limited to cancellations, no-shows, late arrivals, or changes of mind. This policy applies to all payment methods and promotional bookings. Please note that Island Hopping and Mangrove Tour are operated from different locations. Guests must check their booking confirmation to identify the exact boarding point for each activity. Mangrove Tour boarding location: Kampung Kilim, Mukim Air Hangat, 07000 Langkawi, Kedah, Darul Aman. Guests must arrive at least 30 minutes before the scheduled departure time for check-in and safety briefing. Late arrivals may be denied boarding and will not be eligible for refunds or rescheduling. Children must be accompanied by a paying adult at all times during the tour. Guests must be in a suitable physical condition to participate in the activities. The operator reserves the right to deny participation if a guest is deemed unfit for safety reasons. All participants must follow instructions given by the tour guide or crew at all times. The operator reserves the right to remove any participant who poses a safety risk or disrupts the tour, without refund. The operator shall not be held liable for any loss, damage, injury, or delay caused by factors beyond reasonable control, including but not limited to weather conditions, wildlife behavior, sea conditions, or participant negligence. By purchasing this package, guests acknowledge and accept that each activity may operate independently, with separate timings, locations, and operational requirements, all of which will be provided in the booking confirmation."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Meet Up location: Meet Up location: Jeti Nelayan Teluk Baru , Jalan Pantai Tengah , Jeti Teluk Baru, 07000 Langkawi"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "{Shared} Island hopping Packages ( 3.5 Hours )"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-mangrove-island-hopping-tours"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 35
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 25
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "{Shared}Mangrove tour 240 minutes - 10 in 1 Packages"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-mangrove-island-hopping-tours"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 120
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "{Private} Mangrove tour 60 minutes -  4 in 1"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-mangrove-island-hopping-tours"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 250
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "{Private} Island hopping Packages - max for 8 Pax"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-mangrove-island-hopping-tours"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 300
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "{Private} Mangrove tour 120 minutes - 7 in 1"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-mangrove-island-hopping-tours"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 350
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "{Private} Island hopping Packages - max for 12 Pax"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-mangrove-island-hopping-tours"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 350
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "{Private} Mangrove tour 180 minutes - 8 in 1"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-mangrove-island-hopping-tours"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 450
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-8",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "{Private} Island hopping Packages - max for 10-16 Pax"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-mangrove-island-hopping-tours"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-8-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 450
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-9",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "{Private} Mangrove tour 240 minutes - 10 in 1"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-mangrove-island-hopping-tours"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "island-hopping"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-9-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 500
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3567/DSP/3567_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Langkawi Mangrove & Island Hopping Tours"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Ibibo Group Merchant"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

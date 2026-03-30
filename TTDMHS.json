@@ -1,0 +1,321 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603271069
+  },
+  "products": [
+    {
+      "id": "product-11",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Malaysia Heritage Studios in Melaka"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Welcome to Malaysia Heritage Studios, the pioneering magical heritage park in Malaysia! Immerse yourself in 13 captivating themes that brilliantly showcase the vibrant colors of Malaysia's rich heritage. Our unique experience transcends traditional museum learning, offering an enchanting journey through arts, architecture, nature, culture, history, and untold legends."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.2,
+        "rating_count": 420
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Walk through the corridors of time and witness history come alive."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Discover the magic woven into every detail as you embark on an enchanting adventure through the heart of Malaysia's cultural legacy."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Join us in celebrating Malaysia's heritage in a way that captures the imagination and touches the heart."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Step into a realm where arts, architecture, nature, culture, history, and untold legends converge in a mesmerizing and immersive experience."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Standard admission to Malaysia Heritage Studios."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cultural showcase: exhibits of Malaysia's heritage—traditional costumes, musical instruments, and artifacts across ethnic groups. Historical artifacts from ancient times through the colonial era and beyond."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cultural performances and ethnic studios dedicated to Malay, Chinese, Indian, and Indigenous communities, with craft workshops for batik, beaded jewelry, weaving, and more."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Guided heritage walks, a children's corner with games and storytelling, and a souvenir shop for handicrafts and cultural gifts."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Open daily Monday-Sunday, 10:00-18:00. Last admission is 1 hour before closing."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Tickets are valid for 90 days from purchase. Free cancellation until validity ends (per channel/vendor). Show your mobile voucher at the ticketing counter and exchange it for a physical ticket."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysian-rate tickets require MyKad. Ages: free for 0-3; child 4-12; adult 13-59; senior 60+. Wrong category may be refused entry. No outside food or drinks."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Only some areas are wheelchair- and stroller-friendly; others have stairs and steps. Photography may be restricted—follow staff and signage. Contact the venue if you need accessibility details."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Heritage Studio Ticket - Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/malaysia-heritage-studios-in-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "history"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJh7x4yplVzDER4s8k7n6p2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Heritage Studio Ticket - Non-Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/malaysia-heritage-studios-in-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "history"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJh7x4yplVzDER4s8k7n6p2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 67
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 53
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 53
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3132/DSP/3132_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysia Heritage Studios in Melaka"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Malaysia Heritage Studio"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJh7x4yplVzDER4s8k7n6p2lQ"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

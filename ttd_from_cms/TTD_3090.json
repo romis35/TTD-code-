@@ -1,0 +1,423 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300622
+  },
+  "products": [
+    {
+      "id": "product-3090",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Langkawi De Windmill Selfie Park"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Enjoy photo-shooting activity accompany  with brightly coloured windmill and paddy natural view. Surrounded by Langkawi Island's natural wonders, get lost in the grandeur of nature and clear your mind as you wander the park's sun-dappled trails."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Thousands of colorful pinwheels create a kaleidoscopic effect, adding to the park's charm."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The combination of natural beauty and artistic installations makes for a memorable visit."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ideal for capturing Instagram-worthy shots, the park's design encourages creative photography."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Capture Insta-worthy moments at Langkawi De’ Windmills Selfie Park, where colorful windmills and creative backdrops bring your photos to life!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather Considerations: Mostly outdoors, so plan around the weather."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Photo Gear: Bring your camera or fully charged phone for selfies."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Facilities: Limited amenities; nearby shops or cafes may not be available."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Vip Combo Entrance Ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 13 Sport Photo"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Langkawi Swing"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Maximum guest weight FOR LANGKAWI SWING is 95 KG Minimum guest height FOR LANGKAWI SWING is 140 CM ALL PHOTO ARE USING CUSTOMER OWN MOBILE PHOTO CAMERA Color for Dress Rental are subject of available when visit. No Cancelation & Refund After Booking. Pregnant ladies are not allowed to join."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Premium Combo Entrance Ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 13 Spot Photo"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Langkawi Swing + Dress + Umbrella"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Vip Combo Entrance Ticket + 13 Sport Photo + Langkawi Swing - Malaysian (MyKad)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-de-windmill-selfie-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4b1rjKZ3zDERv2Vn7Q0v4aA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (12–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 22
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–11 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Vip Combo Entrance Ticket + 13 Sport Photo + Langkawi Swing - International"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-de-windmill-selfie-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4b1rjKZ3zDERv2Vn7Q0v4aA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (12–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 34
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–11 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 20
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Premium Combo Entrance Ticket + 13 Spot Photo + Langkawi Swing + Dress + Umbrella - Malaysian (MyKad)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-de-windmill-selfie-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4b1rjKZ3zDERv2Vn7Q0v4aA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Premium Combo Entrance Ticket + 13 Spot Photo + Langkawi Swing + Dress + Umbrella - International"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/langkawi-de-windmill-selfie-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4b1rjKZ3zDERv2Vn7Q0v4aA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3090/DSP/3090_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Langkawi De Windmill Selfie Park"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Langkawi Adventure and Xtreme Park"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJ4b1rjKZ3zDERv2Vn7Q0v4aA"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

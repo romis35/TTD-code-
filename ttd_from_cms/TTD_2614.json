@@ -1,0 +1,243 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300546
+  },
+  "products": [
+    {
+      "id": "product-2614",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Museum Angkut"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Museum Angkut in Batu is a must-visit for both friends and families, especially for automotive enthusiasts. The museum displays an extensive collection of vehicles from different time periods. It's not just about the exhibits; visitors can also enjoy fun photo spots, including themed areas like Buckingham Palace and Gangster Town.Throughout the day, various exciting shows are offered, such as the Cars & Costume Parade and Vehicle Live Action, making the visit even more memorable."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Suitable for family vacationers and group travelers."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Museum Angkut is the first transportation museum in Southeast Asia, showcasing vehicles from various eras."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore unique photo spots like Buckingham Palace and Gangster Town."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy exciting shows like the Vehicle Live Action and Cars & Costume Parade."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Expect a fascinating journey through transportation history with unique vehicle exhibits, fun photo spots, and exciting live shows at Museum Angkut."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Arrival Time: Arriving early will give you more time to explore the various exhibits and enjoy the shows."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Comfortable Footwear: The museum is large, so wear comfortable shoes for walking."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Themed Photo Spots: Don’t miss the iconic photo spots like Buckingham Palace and Gangster Town."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Tiket Museum Angkut All Day"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: This ticket is valid on selected date Tickets that have been purchased cannot be rescheduled. Purchased tickets are non-refundable unless otherwise stated. Not allowed to bring food & drinks. Not allowed to bring pets. Wristband tickets must be worn at all times. Children with a height above 85 cm will be charged a full ticket price. Children with a height below 85 cm are free to enter."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Tiket Museum Angkut All Day"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/malang/museum-angkut"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "museums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy8k2l6wzUDAR8m2n7k5p4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 25
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2614/DSP/2614_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Museum Angkut"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Tiket.com"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJy8k2l6wzUDAR8m2n7k5p4Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

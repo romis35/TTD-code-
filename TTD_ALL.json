@@ -1,0 +1,5947 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603271945
+  },
+  "products": [
+    {
+      "id": "fun-island-hopping-jet-ski-langkawi",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Fun Island Hopping by Jet Ski"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "<p>All our tours will start with a meet and greet by Mega Water Sports personnel at the arrival point and proceed to the Operations Beach Cabin located at Pantai Cenang, for the pre tour preparations. A safety briefing and jet ski operating procedure training will be provided by your assigned jet ski instructor guides. During this time, you will be required to pay careful attention to all instructions and safety procedures as Mega Water Sports adheres to strict safety rules.<br>Participants will be assigned to their respective SeaDoo jet ski, assisted by our Water Attendants; follow their cue, before you proceed to gather with your group and your JetSki Instructor Guide. Tour commences.<br>Fun and thrilling 2 hours island hopping tour customised for those seeking a short Jetski excursion to the islands not far away from the main Langkawi island. Watch some eagles at Singa Besar Island, stop by the famous beach island, Beras Basah and swim at a secluded island known as Intan Kecil island. Also great for those pressed for time but would not want to miss out on a jet ski island adventure!<br>Your tour guide will not only take care of your safety but they will provide commentaries of nature aspects and interesting legendary storytellings.</p>"
+          }
+        ]
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "<p>Tours will start with a meet and greet by Mega Water Sports personnel at the arrival point and proceed to the Operations Beach Cabin located at Pantai Cenang.<br>A safety briefing and jet ski operating procedure training will be provided by your assigned jet ski instructor guides.<br>Your tour guide will not only take care of your safety but they will provide commentaries of nature aspects and interesting legendary storytellings.</p>"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "<p>Minimum child age for this tour is 5 years old. There must be an accompanying adult for each child below 16 years of age.<br>Maximum pax combined weight per jet ski is 180kg.<br>Our jet skis are fitted with Go Pro mountings if you would like to bring your own.<br>All guests are required to sign an indemnity form before the commencement of the tour.<br>All guests must be physically fit and to report any medical condition.</p>"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ride Alone: Tour Time: 9 am or 2 pm Tour Duration: 2 Hours Meeting Point: Mega Water Sports Beach Hut located at Cenang Beach Difficulty: Beginner"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "<p>Professional and experienced Tour Leader Guides<br>Safety briefing and brief training on usage of the jet ski<br>Low emission, environmentally friendly SeaDoo jet skis<br>Life jacket<br>Water boots<br>Dry bag</p>"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "<p>The ticket is valid only on the specified date and time.<br>Tours are subject to availability.<br>You are required to contact the reservation to reconfirm your request.<br>Pre-book before visiting: email faris@megawatersports.com or info@megawatersports.com</p>"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ride Alone — Meeting point: Mega Water Sports Beach Hut located at Cenang Beach"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ride Alone — Duration: 2 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ride With Passenger (Per Jet Ski): Tour Time: 9 am or 2 pm Tour Duration: 2 Hours Meeting Point: Mega Water Sports Beach Hut located at Cenang Beach Difficulty: Beginner Max. Occupancy: 2 Adults or 1 Adult + 1 Child"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "<p>Professional and experienced Tour Leader Guides<br>Safety briefing and brief training on usage of the jet ski<br>Low emission, environmentally friendly SeaDoo jet skis<br>Life jacket<br>Water boots<br>Dry bag</p>"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "<p>The ticket is valid only on the specified date and time.<br>Maximum occupancy is 2 adults or 1 adult + 1 child.<br>Tours are subject to availability.<br>You are required to contact the reservation to reconfirm your request.<br>Pre-book before visiting: email faris@megawatersports.com or info@megawatersports.com</p>"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ride With Passenger (Per Jet Ski) — Meeting point: Mega Water Sports Beach Hut located at Cenang Beach"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ride With Passenger (Per Jet Ski) — Duration: 2 hours"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "ride-alone",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ride Alone"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://your-website.com/fun-island-hopping-jet-ski?currency={currency}"
+          },
+          "cancellation_policy": {},
+          "option_categories": [],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "ride-alone-adult",
+              "title": "Adult",
+              "price": {
+                "currency_code": "MYR",
+                "units": 571
+              }
+            }
+          ]
+        },
+        {
+          "id": "ride-with-passenger",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ride With Passenger (Per Jet Ski)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://your-website.com/fun-island-hopping-jet-ski?currency={currency}"
+          },
+          "cancellation_policy": {},
+          "option_categories": [],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "ride-with-passenger-vehicle",
+              "title": "Per Vehicle",
+              "price": {
+                "currency_code": "MYR",
+                "units": 651
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/321/DSP/321_1.png",
+          "type": "MEDIA_TYPE_PHOTO"
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Mega Water Sports"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Mega Water Sports"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJ2b4hV6p3zDER1Zl7s9pQ7kA"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-2",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Melaka River Cruise"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Melaka River Cruise, Malaysia – Through Lights and Colours; Experience Melaka's rich and vibrant heritage's focal point – where the trading ships docked and the goods traded. Taking a Melaka River Cruise allows you to experience part of the history that goes back 600 years. Journey through the heart of the UNESCO heritage site giving you an exclusive riverscape view of the city. Best enjoyed in the evening, this river cruise promises a serene and captivating journey to the past."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.4,
+        "rating_count": 9800
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "A Different Perspective & Melaka's Modern Side"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The River That Flowed Through Time"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Historical Landmarks of Different Eras"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Melaka River Cruise is certainly a worthwhile trip for your visit to the historic city of Melaka. It is a river that is embedded in history and made this city a success in the first place. Popular with both local and international tourists, the journey is not difficult or strenuous, so it's something that the whole family can do, from kids to seniors."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wear light, breathable clothing suitable for warm and humid weather, as the cruise is mostly outdoors."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Opt for comfortable, flat shoes or sandals for easy boarding and disembarkation."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Bring a light jacket or shawl for the evening breeze during night cruises."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "This attraction/activity is subject to weather conditions."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "International - Non MyKad Holders"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/melaka-river-cruise"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "boat-tours"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJv5a6yJlVzDER6b0n2x5p8lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13-99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 50
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (2-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysian - with MyKad"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/melaka-river-cruise"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "boat-tours"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJv5a6yJlVzDER6b0n2x5p8lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13-99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 35
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (2-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 25
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/942/DSP/942_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Melaka River Photos"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Melaka River Cruise"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Melaka River Cruise"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJv5a6yJlVzDER6b0n2x5p8lQ"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-3",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Berjaya Times Square Theme Park"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Experience endless fun and excitement at Berjaya Times Square Theme Park, a world-class indoor amusement park located within one of Kuala Lumpur's largest shopping malls. Enjoy adrenaline-pumping rides like the Supersonic Odyssey suspended roller coaster and thrilling Go-Kart racing, alongside family-friendly attractions in the Kids' Zone with colorful rides and safe play areas. The Experience Pass offers unlimited access to rides and attractions, plus entertainment in the arcade filled with games for all ages. With flexible single- or multi-day passes, dining options, and shopping just steps away, it's the perfect destination for thrill-seekers, families, and friends looking for an action-packed day indoors."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.2,
+        "rating_count": 13500
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience heart-pounding excitement with a variety of thrilling rides at Berjaya Times Square Theme Park."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Challenge your friends and family to a thrilling race on our exhilarating Go-Kart track, where speed and skill will determine the victor."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "For the younger ones, the Kids' Zone offers a magical and enchanting experience."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Step into our Arcade section and discover a world of entertainment and gaming."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience endless fun at a world-class indoor amusement park in Berjaya Times Square, with rides for thrill-seekers and families. How to get there: take the KL Monorail to Imbi station, directly connected to Berjaya Times Square."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission to Berjaya Times Square Theme Park and amusement rides. Rides included: Supersonic Odyssey Roller Coaster, Robo Crash, Honey Bump, Molly-Cool's Swing, Crazy Bus, Botanic Drive, Flying Bumble Bee, Buddy Go Round, Fantasy Trail, Dizzy Izzy, Spinning Orbit, Ooorts' Express."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience heart-racing attractions like Supersonic Odyssey, Go-Kart racing, the Kids' Zone with Fantasy Garden, and the Arcade. Enjoy unlimited rides with flexible single- or multi-day passes. Located inside Berjaya Times Square mall with dining and shopping nearby."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Not included: transportation to the meet-up location, other personal expenses, insurance. Excludes Terry Carnival Games Level 5 and 7, Haunted House, Semico Battle, Winter Wonderland Snow Town, 7D Xperia, Combat Heroes, Arcade Games, and Go-Kart @ BTSKL."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Show your mobile ticket at the ticketing counter."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket is valid for one-time entry within the validity period. Invalid, redeemed, lost, or expired tickets will not be replaced. Malaysian tickets require MyKad/MyKid at redemption; a surcharge applies if not presented. Child below 3 years or below 90 cm height enters free. Height, weight, age, and medical restrictions apply per ride (see Guest Services)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operating hours and ride availability may change without notice; maintenance or closures may apply with no refund. Not recommended for certain medical conditions, pregnancy, or guests with impaired mobility. No jewelry or valuables on rides. Check the official website before your visit."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Free cancellation till validity ends (per vendor policy)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The theme park offers varying levels of accessibility for guests with disabilities."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Some rides have minimum height requirements for safety reasons."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Pregnant women are generally advised to avoid rides with intense movements or sudden drops."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wear light, breathable clothing and comfortable closed-toe shoes or sneakers. Avoid loose accessories, dangling jewelry, slippers, or high heels."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket (Malaysian)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/berjaya-times-square-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJZ5K2mJtJzDERZK6m4g6l9gQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 60
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 50
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket (Non Malaysian)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/berjaya-times-square-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJZ5K2mJtJzDERZK6m4g6l9gQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 86
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 71
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://berjayatimessquarethemeparkkl.com/wp-content/uploads/2023/05/BTSTP-VR2-website-banner-150-ppi-1-scaled.jpg",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Berjaya Times Square Theme Park"
+              }
+            ]
+          }
+        },
+        {
+          "url": "https://berjayatimessquarethemeparkkl.com/wp-content/uploads/2022/08/Frame-51.jpg",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Berjaya Times Square Theme Park"
+              }
+            ]
+          }
+        },
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/285/DSP/285_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Berjaya Times Square Theme Park"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Berjaya Times Square Theme Park"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Berjaya Times Square Theme Park"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJZ5K2mJtJzDERZK6m4g6l9gQ"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-4",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Dream Forest Langkawi"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "An Enchanting Rainforest Night WalkWhere legends come to lifeAs night falls, travellers are invited to enter the Dream Forest Book Portal and into the magical realm of Sang Gedembai, the legendary keeper of stories and Guardian of the Forest.Stroll along a leisurely 1.2km trail to discover tales like the bittersweet love story of Dayang Bunting Lake, the fabled battle between mighty warrior Merong Mahawangsa and his nemesis Garuda, and… did you know Langkawi was once the home of GIANTS? Immerse yourself in their stories through mesmerising lights, music, projection mapping, art installations, interactive activities and narration.Created by Tiara Jacquelina and the award-winning team at Enfiniti - storytelling, cutting-edge technology and nature come together to create an unforgettable experience.Are you ready for a magical journey?"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.5,
+        "rating_count": 850
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Stroll along a leisurely 1.2km trail to discover Langkawi's mythical tales, brought to life through mesmerising lights, music, projection mapping"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The 14 different zones are carefully designed around the natural environment and tell stories about Langkawi's rich history and folklore including the Legend."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "This magical multi-sensory adventure is perfect for families with children of all ages."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "There are discounts for Langkawi residents, MyKad holders, and senior citizens."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The park is open from 7:00 pm to 11:30 pm on Sunday through Tuesday and Thursday through Saturday. It is closed on Wednesdays unless it is a public or school holiday."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to get there: reach Dream Forest Langkawi by car or motorcycle via Langkawi's main roads; parking and motorcycle parking are available near the entrance."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Escape the ordinary and enter a world of wonder on Langkawi's Enchanting Night Walk! Step through a dreamlike portal and embark on a leisurely stroll through the rainforest. Uncover captivating local legends like the star-crossed lovers of Dayang Bunting Lake and the epic battle between Merong Mahawangsa and Garuda. Interactive displays, mesmerizing lights, music, and projections bring these stories to life. Created by the award-winning Enfiniti team, this unforgettable experience blends storytelling with cutting-edge technology for a magical journey through Langkawi's myths and rainforest beauty."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission to Dream Forest Langkawi"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Show your mobile ticket at the ticketing counter."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Purchase e-ticket(s) at least 24 hours before your visit; otherwise normal admission charges may apply at the venue. Free admission for children aged 2 and below. Limited Time Offer tickets: Adult 16–59 yrs, Child 3–15 yrs, Senior 60+ yrs. Standard Admission tickets: Adult 13+ yrs, Child 4–12 yrs, Senior 60+ yrs. OKU guests require a valid disability certificate. No outside food or drinks; prohibited items include bottles, firecrackers, lasers, and anything that disturbs other guests. Flash photography is prohibited. No re-entry after you leave. Tickets are non-transferable, not for resale, non-exchangeable, and non-refundable; validity dates cannot be changed."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Free cancellation till validity ends (per vendor policy)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Age: Best for ages 7+, parental discretion advised."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Food/Drinks: Bring water, check for cafes on-site."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Photography: Flash restrictions may apply."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Limited Time Offer - Standard Admission [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/dream-forest-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (16-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3-15 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 34
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 26
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Standard Admission [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/dream-forest-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 56
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 33
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Limited Time Offer - Standard Admission [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/dream-forest-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (16-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 68
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (3-15 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 52
+              }
+            },
+            {
+              "id": "option-3-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 34
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Standard Admission [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/dream-forest-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 85
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (4-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            },
+            {
+              "id": "option-4-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/307/DSP/307_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dream Forest Langkawi"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Dream Forest Langkawi"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Dream Forest Langkawi"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-5",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "ESCAPE Penang"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Visit ESCAPE Penang, an unforgettable place with fun for everyone. Choose from 40 thrilling rides, obstacle courses, and waterslides that come in different difficulty levels and are located throughout the two main areas of the park. Head to Escape Adventureplay for the best ziplining, climbing, and obstacle course experiences on land, or make your way to Escape Waterplay for the opportunity to experience a Guinness World Record-winning tube waterslide and daunting diving towers."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.6,
+        "rating_count": 6745
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "ESCAPE Penang has fulfilled its vision of creating an adventure park that's both fun and environmentally-friendly, combining excitement with conservation."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The park is located in a wild, natural, and intrepid location, surrounded by lush tropical hills."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "If we want children to protect nature, they must first fall in love with nature, ESCAPE Greenie Program inspired Malaysian youth to love nature."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Over 35 Rides and Attractions: ESCAPE offers a wide range of activities that involve zipping, swinging, jumping, and balancing through the jungle canopy."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Adventure Camping Experience: You can stay at the ESCAPE BASE CAMP, which is a beautiful & fully equipped jungle campsite."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "ESCAPE Penang is a theme park with exciting rides and games hosted in a natural environment. How to get there: Take Rapid Penang bus 101 or 102 from George Town to Teluk Bahang. If driving, follow the signs to Teluk Bahang from George Town; ample parking is available."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission to ESCAPE Penang"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Activities at ESCAPE Penang (Over 35 rides and attractions for all age groups and physical abilities.) AK Academy AK Splash Aerobat Airbag Atan's Jump Atan's Leap Banana Flip Bull Lee Chairlift Coco Climb Dead Sea Pool Discovery Dig Dunk Tank ESCAPE Club Family Trail Family Twister Flying Lemur Gecko Tower Go Bananas Jumping Jack Jungle Swinger Kite Flyer Lazy River Mega Drop Monkey Business Monkey School Play House Ski Slope Slingshot Speed Racer Super Looper The Longest Tots Pool Tubby Racer Tubby Rapids Tubby Tunnel Wave Ball Zip Coaster Zoom Bug"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Show mobile ticket at the ticketing counter. Pre-register your facial image/photo online via the face register link stated on the ticket."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Open-dated ticket. Adult ticket: 13–60 years. Child ticket: 4–12 years. Future Kid (0–3) and Super Kid (61–100+) free. Seniors 61+ must be accompanied by a paying guest and present a valid MyKad for free entry; without MyKad, purchase an adult ticket. Locker, shoes, chest mount, towel, rash guard, and Muslim swimwear available for rental on site. Close-toed shoes required at Adventureplay & Gravityplay."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Clothing policy, park rules, and general information: https://www.escape.my/park/pg#info. What to bring: proper swimwear, hat, sunglasses, sunscreen, towel, spare clothing, trainers/sports shoes, comfortable light clothing. What not to bring: dangling jewelry, valuables, outside food and drinks."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "No cancellation for this activity as per vendor policy."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit ESCAPE Penang official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Certain attractions may not be suitable for guests who are less physically able, or have certain medical conditions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Certain attractions require you to be a competent swimmer. Refrain from participating in these activities if you have doubts of your ability."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Certain attractions have height requirements irrespective of age."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: For hygiene and water quality reasons, proper swimwear must be worn."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Clothing made for everyday wear, T-shirts, & clothing that have buttons/adornments that may cause damage are not allowed in the pools & on slides."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Strict swimwear policy at ESCAPE Waterplay: Bikinis, Swim Trunks, Rash Guards & Swim Diapers are allowed, but not Sports Shorts, T-Shirts & Diapers."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: For hygiene reasons guests are required to shower before entering the pools."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Highly recommend comfortable sports clothing & pants/shorts. Guests are required to wear close-toed shoes at Adventureplay & Gravityplay."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/penang/escape-penang"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJdd8lXaTDSjARYLK8T3hGW-U"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13-60 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 185
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 123
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://cdn.prod.website-files.com/61f51a198f9fb0bf2ce11695/674446697de3e89646e6b552_ESCAPE%20Penang%20Photo%201.webp",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "ESCAPE Penang"
+              }
+            ]
+          }
+        },
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/311/DSP/311_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "ESCAPE Penang"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Sim Leisure Escape Sdn Bhd"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Sim Leisure Escape Sdn Bhd"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJdd8lXaTDSjARYLK8T3hGW-U"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-20",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "FunPark Gamuda Luge Gardens Ticket"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Experience the ultimate in fun and excitement with the FunPark Gamuda Luge Gardens FunPass. Enjoy unlimited access to all the thrilling rides and attractions, from the exhilarating luge track to the exciting playground and carousel. Create unforgettable memories with friends and family as you explore the diverse offerings at FunPark. With the FunPass, you're guaranteed a day filled with laughter, adventure, and endless possibilities."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 1800
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience a wide range of thrilling rides, exciting games, and family-friendly activities."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy unlimited access to rides and attractions at FunPark, maximizing your enjoyment."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Get strong value with the FunPass for a full day of fun."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Create lasting memories with friends and family across FunPark's attractions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission to FunPark Gamuda Luge Gardens with unlimited pay-per-rides for the day."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Rides include Carousel, Jellycup Twist, Fully Frenzy, Jumpshot, Vroomerang or Eye of Gardens, and more as operated by the park."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Not included: transport, other personal expenses, Big Bucket Splash, and Skyline Luge admission."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hours (confirm before visit): Mon, Tue, Thu & Fri 3:00 PM–11:00 PM; Sat, Sun, Malaysian school holidays & public holidays 12:00 PM–12:00 AM. Closed Wednesdays except on public holidays and school holidays. CMS also lists Sat–Sun 10 AM–10 PM and Mon/Tue/Thu/Fri 2 PM–10 PM—verify on Gamuda Land / FunPark channels."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ramadan 2026 closures (Mon–Thu blocks): 23–26 February, 2–5 March, 9–12 March, and 16–19 March (alongside other Gamuda attractions per vendor notice)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Pricing: adult/teen 17+ one rate; child ages 1–16 another. Under 1 year free with a paying adult (per park age rules). Children under 120 cm must be accompanied by an adult 16+. Baby/child tickets may also be sold at the FunPark counter—check on-site."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Follow ride operator instructions; height, weight, and age limits apply. No outside food or drinks; no dangerous items; smoking, vaping, alcohol, and drugs prohibited. Service animals only with proper ID. Wheelchair users may need to transfer to ride seats. No vendor cancellation unless your channel states otherwise."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Redemption: show your mobile ticket at the FunPark ticketing counter. Location: Persiaran Gamuda Gardens 1, Bandar Gamuda Gardens, 48050 Sungai Buloh, Selangor."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "FunPark Unlimited Day Pass"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/selangor/funpark-gamuda-luge-gardens-ticket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJn9x1y3BMzDER8k4m2l7p9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult / teen (17+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 25
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (1–16 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 44
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Skyline_Luge_Kuala_Lumpur_%28231229%29_06.jpg",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Gamuda Luge Gardens, Sungai Buloh (*angys, CC BY-SA 4.0, via Wikimedia Commons)"
+              }
+            ]
+          }
+        },
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2225/DSP/2225_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "FunPark Gamuda Luge Gardens Ticket"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "FunPark @ Gamuda Luge Gardens"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "FunPark @ Gamuda Luge Gardens"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJn9x1y3BMzDER8k4m2l7p9Q"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-6",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Genting SkyWorlds Theme Park"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Enjoy a fun day at Genting SkyWorlds theme park with this day pass! Explore all 9 uniquely-themed worlds and make sure to hop on the 26 rides and attractions. Bring the whole family for a full day of fun and adventure!"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.2,
+        "rating_count": 16060
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore all 9 uniquely-themed worlds and make sure to hop on the 26 rides and attractions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Rides and Attractions: The major rides you should prioritize are Planet of the Apes, Independence Day, Acorn Adventure, and the Epic water ride."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Robots Rivet Town: Assemble for non-stop family fun in the vibrant world of Robots!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ice Age: A pre-historic adventure with attractions inspired by the globally recognized franchise, Ice Age."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Central Park: Gather in the buzzing town square to experience the best of world-class attractions, dining, retail and live entertainment."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy nine themed worlds and 26 rides. Park admission from 11am onwards. Guests are advised to use SkyAvenue Gateway at Level G, SkyAvenue (near Jom Makan) during regular hours; Studio Plaza entry is reserved for hotel guests. Guests visiting Genting SkyWorlds and Gohtong Way should use SkyAvenue Gateway for admission."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore Our Worlds:"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Studio Plaza: Begin the day's adventure at the majestic Studio Plaza. As a celebration of all things cinema, find your favourite movie characters in all shapes and forms - carved into the golden interiors, displayed at the 360° Legends Cinema or as collectibles in our exciting dining and retail stores!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Eagle Mountain: Step into the heat of a Californian desert right here at Eagle Mountain. As Torque and Wrench prepare for the infamous race of Mad Ramp Peak, grab a burger or two from the food trucks nearby or have a browse around the industrial themed Freedom Shop!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Central Park: Gather in the buzzing town square to experience the best of world-class attractions, dining, retail and live entertainment. Whether it's a visit to the Natural History Museum or the marvellous fountain show at the Lake of Dreams, Central Park is where fun, excitement and memory-lasting moments meet."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Andromeda Base: In this thrilling galactic escapade, your survival on Andromeda Base is put to the test in various challenges, including the looming Terraform Tower of terror!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Liberty Lane: Inspired by the streets of San Francisco, this thriving neighbourhood comes to life with unique stores, food locations, and an exhilarating attraction from Planet of the Apes – a first-in-the-world, designed exclusively for Genting SkyWorlds."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Robots Rivet Town: Assemble for non-stop family fun in the vibrant world of Robots!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Ice Age: A pre-historic adventure with attractions inspired by the globally recognized franchise, Ice Age. Experience mammoth-sized fun for everyone in the family!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Standard admission to Genting SkyWorlds Theme Park on your selected date."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian Adult 1 Day Ticket includes an F&B/retail voucher (per ticket terms)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Resorts World Genting official website for any updates. The park is normally closed on Tuesdays except on Malaysia national public holidays and school holidays."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather: Located 6,000ft above sea level, the weather does change often including cloudy conditions and rain. Kindly visit the official website for more info."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Admission to the attractions is restricted by age and height requirements. Child tickets are height-based: Adult above 110cm, Child 90cm–110cm, free admission below 90cm, Senior aged 60 and above. Malaysian rates require physical MyKad for verification."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Show your mobile ticket at the ticketing counter. You can book Virtual Queue (VQ) only after scanning at the turnstile on your visit date. Scan the QR code at the park turnstile and register biometric before entry. Without the Genting SkyWorlds app, retain your admission ticket for re-entry. Do not activate or link ticket codes until you are at the attraction."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket valid on selected date only. Non-transferable, non-refundable, not for resale; no validity date changes after purchase. Rainy Day Guarantee applies only to eligible ticket types and channels if it rains continuously for one hour during operating hours. Details: https://www.gentingskyworlds.com/en/tickets/rainy-day-guarantee.html"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "No cancellation for this activity as per vendor policy."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "1 Day Ticket (Malaysian)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/genting-highlands/genting-skyworlds-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJv4kLhM5JzDER1l0l8W6kKpA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (above 110 cm)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 88
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (90–110 cm)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "1 Day Ticket (Non-Malaysian)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/genting-highlands/genting-skyworlds-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJv4kLhM5JzDER1l0l8W6kKpA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (above 110 cm)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 168
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (90–110 cm)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://www.gentingskyworlds.com/content/dam/approved/genting-skyworlds/web/gsw-tickets/banner_1920x800.jpg",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Genting SkyWorlds Theme Park"
+              }
+            ]
+          }
+        },
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/326/DSP/326_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Genting SkyWorlds Theme Park"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Genting SkyWorlds Theme Park"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Genting SkyWorlds Theme Park"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJv4kLhM5JzDER1l0l8W6kKpA"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-7",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Genting Highlands Premium Outlets Cable Car (Previously Known as Awana SkyWay)"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Hop aboard a crystal-clear cable car at Awana Station and enjoy a scenic 10-minute gondola ride up to Genting Highlands. As you glide through the sky, take in breathtaking panoramic views of the surrounding mountains, lush rainforest, and tall pagodas emerging from the greenery along the way. You can also stop at Chin Swee Station to visit the famous Chin Swee Caves Temple, a Taoist temple located in the Genting Highlands. Capture photos of iconic landmarks such as the 9-storey grand pagoda, the Sky Terrace, and the impressive 15-meter-tall Buddha statue. Upon arrival at Genting Highlands, explore a wide range of attractions, luxury hotels, shopping outlets, and exciting theme parks."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 8200
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Fly up in just 10 minutes: The gondola lift system takes you from the Awana Station at mid-hill to the SkyAvenue Station at the peak."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Chin Swee Caves Temple: With the same ticket, you get a free stop at the Chin Swee Station, where you can explore the beautiful Chin Swee Caves Temple."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Offers stunning 360-degree views of surrounding rainforest."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission: Awana SkyWay one way on a Standard Gondola."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Fly up in just 10 minutes from the Awana Station at mid-hill to the SkyAvenue Station at the peak. With the same ticket, you get a free stop at the Chin Swee Station, where you can explore the beautiful Chin Swee Caves Temple and its magnificent surroundings at no extra cost."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Typical hours: daily from 7:00 AM; last departure Sun–Wed 11:00 PM, Thu–Sat 11:30 PM. Always confirm current times on the official Awana SkyWay / Resorts World Genting website."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Please be reminded that each passenger is allowed to bring one aircraft cabin size bag into the gondola. A surcharge will be imposed otherwise."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Each Standard Gondola can seat 10 passengers, including children. Glass floor gondolas can seat 6 passengers."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Child with the height below 90cm entitles for a free ride."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Please dress in appropriate attire at all times while taking the ride with Awana SkyWay."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Please be reminded to bring a mask as it is compulsory to wear a face mask when on board the Awana SkyWay."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Wheelchair and stroller access are available for Standard Gondola. Only baby strollers are allowed in the Glass floor gondolas."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Valid for 30 days from purchase. Scan the QR from your confirmation at the turnstile for direct boarding (no physical ticket exchange). Keep your confirmation if you stop at Chin Swee to continue to the top or exit at SkyAvenue. Non-transferable, not for resale, non-refundable; date changes are not entertained."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Oversized baggage surcharge may apply (e.g. RM22 one-way / RM38 return per vendor terms). Guests aged 16 and below must be accompanied by a supervising adult with valid admission. No smoking or vaping; no pets. English version of terms prevails if there is any discrepancy."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Planned maintenance: Genting Highlands Premium Outlets Cable Car (formerly Awana SkyWay) 20–29 April 2026 (about 10 days). During closure, Genting Gohtong Jaya Cable Car (former Genting SkyWay) is scheduled to operate 7:00 AM–11:00 PM—about 15 minutes away by car. Verify dates on the official site before travel."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to get there: Genting Express Bus from KL Sentral Lower Ground to Awana Bus Terminal, then Level 4 Awana SkyCentral to board; or drive about 48 minutes from KLCC to Awana and proceed to Level 4."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Redemption: show your mobile voucher at the ticketing counter when required by your channel; on-site boarding uses QR at the turnstile per operator rules. No vendor cancellation for this activity unless your sales channel states otherwise."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "One Way (Standard Gondola)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/genting-highlands/genting-awana-skyway"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJL4p4x85JzDER9oH1x2yQY7Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-pax",
+              "title": "Per Pax",
+              "price": {
+                "currency_code": "MYR",
+                "units": 11
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Awana_Skyway_Gondola_lift.jpg",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Awana Skyway gondola (Micolash, CC BY-SA 4.0, via Wikimedia Commons)"
+              }
+            ]
+          }
+        },
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/324/DSP/324_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Genting Highlands Premium Outlets Cable Car (Previously Known as Awana SkyWay)"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Awana Skyway"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Awana Skyway"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJL4p4x85JzDER9oH1x2yQY7Q"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-8",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Aquaria KLCC"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Discover the wonders of the underwater world at Aquaria KLCC, a world-class oceanarium located beneath the Kuala Lumpur Convention Centre, just steps away from the iconic Petronas Twin Towers. As one of the city's top attractions, Aquaria KLCC offers an immersive marine experience in the heart of Kuala Lumpur. Home to over 5,000 aquatic and land-bound creatures, the oceanarium showcases fascinating marine life from around the globe, including tiger sharks, stingrays, sea snakes, seahorses, jellyfish, and more. Interactive zones allow visitors to enjoy close-up encounters with selected species, making the visit both educational and exciting. One of the main highlights is the spectacular 90-meter underwater tunnel, where you can walk through a transparent glass walkway surrounded by sharks, rays, and other marine creatures swimming overhead. Don't miss the touch pool experience, where you can gently interact with starfish and sea cucumbers."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.4,
+        "rating_count": 32600
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "One of the Top Five Aquariums in Asia: Aquaria KLCC is recognized as one of the top five aquariums in Asia."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Impressive Exhibits: Over 5,000 land and aquatic creature exhibits across about 60,000 sq ft."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Underwater Journey: Malaysia's long underwater tunnel featuring iconic Malaysian and other marine species."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Conservation Efforts: Aquaria KLCC supports solutions that help make our oceans healthier."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Full-day admission to Aquaria KLCC (exhibit access per ticket type: peak/off-peak, local/tourist as purchased)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Evolution zone: red-bellied piranha. Touch pool: piranha, brown-banded bamboo shark and horseshoe crab. Jewels of the Jungle: Asian small-clawed otter, electric eel and tokay gecko. Shipwreck: red lionfish and reef stonefish. The Stream: otters. Station Aquarius: moon jelly and seahorse. Flooded Forest: arapaima and alligator gar. The Coastal: archerfish and giant mudskipper. Living Ocean: sand tiger shark, green sea turtle and giant moray eel. Weird and Wonderful: pinecone fish."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation hours: visit the official Aquaria KLCC website for updates. Usual guide: Mon–Fri 10:00 AM–8:00 PM; Sat–Sun 10:00 AM–7:00 PM."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Indoor attraction—no wet-weather restrictions. Casual wear recommended. Wheelchairs available for rental at Aquaria KLCC."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Tickets valid 180 days from purchase. Free for under 3; child 3–12; adult 13–59; senior 60+. Children under 13 must be with an adult. Stroller- and wheelchair-accessible; staff can assist guests with disabilities."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Check feeding schedules on site or online. Re-entry is not allowed after you leave. Present mobile or printed voucher at the ticketing counter. No vendor cancellation unless your sales channel states otherwise."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Peak vs off-peak pricing follows Aquaria KLCC rules (often aligned with weekends and Malaysian public holidays). For 2026 holiday reference, see the official Malaysian calendar or Aquaria's peak schedule before you buy."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - Peak [Local]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/aquaria-klcc"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "animals"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 50
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 41
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - Off Peak [Tourist]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/aquaria-klcc"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "animals"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 52
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - Peak [Tourist]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/aquaria-klcc"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "animals"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 59
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 49
+              }
+            },
+            {
+              "id": "option-3-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 49
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - Off Peak [Local]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/aquaria-klcc"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "animals"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 36
+              }
+            },
+            {
+              "id": "option-4-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 36
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Underwater_tunnel_in_Aquaria_KLCC.jpg",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Underwater tunnel, Aquaria KLCC (Phalinn Ooi, CC BY 2.0, via Wikimedia Commons)"
+              }
+            ]
+          }
+        },
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/276/DSP/276_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Aquaria KLCC"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Aquaria KLCC"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Aquaria KLCC"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-9",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Lost World Of Tambun Ipoh"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Make your Malaysia trip extra memorable at Sunway Lost World of Tambun Amusement and Water Park! Enter Malaysia's premier family destination and explore its themed areas and over 80 attractions. Begin your trip by going to the Lost World Water Park, featuring the country's biggest wave pool, Jungle Wave Bay, and the longest man-made river, Adventure River. Experience a thrilling ride on the two water slides in the park, the Cliff Racer and Tube Raider! Don't miss out on the Kids Explorabay with your little ones."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 8638
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "88 Attractions 10 Parks: The park is cocooned by lush tropical jungle, natural hot springs, and 400 million-year-old limestone hills."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "123 Animal Species: The park is home to 123 different species of animals."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Natural Hot Springs: The park is the only theme park in Southeast Asia with natural hot springs."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Water Park, Amusement Park, Petting Zoo, Tiger Valley, Tin Valley, Hot Springs & Spa: These are some of the main attractions within the park."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hotspring Night Park: Experience the magical ambiance of the park as it transforms into a haven of relaxation and tranquility at night."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Theme Parks"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Water Park: Within the dense heat of our ancient rain-forest lies the wonderful Lost World Water Park where you can cool off with endless wet and wild fun! There are thrills and spills for one and all, young and old."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Amusement Park: If you prefer to be on dry land, head off to our Lost World Amusement Park! But remember, you may be dry but you may not always be on land. Come soar and fly. Get that speedy rush on our thrilling rides. There’s fun to be had by one and all!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Tin Valley: Tin mining is one of the oldest industries in Malaya and Ipoh “The City that Tin Built”, became the meeting point and commercial center of the Kinta Valley. Lost World Tin Valley aims to educate today’s generation in the rich heritage of tin mining in Ipoh. Hence the latest attraction in the form of a Tin Mining area which is equipped with a life-sized palung (sluice box), an original gravel pump monitor and a large area for young visitors to experience “Dulang Washing”(Tin Ore Panning) just like the good old days. Visitors can also learn about the history of tin mining and see real artefact from the past at our Galleria."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Tiger Valley: Tigers are the largest of all wild cats and are renowned for their power and strength. Get up close and personal with our very own Siberian Tigers at Lost World Tiger Valley. Watch as our trained rangers conduct feeding time for these great cats and be amazed by their agility, strength and power."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Petting Zoo: Discover the wonders of Lost World Petting Zoo, our haven of animals from 55 species. The Malaysia zoo is truly an adventure and an immersive educational experience."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Adventure Park: Packed with adrenaline-filled thrills, this is the perfect place for any company to get the best out of their people. They will each learn to work as a team and even to lead. All round fun yet competitive exercises that will encourage team spirit!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Lost World Of Tabun official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Minimum height requirements apply for selected rides. Please read and observe these and other physical requirements."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Guests are required to comply with all safety rules and regulations displayed at each attraction/ride."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Children 12 years of age and below must be accompanied by a competent person aged 18 years and above."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Guests are encouraged to wear appropriate swimming attire to enjoy the pools at all times for safety and hygiene purposes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Appropriate swimming attire with Lycra or Nylon material are encouraged (these are the non-absorbent material which is suitable for swimming)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Please comply with the dress code displayed at the relevant areas of the park, including those relating to swimwear."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Baby strollers, wheelchairs and push cars are available for rent inside the park."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian - Lost World Hot Springs Night Park Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult",
+              "price": {
+                "currency_code": "MYR",
+                "units": 90
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysia MyKad Holder - Lost World Hot Springs Night Park Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult",
+              "price": {
+                "currency_code": "MYR",
+                "units": 74
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian - Lost World Of Tambun Entrance Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult",
+              "price": {
+                "currency_code": "MYR",
+                "units": 140
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysia MyKad Holder - Lost World Of Tambun Entrance Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult",
+              "price": {
+                "currency_code": "MYR",
+                "units": 95
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/406/DSP/406_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {}
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Lost World Of Tambun Ipoh"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Lost World Of Tambun Ipoh"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-10",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Langkawi Cable Car (SkyCab)"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Prepare for a visit to Langkawi's premier geo-theme park, Panorama Langkawi, with this combo ticket offering a day of fun activities. With SkyCab's base located in the Oriental Village, you'll be nestled in some of Southeast Asia's most ancient natural scenery! With your SkyCab cable car ticket, step into a SkyCab car for the ultimate mountain views in the area. Ride up Machincang mountain and reach an elevation of over 650 meters. Once up high, you'll witness SkyBridge, a suspended bridge with transparent pathing that offers visitors close-up views of the surrounding treetops."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.4,
+        "rating_count": 28500
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Prepare for a visit to Langkawi's premier geo-theme park, Panorama Langkawi, with this combo ticket offering a day of fun activities."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "With SkyCab's base located in the Oriental Village, you'll be nestled in some of Southeast Asia's most ancient natural scenery!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "With your SkyCab cable car ticket, step into a SkyCab car for the ultimate mountain views in the area."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hovering over jungle and climbing over 550 million years old rock, SkyCab gives you more than one unique experience. Be informed, SkyCab is located at the oldest part of South East Asia and the first to emerge from the ancient sea and estuary! That's something to give a goose bump if you can get the gist. Come and experience it yourself."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Base Station is conveniently located at the foothill of the Machincang mountain. From here, visitors will be taken up to the cool Machincang mountain via the cable car system. The ride will be an exhilarating experience for everyone to enjoy. You will also be able to catch a glimpse of the flora and fauna that surrounds the area."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hours: Usually 9:30 AM–6:00 PM; during school holidays and Ramadan 1447H/2026 they vary (e.g. 9:00–6:00, 9:30–4:30; Hari Raya 21 Mar 2026 12:30–6:30 PM). Confirm on the official Panorama Langkawi website before you go."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather: SkyCab may close or change operations depending on weather and wind. Dress casually and wear comfortable shoes if visiting SkyBridge."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Redemption: Show mobile or printed voucher at the gantry with IC/passport. Some tickets need a selected date and time slot. Traveller name must match ID."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Valid on selected date only; no outside food/drinks; no smoking. Age bands differ by product (many: adult 13+, child 3–12; some child 2–12; Express Lane add-on adult 13+ only; glass/360 gondola one rate per person). No vendor cancellation unless your sales channel says otherwise. From Kuah: ~30 min by taxi or car; buses are infrequent."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyCab Admission [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 39
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 32
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyCab Admission [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 80
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 64
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Skybridge [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 7
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 5
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Skybridge [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 7
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 5
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyBridge SkyGlide [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 17
+              }
+            },
+            {
+              "id": "option-5-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyBridge SkyGlide [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 17
+              }
+            },
+            {
+              "id": "option-6-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "6D Cinemotion [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 15
+              }
+            },
+            {
+              "id": "option-7-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 13
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-8",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "6D Cinemotion [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-8-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 29
+              }
+            },
+            {
+              "id": "option-8-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 19
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-9",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Machincang Petland [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-9-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 25
+              }
+            },
+            {
+              "id": "option-9-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 20
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-10",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Machincang Petland [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-10-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 42
+              }
+            },
+            {
+              "id": "option-10-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 32
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-11",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Add On Express Lane [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-11-standard",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 41
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-12",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyCab x Eagle Nest SkyWalk [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-12-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 62
+              }
+            },
+            {
+              "id": "option-12-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 46
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-13",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyCab x Machinchang Petland [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-13-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 60
+              }
+            },
+            {
+              "id": "option-13-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-14",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyCab Admission + Express Lane [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-14-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 80
+              }
+            },
+            {
+              "id": "option-14-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 73
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-15",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyCab x Machinchang Petland [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-15-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 117
+              }
+            },
+            {
+              "id": "option-15-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 87
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-16",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Glass Bottom Gondola [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-16-standard",
+              "title": "Per person (same rate adults & children)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 97
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-17",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyCab x Eagle Nest SkyWalk [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-17-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 120
+              }
+            },
+            {
+              "id": "option-17-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 97
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-18",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Glass Bottom Gondola [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-18-standard",
+              "title": "Per person (same rate adults & children)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 97
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-19",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyCab Admission + Express Lane [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-19-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 120
+              }
+            },
+            {
+              "id": "option-19-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 104
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-20",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "360 Gondola [Non Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-20-standard",
+              "title": "Per person (same rate adults & children)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 141
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-21",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "360 Gondola [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/4-in-1-skycab-langkawi-with-skydome-skyrex-and-3d-art-museum"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "outdoors"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-21-standard",
+              "title": "Per person (same rate adults & children)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 141
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/265/DSP/265_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Langkawi Cable Car (SkyCab)"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Panorama Langkawi SkyCab"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Panorama Langkawi SkyCab"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJy5z3mK13zDERp1k6y3n8s7M"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-11",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Malaysia Heritage Studios in Melaka"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Welcome to Malaysia Heritage Studios, the pioneering magical heritage park in Malaysia! Immerse yourself in 13 captivating themes that brilliantly showcase the vibrant colors of Malaysia's rich heritage. Our unique experience transcends traditional museum learning, offering an enchanting journey through arts, architecture, nature, culture, history, and untold legends."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.2,
+        "rating_count": 420
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Walk through the corridors of time and witness history come alive."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Discover the magic woven into every detail as you embark on an enchanting adventure through the heart of Malaysia's cultural legacy."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Join us in celebrating Malaysia's heritage in a way that captures the imagination and touches the heart."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Step into a realm where arts, architecture, nature, culture, history, and untold legends converge in a mesmerizing and immersive experience."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Standard admission to Malaysia Heritage Studios."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cultural showcase: exhibits of Malaysia's heritage—traditional costumes, musical instruments, and artifacts across ethnic groups. Historical artifacts from ancient times through the colonial era and beyond."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cultural performances and ethnic studios dedicated to Malay, Chinese, Indian, and Indigenous communities, with craft workshops for batik, beaded jewelry, weaving, and more."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Guided heritage walks, a children's corner with games and storytelling, and a souvenir shop for handicrafts and cultural gifts."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Open daily Monday-Sunday, 10:00-18:00. Last admission is 1 hour before closing."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Tickets are valid for 90 days from purchase. Free cancellation until validity ends (per channel/vendor). Show your mobile voucher at the ticketing counter and exchange it for a physical ticket."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysian-rate tickets require MyKad. Ages: free for 0-3; child 4-12; adult 13-59; senior 60+. Wrong category may be refused entry. No outside food or drinks."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Only some areas are wheelchair- and stroller-friendly; others have stairs and steps. Photography may be restricted—follow staff and signage. Contact the venue if you need accessibility details."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Heritage Studio Ticket - Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/malaysia-heritage-studios-in-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "history"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJh7x4yplVzDER4s8k7n6p2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Heritage Studio Ticket - Non-Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/malaysia-heritage-studios-in-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "history"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJh7x4yplVzDER4s8k7n6p2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 67
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 53
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 53
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3132/DSP/3132_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysia Heritage Studios in Melaka"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Malaysia Heritage Studio"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Malaysia Heritage Studio"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJh7x4yplVzDER4s8k7n6p2lQ"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-12",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Sunway Lagoon Theme Park"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Experience never-ending fun at the award-winning water park in Malaysia — Sunway Lagoon! Explore six adventure zones within the park featuring thrilling rides and attractions. Come to the Amusement Park for cowboy rollercoaster action or view the world upside down at the 360-degree pirate ship. Get soaking wet at the Sunway Lagoon's Water Park, where you can surf giant waves at Surf Beach or slide down the vuvuzela, the world's highest and largest water ride. Set foot in Asia's first Nickelodeon-themed park, Nickelodeon Lost Lagoon, and go on splashy adventures with your favorite characters."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.1,
+        "rating_count": 35000
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Multi-Park Extravaganza: Sunway Lagoon is a multi-park extravaganza, with 80 attractions spread over 360,000 square meters."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Exciting Rides: There are plenty of fun rides that cater to both children and adults."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Bungee Jumping: Sunway Lagoon offers thrilling facilities like the chance to go bungee jumping."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Kayaking and Archery: You can also learn archery or go kayaking at Sunway Lagoon."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Flying Fox: Experience the thrill of the Flying Fox at Sunway Lagoon."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SUNWAY LAGOON AMUSEMENT PARK: You don’t have to be soaking wet to have fun. Head over to the Sunway Lagoon Amusement Park for a seriously great adventure. See a view like no other when you walk on Malaysia’s Longest Pedestrian Suspension Bridge, or see the world upside down when you spin 360 degrees on the Tomahawk and Pirate’s Revenge. Excitement is the name of the game here!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SUNWAY LAGOON WATER PARK: Beat the tropical heat in the Waters of Africa at Sunway Lagoon Water Park! Go for a spin in the loops of the African Pythons, or race your friends in an adrenalin-pumping ride head first down the Congo Challenge. You can also do the Cameroon Climb, get drop 15 metres then shoot back up 8 metres for prolonged fun. There’s something here for everyone, whether you are young or old, thrill seeker or beach bum."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SUNWAY LAGOON WILDLIFE PARK: A Malaysia’s zoo where you get up close and personal with more than 150 species of animals from around the world at the Sunway Lagoon Wildlife Park. The fully interactive zoo attraction, from a journey of learning through our unique Wildlife Encounters , to getting entertained by our talented animal stars in the Wildlife Theatre and feeding our gentle animals in the Pet Village, there are various educational and interesting activities for the entire family!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SUNWAY LAGOON SCREAM PARK: Be afraid, be very afraid as you enter Lynton V Harris’ Scream Park, where great evil resides. You’ll be in for a spine-chilling and hair-raising experience at our live action scare extravaganza where fear is the name of the game. Be warned that this is not for the faint-hearted. Also, be prepared for a JAWSOME experience as we unveiled its latest attraction, Sharknado Alive."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "ASIA’S 1ST NICKELODEON THEMED LAND: Enter its majestic gates of Nickelodeon Lost Lagoon and be enthralled by this lost civilization surrounded by lush, natural rainforest.  Get ready for a wet and exciting adventure as you explore this fantasyland filled with colossal water rides and water playgrounds, canopy walks and meandering pathways, beautiful waterfalls and recreational camp sites. Set amidst 10 acres of lush tropical rainforest with more than 12 rides and attractions provides a mix of thrill and family friendly fun for fans and visitors of all ages. Behold, Asia’s 1st Nickelodeon Themed Land."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SUNWAY LAGOON X PARK: This is a shout out to all you adrenaline junkies, thrill seekers and extreme sports fans out there. Gear up for an aerial adventure on Malaysia’s longest Flying Fox and soar to great heights on incredible rides such as the Bungee Jump. Whether you conquer the circuit on a Go Kart or conquer the wild on an ATV, you are bound to get some heart-pumping action at the Sunway Lagoon X Park!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Please also kindly visit Sunway Lagoon Theme Park official website for height requirements for the rides."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Appropriate swimwear is encouraged at the park at all times for safety and hygiene purposes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wheelchairs are available inside the park."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Sunway Lagoon Night Park Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/sunway-lagoon-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJW6l2sZBJzDER5sRk5l0bH8E"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 99
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (0-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 89
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 89
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Quack Express Pass to Sunway Lagoon"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/sunway-lagoon-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJW6l2sZBJzDER5sRk5l0bH8E"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 90
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (0-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 90
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 90
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian - Standard Admission"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/sunway-lagoon-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJW6l2sZBJzDER5sRk5l0bH8E"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 250
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (0-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 200
+              }
+            },
+            {
+              "id": "option-3-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 200
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysia MyKad Holder - Standard Admission"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/sunway-lagoon-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJW6l2sZBJzDER5sRk5l0bH8E"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 185
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (0-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 150
+              }
+            },
+            {
+              "id": "option-4-senior",
+              "title": "Senior (60+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 150
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/517/DSP/517_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Sunway Lagoon Theme Park"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Sunway Lagoon Theme Park"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Sunway Lagoon Theme Park"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJW6l2sZBJzDER5sRk5l0bH8E"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "product-13",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Underwater World Langkawi"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Say hello to the lovely penguins and multicolored tropical fish at a water world wonderland in Langkawi, one of the biggest aquariums in Southeast Asia. With more than 5,000 species of animals, including fish, birds, and mammals, the aquarium won't leave you with a moment of boredom! Comfortably stroll through the Marine Life Area, Rainforest Area, and Sub-Antarctic Area. These three zones make up the main areas of Underwater World, and each of them features different exciting animals."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.1,
+        "rating_count": 12972
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Underwater World Langkawi continues to captivate visitors with its unique blend of knowledge, education, and entertainment."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Penguinarium in the Sub-Antarctic section is a star attraction and a leading facility in Malaysia for breeding Rockhopper penguins in captivity."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The rainforest area hosts the world's smallest monkeys, the marmosets, alongside other rainforest species."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Underwater World Langkawi is not just an aquarium; it's an immersive experience where adventure meets education."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "One-day admission ticket to Underwater World Langkawi."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The attraction focuses on knowledge, education, and entertainment, raising awareness of aquatic conservation and the bond between people and nature."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore the Preview Tank, River Ecosystem, Tropical Rainforest aviary (flamingos, macaws, marmosets), Temperate Section (fur seals, African penguins), Sub-Antarctic Rockhoppers, the Hexagonal \"Sunken Ship\" tank, the 15-meter tunnel tank, Koi Pond, Invertebrate and Coral Reef zones, and more—with caution around venomous moray eels and lionfish."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Children must be accompanied by an adult guardian at all times"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Underwater World Langkawi is not responsible for any lost, stolen, or damaged personal belongings. Please secure valuables appropriately"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Visitors with heart problems, epilepsy, vertigo, or pregnancy should consult a healthcare professional"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Do not touch or feed the animals unless explicitly permitted by staff"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Weapons, sharp objects, illegal substances, and outside food and beverages are not allowed inside the facility"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Usual hours: daily 10:00 AM–6:00 PM (confirm before visit). Chinese New Year 17–18 February 2026: 9:30 AM–9:30 PM. Ramadan 19 February–20 March 2026: 10:00 AM–5:00 PM, last admission 4:30 PM. Hari Raya: first day 11:00 AM–6:30 PM; from second day through 29 March 2026, 9:30 AM–6:30 PM."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket valid up to 90 days from issue. Free for children below 3; child rate ages 3–12; adult 13+. Free cancellation until validity ends (per your sales channel). Stroller- and wheelchair-accessible."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Redemption: present mobile or printed voucher at the ticketing counter. Malaysian tickets: bring MyKad. Non-Malaysian: bring passport or proof of identity as required."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance Ticket Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/underwater-world-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "animals"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8cJY6t3zDERfQbQ7x8G7oM"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance Ticket Non-Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/underwater-world-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "animals"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8cJY6t3zDERfQbQ7x8G7oM"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 59
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 48
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/544/DSP/544_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Underwater World Langkawi"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Underwater World Langkawi Sdn Bhd"
+            }
+          ]
+        },
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Underwater World Langkawi Sdn Bhd"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJb8cJY6t3zDERfQbQ7x8G7oM"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

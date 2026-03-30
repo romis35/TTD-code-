@@ -1,0 +1,255 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300546
+  },
+  "products": [
+    {
+      "id": "product-2814",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Mangrove or Fireflies Tour in Bintan"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Mangrove:Dive deep into the heart of Bintan's wilderness with our exhilarating Mangrove Tour. This 1-hour eco-adventure on the Sebung River takes you through dense mangrove canopies, revealing a world of incredible biodiversity. Witness exotic wildlife, including agile monkeys, serene mangrove snakes, and intriguing monitor lizards. Keep your eyes peeled for mud lobsters and a plethora of other fascinating species.Fireflies Tour:Discover the serene beauty of Bintan's mangrove forest with our Fireflies Tour. As night falls, glide along the Sebong River and experience a moment of pure tranquility. Be captivated by the mesmerizing dance of fireflies, illuminating the riverbanks with their gentle glow. Complete your magical evening by gazing at the brilliant stars, made even more spectacular by the darkness surrounding you."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to attractions"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Chinese / English-speaking guide"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Round-trip transfers to and from your hotel"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Insurance provided by the operator"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: when meet guide/driver"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: non-refundable Hotel in Bintan Coverage locations: Lagoi/Tanjung Pinang/Trikora As this may be a shared transfer, please be patient in case of unforeseen delays along the pick up route"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Non-refundable Hotel Pick Up Area and Time Hotel in Bintan Coverage locations: Lagoi/Tanjung Pinang/Trikora As this may be a shared transfer, please be patient in case of unforeseen delays along the pick up route"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Fireflies Tour"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bintan/mangrove-or-fireflies-tour-in-bintan"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cruises"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJt8k2l6wzUDAR5n7p4k2m8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (12–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 79
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–11 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 58
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mangrove Tour"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bintan/mangrove-or-fireflies-tour-in-bintan"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cruises"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJt8k2l6wzUDAR5n7p4k2m8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (12–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 79
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–11 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 58
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2814/DSP/2814_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mangrove or Fireflies Tour in Bintan"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Bintan Trip Indonesia"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJt8k2l6wzUDAR5n7p4k2m8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

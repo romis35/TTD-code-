@@ -1,0 +1,623 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300553
+  },
+  "products": [
+    {
+      "id": "product-3021",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Ocean Dream Samudra at Ancol"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Ocean Dream Samudra is the largest oceanarium unit consisting of dolphin performances, sea lion performances, various animal performances, animal demonstrations, marine and freshwater fish aquariums and gardens which are the habitat of various kinds of birds."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Get to know and learn more about a variety of water animals at Ocean Dream Samudra."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "One of the biggest oceanarium in Indonesia."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Meet cute little penguin and more water animals, only at Ocean Dream Samudra."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "There are a variety of rides and attractions at Ocean Dream Samudra Ancol. Below are some of the highlights."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mola Mola: The rides are definitely really fun and make you happy at Ocean Dream Samudra, our adrenaline is pumped up, we are invited to get dizzy together until we spin 360 degrees while feeling the rides go up and down. Enjoy it while laughing with your family because you can sit facing each other. At first, you might be nervous, but I guarantee that one time won't be enough, you'll definitely want to ride the rides many times. Another excitement is that we can recharge again after a day of watching the show at Ocean Dream Samudra."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Penguin Palace: Humboldt penguins from South America usually nest on rocky beaches. You can witness the behaviour of 11 cute and adorable Humboldt penguins at the Penguin Palace exhibit. You can also interact to feed them. Humboldt penguins like to eat anchovies, small sardines and squid."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Carousel: This is Ocean Dream Samudra's new ride. This carousel is presented with cute animal shapes such as sea horses, shells, dolphins, and ostrich. It's really exciting to be able to enjoy the rides and capture warm moments with the family."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Ocean Dream Samudra Ancol official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Please kindly visit Ocean Dream Samudra Ancol official website for rides & attractions' height restrictions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Wheelchair accessible."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Samudra Ancol entrance ticket for 1 visitor"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please make sure your e-card is ready on the visit date and show your the e-card at the Samudra Ancol Gate Entrance"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Scan the QR code on your e-card to enter the Samudra Ancol"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please adjust the brightness level of your mobile phone screen before scanning the QR code on the e-card."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Only your e-card are valid. Invoice or bill payment does not substitute your e-card to enter the Samudra Ancol"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The ticket is only valid on the selected visit date (cannot be used on other dates). E-ticket applies to 1 person (1 x visit). E-ticket only applies to Samudra Ancolentry tickets. E-ticket does not include Ancol and vehicle entry tickets. E-ticket is valid for 1 time use. Tickets that have been purchased are not refundable."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please make sure your e-ticket is ready on the visit date and show your the QR code at the Samudra Ancol Gate Entrance"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The ticket is only valid on the selected visit date (cannot be used on other dates). E-ticket applies to 1 person (1 x visit). E-ticket only applies to Samudra Ancol entry tickets. E-ticket does not include Ancol and vehicle entry tickets. E-ticket is valid for 1 time use. Tickets that have been purchased are not refundable."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Samudra entrance ticket for 1 visitor"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Jakarta Bird Land entrance ticket for 1 visitor"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please make sure your e-card is ready on the visit date and show your the e-card at the Gate Entrance"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Scan the QR code on your e-card to enter the Samudra ancol  and Jakarta Bird Land"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Only your e-card are valid. Invoice or bill payment does not substitute your e-card to enter the Samudra ancol and Jakarta Bird Land."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: * The ticket is only valid on the selected visit date (cannot be used on other dates). * The ticket is valid for 1 person (1 x visit) and must be used on the same day. * E-tickets include Jakarta Bird Land and Samudra ancol Ancol tickets. * E-ticket does not include Ancol (Person) and Vehicle Entry tickets. * E-ticket is valid for 1 time use. * Tickets that have been purchased are not refundable."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Annual Pass Samudra"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Pre-book before visiting: http://bit.ly/ecardpass"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: The e-ticket must be activated into an e-card before entering the recreation unit."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: E-card activation can be done via http://bit.ly/ecardpass"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: The e-card must be activated on or before the selected visit date. Activation after the visit date is not allowed, and the ticket will be considered void."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Regular Samudra (High Season)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/jakarta/ocean-dream-samudra-at-ancol"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ8b4hV6p3zDER2n7k5p4l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 38
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Regular Samudra - Indonesian (High Season)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/jakarta/ocean-dream-samudra-at-ancol"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ8b4hV6p3zDER2n7k5p4l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 38
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Reguler Samudra Bonus Jakarta Bird Land (High Season)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/jakarta/ocean-dream-samudra-at-ancol"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ8b4hV6p3zDER2n7k5p4l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Reguler Samudra Bonus Jakarta Bird Land - Indonesian (High Season)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/jakarta/ocean-dream-samudra-at-ancol"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ8b4hV6p3zDER2n7k5p4l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Annual Pass Samudra - Indonesian (High Season)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/jakarta/ocean-dream-samudra-at-ancol"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ8b4hV6p3zDER2n7k5p4l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 51
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3021/DSP/3021_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ocean Dream Samudra at Ancol"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Ancol"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJ8b4hV6p3zDER2n7k5p4l9Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

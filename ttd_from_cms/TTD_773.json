@@ -1,0 +1,359 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300605
+  },
+  "products": [
+    {
+      "id": "product-773",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "illusion 3D Art Museum Ticket in Kuala Lumpur"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Explore past Kuala Lumpur's major attractions and discover illusion 3D Art Museum! Spend a day inside the museum, where gigantic 3D art paintings dominate the walls and the floors. Take photos of your friends and family posing in different kinds of scenarios; encounters with zombies and celebrities, dangerous cliffs and deadly accidents, as well as meetings with exotic animals. Get close to all 38 hand-painted pieces and enjoy them for as long as you want. Once your camera's storage capacity fills up, head next to the museum's Augmented Reality video studio. Step inside a world far away from reality as you interact with a real-time virtual environment of your choice. Pet an elephant by the riverbanks, meet extinct dinosaurs, or be stranded with a hungry polar bear in the middle of the ocean. Whatever you choose, you'll surely enjoy watching yourself after you're done."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Live out your dream encounters at their Augmented Reality shows, where a real-time virtual environment awaits"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Blur the lines between your imagination and reality at illusion 3D Art Museum in Kuala Lumpur!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore the endless boundaries of creativity with their gigantic 3D paintings and Augmented Reality"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Take unlimited photos of your family and friends posing next to hyperrealistic 38 hand-painted art pieces"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Activities:"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Play around with illusion 3D Art Museum's hyperrealistic paintings with friends"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Cling for your life as the Tyrannosaurus Rex painting attempts to devour you"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Strike a cute and creative pose for a photo with your favorite movie character"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Enter an augmented reality of dinosaurs, exotic animals, and more at illusion 3D Art Museum"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to illusion 3D Art Museum"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Your booking is confirmed. Final Ticket will be sent to you separately. Please present either mobile or printed Final Ticket for redemption."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The voucher is valid for 90 day(s) from the booking confirmation date. It expires at 18:00 on the last day Children aged 0-12 must be accompanied by a paying adult Children aged 0-3 can enter free of charge Senior aged 60+ Outside food and drinks are not allowed inside the venue Re-entry to the venue is permitted. Show your ticket/wristband/stamp upon re-entry at the entrance This activity is stroller and wheelchair-accessible PWDs, pregnant women, and people with medical conditions are allowed to enter the museum"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket - Malaysian Passport Holders"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/illusion-3d-art-museum-ticket-in-kuala-lumpur"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "museums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER2p7n8k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 33
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 17
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 17
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket - Non Malaysian Passport Holders"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/illusion-3d-art-museum-ticket-in-kuala-lumpur"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "museums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER2p7n8k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 44
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 23
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 23
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/773/DSP/773_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "illusion 3D Art Museum Ticket in Kuala Lumpur"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Klook (MY)"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJg4k6mJ1JzDER2p7n8k5l9Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

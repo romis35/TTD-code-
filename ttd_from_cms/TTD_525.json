@@ -1,0 +1,348 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300557
+  },
+  "products": [
+    {
+      "id": "product-525",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "The Bentong Farm"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "The Bentong Farm is an ideal destination for a day trip with the family, located just an hour's drive from Kuala Lumpur. Surrounded by lush forests, green fields, and fruit orchards, it provides a refreshing escape from the hustle and bustle of the city.At The Bentong Farm, visitors can enjoy a variety of activities, including interacting with exotic animals such as the 'World's Smallest Horse', South American alpacas, snakes, tortoises, marmosets, tropical birds, and more. Visitors can also handle and feed some of the animals under the supervision of the staff, providing a unique and personalized experience.Children can even go horseback riding, adding an extra touch of adventure to their visit. The farm's serene environment offers a chance to relax and enjoy the natural beauty of the countryside, while the range of activities available ensures that there is something for everyone to enjoy."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Bentong Farm, located just 8 minutes from Bentong town and an hour’s drive from Kuala Lumpur, is a magnificent display of nature and beautiful landscapes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The farm is spread across 27 acres of beautifully landscaped areas with magnificent waterfalls, ponds, and streams, creating a sense of being one with nature."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Animal Interactions: The farm is home to over 100 species of tamed yet exotic creatures."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Educational Programs: The farm provides a suitable and safe place for visitors from all walks of life and ages to learn more about nature, animals, and plants."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The farm has won the award as the ‘Best Agro Tourism Destination’ by MATA and Santai Travel and is also accredited by Malaysia Tourism Quality Assurance (MyTQA)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "magine a haven of lush greenery where rows of vegetables flourish, fruit trees laden with seasonal bounty, and friendly farm animals await your visit. The Bentong Farm allows visitors to get up close and personal with a variety of animals, from gentle goats and fluffy sheep to clucking chickens and playful rabbits. You might even have the opportunity to feed them or learn about their care from the farm's experienced staff.The educational aspect goes beyond simple observation. The Bentong Farm offers interactive workshops and demonstrations that delve into the world of agriculture. You might learn about soil management, planting techniques, harvesting practices, and the importance of sustainable farming methods.  These activities are not only informative but also a fun way to engage with the agricultural process firsthand."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Children denote from 90 cm body height and until 11 years old."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Free child entry (below 90 cm) must be accompanied by a paying adult."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "No refunds will be entertained due to inclement weather, natural disaster and/ or force majeure."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Outside food and drinks are strictly not allowed."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Single entry to The Bentong Farm"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Tickets are valid on the selected fixed date. Free & Easy tour basis Not valid with other ongoing discounts, promotions & packages The visitor’s name entered in the E-voucher must be the same as per visitor’s identification. Incorrect names may cause invalidation of E-vouchers. Children must be accompanied by an adult at all times Each purchase is valid for one entry only. Expired purchases will not be extended, replaced, or refunded. Outside food is strictly not allowed. It is a condition of entry that visitor agrees to be bound by all rules and regulations displayed at THE BENTONG FARM. The owner of THE BENTONG FARM and the Management shall be under no circumstances be held liable for any injuries, death and/or loss and damage to property however caused. No refunds will be entertained due to inclement weather, natural disaster and/or force majeure THE BENTONG FARM management reserves the right to change the Terms & Conditions from time to time. Failure to comply with the above terms may result in delay or non-issuance of the E-Voucher. Eligibility Child: Above 90 cm in height and 11 years old and below (proof of age required). Senior Citizen: 60 years old and above, eligible to enjoy Child rate (proof of age required). Free Admission: Children below 90 cm in height. Children must be accompanied by an adult at all times within the farm."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance Ticket - MyKad Holders"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bentong/the-bentong-farm"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "day-trips"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx7m2k9BJzDER5p8n4l2k7Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 46
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (0–11 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 36
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 36
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance Ticket - Non MyKad Holders"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bentong/the-bentong-farm"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "day-trips"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx7m2k9BJzDER5p8n4l2k7Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 66
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (0–11 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 55
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (60–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 55
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/525/DSP/525_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Bentong Farm"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Farm In The City"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJx7m2k9BJzDER5p8n4l2k7Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

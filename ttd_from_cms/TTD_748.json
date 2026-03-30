@@ -1,0 +1,1264 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300580
+  },
+  "products": [
+    {
+      "id": "product-748",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Night Safari"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Retreat into this mysterious animal kingdom and heighten your senses for the nocturnal Ultimate Wildlife Experience. Under the moonlit skies, immerse yourself in a magical kingdom where wild animals roam when they are most naturally active.Meet over 1,000 creatures from 120 species as you embark on an adventure on our tram ride and four walking trails. Start the night on a high as our fiery Thumbuakar tribal performers welcome you into the Park and get set for a truly close encounter with the wild."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hop on our open-sided tram and journey through 6 of the world’s geographical regions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore our Safari Trails and embark on the Safari Tram Adventure. Your night here is set to be wild!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The night's calling! There’s no better way to experience the ‘dark of the action’ than to embark on one of our multi-sensory activities."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Embark on a wild nocturnal adventure"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Activities:"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Wildlife Experiences: Go on a buggy-and-walking adventure in the company of an expert guide who will revel you with insider tales about our animals."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Presentations: Catch our presentations to witness the amazing talents of our animals and performers."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Keeper Talks: Coming on a weekend? Be sure to catch our big cats in action during their snack time and watch them devour their meaty treats!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Unique Dining Experience: Escape the city life and enjoy a night at Night Safari's Tipi tent. Indulge in an evening of gourmet food and amazing wildlife encounters!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Night Photography E-Guide: Having a challenge with your night shots? Learn how you can create that insta-worthy photo with tips and tricks from 4 of Sony’s Photographers. Download the e-guide and be ready to impress!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Indian Rhino Feeding at East Lodge Trail: Get up close with these one-horned heavyweights as they feed off your hand under the moonlit sky. Don’t miss out on this great photo moment! This experience is available as an add-on for $10 per food portion."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Night Safari's official website for any updates"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Wheelchair, stroller, and electric scooters accessible."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Ticket to Ulu Ulu Asian Dinner"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Your booking is confirmed. The final ticket will be sent to you separately. Please present either mobile or printed final voucher for redemption."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Valid for one usage only. Ticket is valid on the selected date and time 2pax and above will be provided in Buffet Style. A complimentary meal for a child below 6 years of age is limited to one (1) child per one (1) accompanying adult. A child who does not meet this rule shall be charged at child's rate. Reservation is subject to availability at the time of booking All TA Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at the voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Once you received the ticket, please secure your preferred date and timeslot in advance before visiting our parks from the below link https://reseller.mandai.com/ticketstore/GuestBookTimeslot"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Upon confirmation of date/time via the link, there is no change of timeslot upon e-ticket with barcode being issued."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please arrive no later than 45 minutes from above selected time. If the park’s capacity has been reached, you may be required to wait till there is availability"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Guests visiting Night Safari must select a time slot for a better experience. A child is defined as a person between 3 to 12 years of age for the purpose of determining whether an admission ticket to a WRS Park is required. Children below 3 years old may enter the WRS Parks for free, subject to WRS’ satisfactory verification. A senior is defined as a person at 60 years of age and above for the purpose of determining whether an admission ticket to a WRS Park is required. All TA Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Tram Ride"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Save this e-ticket on your mobile device or print it (max 4 per page). Present your ticket at the entrance"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: For information on Safe Management Measures, visit www.mandai.com/en/parks-advisory.html"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: To increase the supply of taxis to our parks during peak hours, a $5 surcharge is applicable to all hired taxis departing from Mandai Wildlife Reserve from 1:00pm to 11:59pm daily. A child is defined as a person between 3 to 12 years of age for the purpose of determining whether an admission ticket to a Mandai Wildlife Group (MWG) Park is required. Children below 3 years old may enter the Mandai Wildlife Group (MWG) Parks for free, subject to Mandai Wildlife Group (MWG)’ satisfactory verification. A senior is defined as a person at 60 years of age and above for the purpose of determining whether an admission ticket to a Mandai Wildlife Group (MWG) Park is required. All TA Admission Tickets are subject to Mandai Wildlife Group (MWG) Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at voucher holder's own risk. Mandai Wildlife Group (MWG) will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. Mandai Wildlife Group (MWG) may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, Mandai Wildlife Group (MWG) electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission Ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Ticket to Multi-Lingual Tram"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: 1. Please present both your admission ticket and multi-language tram ticket with QR codes at the entrance."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: 2. Make your way to Tram Station 5 and arrive at least 10 minutes before your scheduled multi-language tram departure time."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: 3. Present your multi-language tram ticket again to the staff at Tram Station 5 to confirm your booking."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: 4. Collect your earphones from the staff before boarding the tram."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: 5. Board the multi-language tram and enjoy your guided journey through the Night Safari!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: 6. You are welcome to keep and reuse your earphones for other audio experiences. If you choose to dispose them, kindly use the recycling bin for both the earphones and packaging."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: To increase the supply of taxis to our parks during peak hours, a $5 surcharge is applicable to all hired taxis departing from Mandai Wildlife Reserve from 1:00pm to 11:59pm daily. Valid for one usage only. Ticket is valid on the date of visit as stated All TA Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at the voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Night Safari Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Creatures of the Night (Reserved Seat)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: To increase the supply of taxis to our parks during peak hours, a $5 surcharge is applicable to all hired taxis departing from Mandai Wildlife Reserve from 1:00pm to 11:59pm daily. Seat bookings for the Creatures of the Night presentation and the Once Upon A River presentation can be made on our Mandai Booking Portal from 2 hours before each presentation. Valid for one usage only. A child is defined as a person between 3 to 12 years of age for the purpose of determining whether an admission ticket to a WRS Park is required. Children below 3 years old may enter the WRS Parks for free, subject to WRS’ satisfactory verification. A senior is defined as a person at 60 years of age and above for the purpose of determining whether an admission ticket to a WRS Park is required. All TA Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Valid for one usage only. Ticket is valid on the date of visit as stated All TA Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at the voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Ticket to Priority Tram Boarding"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Valid on the selected date Valid for one usage only. Ticket is valid on the date of visit as stated All TA Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at the voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: NS Creature of the Night Reserved Seat"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Your booking is confirmed. Final Ticket will be sent to you separately. Please present either mobile or printed Final Ticket for redemption."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Seat bookings for the Creatures of the Night presentation and the Once Upon A River presentation can be made on our mandai Booking Portal from 2 hours before each presentation. Valid for one usage only. Ticket is valid on the date of visit as stated All TA Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at the voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Ticket to Ulu Ulu Indian Dinner, Non-Vegetarian Meal"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to With Tram Ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Guests visiting Night Safari must select a time slot for a better experience. Ticket is valid for 1 month from date of purchase. A child is defined as a person between 3 to 12 years of age for the purpose of determining whether an admission ticket to a WRS Park is required. Children below 3 years old may enter the WRS Parks for free, subject to WRS’ satisfactory verification. A senior is defined as a person at 60 years of age and above for the purpose of determining whether an admission ticket to a WRS Park is required. All TA Local Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Tram"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Important notes: This ticket is not valid to be used on 24, 25 and 31 Dec 2025. Guests visiting Night Safari must select a time slot for a better experience. A child is defined as a person between 3 to 12 years of age for the purpose of determining whether an admission ticket to a WRS Park is required. Children below 3 years old may enter the WRS Parks for free, subject to WRS’ satisfactory verification. A senior is defined as a person at 60 years of age and above for the purpose of determining whether an admission ticket to a WRS Park is required. All TA Admission Tickets are subject to WRS Parks’ prevailing “Park Ticket Terms & Conditions” published at https://www.mandai.com/en/park-terms.html. No return, exchange, cancellation and/or cash refund of TA Local Admission Tickets purchased and/or issued is allowed. Admission is at voucher holder's own risk. WRS will not be responsible for any loss, damage or injury sustained by the voucher holder while in the park Voucher holder agrees not to use photographs/ recording in the park for commercial purposes. WRS may take photographs/recordings of any park visitor for any purpose, without prior approval or compensation; In the event of dispute, WRS electronic records shall prevail; No claims will be entertained for any lost, torn, defaced or expired voucher. Ticket prices and governing conditions are subject to change without notice"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Asian Buffet Dinner at the Courtyard"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 151
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 117
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission with Tram (Tourist) - Open Dated"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 179
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 127
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission with Tram (Tourist)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 179
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 127
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission with Multi-Lingual Tram (Tourist)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 210
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 157
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission with Tram & Creatures of the Night (Tourist)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 210
+              }
+            },
+            {
+              "id": "option-5-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 157
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Multi-Lingual Tram"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 31
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Priority Tram Boarding"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 31
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-8",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Creatures of the Night (Admission not included)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-8-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 31
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-9",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Indian Buffet Dinner at the Courtyard"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-9-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 99
+              }
+            },
+            {
+              "id": "option-9-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 68
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-10",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission with Tram (Local)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-10-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 179
+              }
+            },
+            {
+              "id": "option-10-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 127
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-11",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission with Tram (Local) - Open Dated"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-11-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 179
+              }
+            },
+            {
+              "id": "option-11-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 127
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-12",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "[30% Off Promo] Admission with Tram (Tourist) - Open Dated"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/night-safari"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "safari"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-12-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 179
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/748/DSP/748_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Night Safari"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Mandai Wildlife Group (MWG)"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJr0l5d5AZ2jER4n2p7k5l9Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

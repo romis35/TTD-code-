@@ -1,0 +1,449 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300539
+  },
+  "products": [
+    {
+      "id": "product-307",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Dream Forest Langkawi"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "An Enchanting Rainforest Night WalkWhere legends come to lifeAs night falls, travellers are invited to enter the Dream Forest Book Portal and into the magical realm of Sang Gedembai, the legendary keeper of stories and Guardian of the Forest.Stroll along a leisurely 1.2km trail to discover tales like the bittersweet love story of Dayang Bunting Lake, the fabled battle between mighty warrior Merong Mahawangsa and his nemesis Garuda, and… did you know Langkawi was once the home of GIANTS? Immerse yourself in their stories through mesmerising lights, music, projection mapping, art installations, interactive activities and narration.Created by Tiara Jacquelina and the award-winning team at Enfiniti - storytelling, cutting-edge technology and nature come together to create an unforgettable experience.Are you ready for a magical journey?"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Stroll along a leisurely 1.2km trail to discover Langkawi's mythical tales, brought to life through mesmerising lights, music, projection mapping"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The 14 different zones are carefully designed around the natural environment and tell stories about Langkawi's rich history and folklore including the Legend."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "This magical multi-sensory adventure is perfect for families with children of all ages."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "There are discounts for Langkawi residents, MyKad holders, and senior citizens."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The park is open daily from 7pm to 12am, except for Wednesdays (unless it is a public or school holiday)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Escape the ordinary and enter a world of wonder on Langkawi's Enchanting Night Walk!&nbsp; Step through a dreamlike portal and embark on a leisurely stroll through the rainforest. Uncover captivating local legends like the star-crossed lovers of Dayang Bunting Lake and the epic battle between Merong Mahawangsa and Garuda.&nbsp; Interactive displays, mesmerizing lights, music, and projections bring these stories to life.&nbsp; Created by the award-winning Enfiniti team, this unforgettable experience blends storytelling with cutting-edge technology for a magical journey through Langkawi's myths and rainforest beauty.&nbsp;&nbsp;"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Age: Best for ages 7+, parental discretion advised."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Food/Drinks: Bring water, check for cafes on-site."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Photography: Flash restrictions may apply."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to Dream Forest Langkawi"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission E-Ticket(s) must be purchased at least 24 hours before your visit date to Dream Forest Langkawi to allow time for transaction processing. Failure to do so may result in normal admission charges being applied at the venue.Eligibility FREE park admission applies to children aged 2 years and below. Adult Ticket: 16 years old and above Child Ticket: 3 – 15 years old Senior Ticket: 60 years old and above Guests with Disabilities (OKU): Guests holding valid disability certificatesAttraction Access Outside food and drinks are not allowed inside the venue. Dangerous materials and items such as bottles, firecrackers, lasers, and any items that may disturb or inconvenience other guests are prohibited. Flash photography is prohibited inside the venue. Re-entry is not allowed after you leave the venue.Additional Information No requests to change the validity date of purchased tickets will be entertained. Tickets are strictly non-transferable, not for resale, not exchangeable, and non-refundable under any circumstances, including external factors beyond reasonable control (e.g. haze, inclement weather, governmental acts, acts of God, riots, or strikes). Tickets will be void if altered, defaced, or tampered with.Important Notes Please ensure tickets are purchased in advance and comply with all venue rules to avoid any inconvenience during entry."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation till validity ends."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing Counter"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Limited Time Offer - Standard Admission [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/dream-forest-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (16–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–15 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 34
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 26
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Standard Admission [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/dream-forest-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 56
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 33
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Limited Time Offer - Standard Admission [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/dream-forest-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (16–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 68
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (3–15 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 52
+              }
+            },
+            {
+              "id": "option-3-senior",
+              "title": "Senior (60–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 34
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Standard Admission [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/dream-forest-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 85
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            },
+            {
+              "id": "option-4-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/307/DSP/307_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dream Forest Langkawi"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "ENFINITI INTERACTIVE XPERIENCES SDN BHD"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJ9xk4n613zDERl8p2m7s5n3Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

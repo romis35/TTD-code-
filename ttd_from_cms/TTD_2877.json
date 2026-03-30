@@ -1,0 +1,1297 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300609
+  },
+  "products": [
+    {
+      "id": "product-2877",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Commbitz Malaysia e-SIM Package"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Commbitz eSIM is a digital SIM card that allows users to connect to cellular networks without needing a physical SIM card. It enables travelers and users to easily access mobile data services in various countries without the hassle of swapping out physical SIM cards. The eSIM can be activated over the air by scanning a QR code, making it convenient for users to switch between different data plans or carriers."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The validity of the package will begin once the OR code is scanned and the eSIM is installed."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Get an instant data connection with a 5G data-only eSIM."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Get connected right after you land in your desired country"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "24/7 business support and customer support services"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Supports Android, iOS eSIM compatible devices"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "With Commbitz eSIM, expect a hassle-free mobile data experience wherever you go. Instantly connect to local networks without changing physical SIM cards—just scan a QR code to activate your plan. Whether you're traveling or switching carriers, enjoy seamless access to reliable mobile data across multiple countries, all from your device."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 3GB - 3 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Pre-book before visiting: Please refer to the ticket description/ important notes to activate the e-sim."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Your booking is confirmed. Final Ticket will be sent to you separately. Please present either mobile or printed Final Ticket for redemption."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Commbitz eSIM can only be installed once Single-Device Use: An eSIM cannot be installed or reinstalled on multiple devices. After it’s activated on one device, it cannot be transferred to another. Non-Reinstallable: If you delete or remove the eSIM profile, whether for troubleshooting, device upgrades, or any other reason, you will not be able to reinstall it on the same device or any other device. A new eSIM purchase is required to reconnect to the network. Before installing, double-check that you are setting up the eSIM on the device you intend to use for the duration of its validity period. Terms of service Registration Registering for our Service has never been difficult!! Customers have multiple options to choose from when signing up. They can conveniently register through our user-friendly website, access our Commbitz App, or even register with the help of other trusted partners or agents. We aim to provide a seamless and hassle-free registration process for all of our valued customers. To fully enjoy the benefits of registration, customers are kindly asked to provide essential details. This includes their First and Last name, as well as a verifiable email address. For added personalization, customers also have the option to upload a profile photo and share their travel preferences. Rest assured, providing this information is entirely voluntary and helps us tailor our services to meet your unique needs. To register for the service, customers must accept both the General Terms and Conditions, as well as the Privacy Policies. By doing so, customers ensure that they are fully informed about their rights and responsibilities, while also maintaining their privacy and data security. Purchase and Activation Commbitz may limit the availability of plans to specific countries. Rest assured, our website, Commbitz app, and trusted partners and agents are all equipped with easy-to-use search and purchase functionalities. This gives you the freedom to explore, select, and buy the perfect plan that suits your needs without any hassle. When customers choose to purchase our Service, they are confirming that they already possess an unlocked and eSIM-compatible device, as this is a necessary requirement to fully enjoy the benefits of our Service. After making a purchase, it is important for customers to download the eSIM onto their device. This step ensures that the data plans are properly configured according to your order specifications. The best part is that once downloaded, the eSIM remains on your device even after your credit has been used up or your plan has expired. Customers have the flexibility to remove the eSIM in their phone settings whenever they please. However, we highly recommend that customers refrain from removing the eSIM until their plan has been fully utilized or expired. This will ensure a seamless and uninterrupted experience throughout their plan duration. In order to enjoy our services, customers are required to follow a simple process. Firstly, they need to download the eSIM onto their device. Once that’s done, activating the data plan attached to the eSIM will initiate the service. It’s worth noting that a stable internet connection is essential for a smooth downloading and activation experience. Rest assured, we are here to assist you every step of the way"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 3GB - 5 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 3GB - 7 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 5GB - 3 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 5GB - 5 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 5GB - 7 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 10GB - 10 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 10GB - 15 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 10GB - 30 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 20GB - 10 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 20GB - 15 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 20GB - 30 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 30GB - 10 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 30GB - 15 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 30GB - 30 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 50GB - 10 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 50GB - 15 Days"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 50GB - 30 Days"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "3GB - 3 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 10
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "3GB - 5 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 10
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "3GB - 7 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 11
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "5GB - 3 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 14
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "5GB - 5 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 15
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "5GB - 7 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 15
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "10GB - 10 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 28
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-8",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "10GB - 15 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-8-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 29
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-9",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "10GB - 30 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-9-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 30
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-10",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "20GB - 10 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-10-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-11",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "20GB - 15 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-11-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-12",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "20GB - 30 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-12-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 49
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-13",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "30GB - 10 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-13-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 64
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-14",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "30GB - 15 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-14-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 67
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-15",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "30GB - 30 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-15-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 70
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-16",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "50GB - 10 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-16-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 100
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-17",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "50GB - 15 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-17-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 104
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-18",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "50GB - 30 Days"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/commbitz-malaysia-e-sim-package"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wifi-sim-cards"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-18-per-item",
+              "title": "Per Item (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 108
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2877/DSP/2877_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Commbitz Malaysia e-SIM Package"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Commbitz Ltd"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJTydCFXhJzDER4r2s8zYz3nA"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

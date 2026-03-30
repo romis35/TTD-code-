@@ -1,0 +1,338 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603271064
+  },
+  "products": [
+    {
+      "id": "product-13",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Underwater World Langkawi"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Say hello to the lovely penguins and multicolored tropical fish at a water world wonderland in Langkawi, one of the biggest aquariums in Southeast Asia. With more than 5,000 species of animals, including fish, birds, and mammals, the aquarium won't leave you with a moment of boredom! Comfortably stroll through the Marine Life Area, Rainforest Area, and Sub-Antarctic Area. These three zones make up the main areas of Underwater World, and each of them features different exciting animals."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.1,
+        "rating_count": 12972
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Underwater World Langkawi continues to captivate visitors with its unique blend of knowledge, education, and entertainment."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Penguinarium in the Sub-Antarctic section is a star attraction and a leading facility in Malaysia for breeding Rockhopper penguins in captivity."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The rainforest area hosts the world's smallest monkeys, the marmosets, alongside other rainforest species."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Underwater World Langkawi is not just an aquarium; it's an immersive experience where adventure meets education."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "One-day admission ticket to Underwater World Langkawi."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The attraction focuses on knowledge, education, and entertainment, raising awareness of aquatic conservation and the bond between people and nature."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore the Preview Tank, River Ecosystem, Tropical Rainforest aviary (flamingos, macaws, marmosets), Temperate Section (fur seals, African penguins), Sub-Antarctic Rockhoppers, the Hexagonal \"Sunken Ship\" tank, the 15-meter tunnel tank, Koi Pond, Invertebrate and Coral Reef zones, and more—with caution around venomous moray eels and lionfish."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Children must be accompanied by an adult guardian at all times"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Underwater World Langkawi is not responsible for any lost, stolen, or damaged personal belongings. Please secure valuables appropriately"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Visitors with heart problems, epilepsy, vertigo, or pregnancy should consult a healthcare professional"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Do not touch or feed the animals unless explicitly permitted by staff"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Weapons, sharp objects, illegal substances, and outside food and beverages are not allowed inside the facility"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Usual hours: daily 10:00 AM–6:00 PM (confirm before visit). Chinese New Year 17–18 February 2026: 9:30 AM–9:30 PM. Ramadan 19 February–20 March 2026: 10:00 AM–5:00 PM, last admission 4:30 PM. Hari Raya: first day 11:00 AM–6:30 PM; from second day through 29 March 2026, 9:30 AM–6:30 PM."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket valid up to 90 days from issue. Free for children below 3; child rate ages 3–12; adult 13+. Free cancellation until validity ends (per your sales channel). Stroller- and wheelchair-accessible."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Redemption: present mobile or printed voucher at the ticketing counter. Malaysian tickets: bring MyKad. Non-Malaysian: bring passport or proof of identity as required."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance Ticket Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/underwater-world-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "animals"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8cJY6t3zDERfQbQ7x8G7oM"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance Ticket Non-Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/underwater-world-langkawi"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "animals"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8cJY6t3zDERfQbQ7x8G7oM"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13+ yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 59
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 48
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/544/DSP/544_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Underwater World Langkawi"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Underwater World Langkawi Sdn Bhd"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJb8cJY6t3zDERfQbQ7x8G7oM"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

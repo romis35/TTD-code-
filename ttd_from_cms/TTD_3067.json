@@ -1,0 +1,240 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300599
+  },
+  "products": [
+    {
+      "id": "product-3067",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "KidZania SG"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "KidZania Singapore is an interactive city for kids, comprising role-play locations or establishments such as a hospital, police station, aviation academy and more. In each establishment kids get to experience different professions through realistic role-play activities - firefighter at a fire station, surgeon at the hospital, scientist at the research laboratory to name a few."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KidZania Singapore offers children real-life experiences through role-play activities in the kid-sized city"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Children can develop valuable life skills that will help them follow their dreams and get ready for a better world!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KidZania has over 60 role-play activities for kids aged 4 - 14 to explore. Pilot, surgeon, firefighter, chef, magician - we have it all!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "By earning money in the miniature city, kids learn how to save and spend wisely"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience a fun-filled, interactive city where kids role-play real-world careers at KidZania Singapore."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Comfortable Clothing & Shoes – Activities involve walking and movement."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Check Age/Height Requirements – Not all roles are suitable for all ages."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to KidZania SG"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Pre-book before visiting: Please pre-register your facial image/photo online via the face register link stated in the ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Entry to KidZania Singapore is subject to park capacity. Operating hours may be subject to change without prior notice. Re-entry is not allowed after you leave the venue. Tickets are non-refundable, non-transferable, not for resale, and non-replaceable if lost or stolen.Eligibility Senior citizens aged 60 years and above may enjoy complimentary admission when accompanied by a paying guest. A physical original photo ID must be presented at the entrance to receive the ticket. Admission of an adult without a child is not permitted. Children below 8 years old must be accompanied by an adult at all times inside the venue. Children aged 8 to 17 years old may enter without an adult, but an adult must be present during check-in and check-out.Attraction Access Other park rules and regulations apply and must be followed at all times.Additional Information Photography and videography may be conducted inside the venue. By entering, guests consent to the use of images on official website, social media, and other marketing materials.Important Notes Guests are advised to review all park rules and entry requirements before visiting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "General Admission"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/kidzania-sg"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJV2x9oY1JzDER7p4n2l8k5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (18–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 186
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–17 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 305
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3067/DSP/3067_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KidZania SG"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "KidZania SG"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJV2x9oY1JzDER7p4n2l8k5Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

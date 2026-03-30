@@ -1,0 +1,460 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300563
+  },
+  "products": [
+    {
+      "id": "product-831",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Just Farm by Just Pets Megastore Ticket (Malaysia Largest Indoor Petting Zoo)"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Welcome to Just Pets Megastore at Tropicana Garden Mall, Malaysia's largest pet shop spanning an impressive 99,000 square feet. As your one-stop pet solution, we offer an extensive range of over 500 animal species, with over 3,000 live animals to choose from. Conveniently located in a strategic setting, our megastore provides easy parking and an indoor shopping experience. Catering to everyone from young families to couples and passionate pet lovers, we aim to be the go-to destination for all your pet needs. Explore our vast selection and embark on a journey to discover the perfect companionship for your home."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Find your perfect cuddle buddy among our range of adorable puppies, kittens, and small mammals, each waiting to bring joy to your home."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Discover a kaleidoscope of colors with our diverse selection of exotic bird species, including parrots, macaws, and cockatoos."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Stock up on premium pet supplies"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dive into our aquatic wonderland and explore our vast collection of tropical fish, coral reefs, and mesmerizing aquarium setups."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Unleash your wild side with our assortment of reptiles, including snakes, lizards, and turtles, for those looking to add a unique touch to their home."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Welcome to Just Farm. An indoor farm that houses a vast array of species with facilities designed to replicate the natural surroundings of its animal residents. Meet our animal residents in comfort, without having to leave the city."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Obtain approved food from the feeding stations, and our zookeeper will guide you in feeding specific animals"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Ticket valid until 30 days from date of purchase Adult: Above 130cm Childern: 85cm-130cm (below 130cm) Free of charge (FOC) Below 85 cm or 2 years old Ticket must be booked at least one day in advance before the visit date Re-entry to the zoo is prohibited. The owner of Just Farm shall not be liable for any injuries, death, loss, or damage to property under any circumstances. No refunds will be provided due to inclement weather, natural disasters, or any force majeure events. Tickets are not valid with ongoing promotions, group packages, functions, or tours. Outside food is strictly prohibited. Guests agree to be bound by all rules and regulations displayed at Just Farm as a condition of entry."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation till validity ends."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Just Farm Admission for 2 Adults + 1 Child"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Ticket valid until 30 valid for individuals aged 13-59 years old Adult: Above 130cm Childern: 85cm-130cm (below 130cm) Free of charge (FOC) Below 85 cm or 2 years old Ticket must be booked at least one day in advance before the visit date Re-entry to the zoo is prohibited. The owner of Just Farm shall not be liable for any injuries, death, loss, or damage to property under any circumstances. No refunds will be provided due to inclement weather, natural disasters, or any force majeure events. Tickets are not valid with ongoing promotions, group packages, functions, or tours. Outside food is strictly prohibited. Guests agree to be bound by all rules and regulations displayed at Just Farm as a condition of entry."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Just Farm Admission for 2 Adults + 2 Child"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Just Farm"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/petaling-jaya/just-farm-by-just-pets-megastore-ticket-malaysia-largest-indoor-petting-zoo"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx6m8k9BMzDER8p2n7l4k5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 55
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Just Dogs"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/petaling-jaya/just-farm-by-just-pets-megastore-ticket-malaysia-largest-indoor-petting-zoo"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx6m8k9BMzDER8p2n7l4k5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 46
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 36
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Just Cats"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/petaling-jaya/just-farm-by-just-pets-megastore-ticket-malaysia-largest-indoor-petting-zoo"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx6m8k9BMzDER8p2n7l4k5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 46
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 36
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Just Farm Family Combo: 2 Adults + 1 Child"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/petaling-jaya/just-farm-by-just-pets-megastore-ticket-malaysia-largest-indoor-petting-zoo"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx6m8k9BMzDER8p2n7l4k5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-per-group",
+              "title": "Per Group (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 175
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Just Farm Family Combo: 2 Adults + 2 Child"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/petaling-jaya/just-farm-by-just-pets-megastore-ticket-malaysia-largest-indoor-petting-zoo"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx6m8k9BMzDER8p2n7l4k5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-per-group",
+              "title": "Per Group (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 227
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/831/DSP/831_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Just Farm by Just Pets Megastore Ticket (Malaysia Largest Indoor Petting Zoo)"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Just Pets Megastore"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJx6m8k9BMzDER8p2n7l4k5Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300598
+  },
+  "products": [
+    {
+      "id": "product-766",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "District 21 in IOI City Mall Putrajaya"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "District21 is a first of its kind, apocalypse themed Adventure Park. This action park is located in a 52,000 sq.ft, indoor premise with a 55ft air-conditioned atrium, within IOI City Mall, Putrajaya. Comprising 8 prominent attractions and 5 function rooms, District21 also offers an ideal venue for corporate team building events, school group visitations and birthday parties. Void of ‘passive’ rides, the credo of District21 is Fun, Passion, and its Participation requires the engagement of the entire family. Incorporating 8 adventure attractions, many of which have never been seen in Asia, District21 offers activities for all visitors to get you climbing, jumping, riding, sliding and flying."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Spend an adrenaline filled day at District 21, and experience it's future post-apocalyptic world designs with your friends and family"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore all 8 adventure attractions within, filled with climbing, sliding, riding, jumping, free falling and flying"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Choose from Easy courses such as the Tubby Ride, Yoyo Car, Launch Pad, Power Station Free Fall"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "OR the Maze to the Medium difficulty course such as Low Ropes to the Harder courses such as Ninja Warrior, Sky Trail and Roller Glider"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Play and stop at your own leisure with this multi-entry ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Activities:"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- District 21's Info Counter with it's futuristic design"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- The Launch Pad is filled with trampolines for you to bounce around"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Try out multiple courses such as the Launch Pad, Maze, Ninja Warrior Course and many more"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Hop aboard the Roller Glider, a combination of both a roller coaster and a flying fox and get your adrenaline pumping!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Test your limits by climbing up the vertical pillars at the Power Station attraction"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "- Enter \"The Maze\", a series of twists and turns with puzzles, cages, and a labyrinth within"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1-day attraction pass"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Access to all games"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Your booking is confirmed. Final Ticket will be sent to you separately. Please present either mobile or printed Final Ticket for redemption."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The voucher is valid only on the specified date (and time if applicable) Children at height 90 cm and below are not charged, no activities to play Children aged 0-18 must be accompanied by a paying adult Wheel-chair-bound visitors are free of charge A Liability Waiver is required to be filled up and signed by an adult (aged 18+) Re-entry to the venue is permitted. Show your ticket/wristband/stamp upon re-entry at the entrance The minimum height for rides are 90 cm Minimum weight: 15 kg, Maximum weight is at 120 kg (80 kg for roller glider) Guests with a body temperature exceeding 37.5°C will not be allowed to enter the park OKU guests are required to pay MYR 20.00 at the ticketing counter for admission. Please ensure that the OKU card is presented during the date of visiting No slippers are allowed for participation (Sports shoes are COMPULSORY for active tickets) This activity is not recommended for those with medical conditions (high blood pressure, epilepsy, etc.), pregnant women, or seniors This activity is not stroller-friendly"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket (Weekday)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/putrajaya/district-21-in-ioi-city-mall-putrajaya"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy2t4hP9MzDER3m7k9l2n5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 59
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket (Weekend and Public/School Holiday)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/putrajaya/district-21-in-ioi-city-mall-putrajaya"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJy2t4hP9MzDER3m7k9l2n5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 70
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/766/DSP/766_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "District 21 in IOI City Mall Putrajaya"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Klook (MY)"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJy2t4hP9MzDER3m7k9l2n5Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

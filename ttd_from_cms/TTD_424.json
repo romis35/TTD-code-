@@ -1,0 +1,461 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300556
+  },
+  "products": [
+    {
+      "id": "product-424",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Museum Of Illusions Kuala Lumpur"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Take a peek inside of the Museum of Illusions Kuala Lumpur!Welcome to the fascinating world of illusions! Get entertained, confused and completely blown away, experience the unimaginable and learn all about how our wonderful mind works. You’re up for an amazing experience because nothing is what is seems to be at the Museum of Illusions Kuala Lumpur."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "\"Best place for edutainment in Kuala Lumpur \""
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Deceive your eyes as you explore the wide collection of hologram installations and tricks"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Grab your camera and enjoy taking pictures with various optical illusion displays"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Perfect for family and friends, the museum houses many fun-filled activities for everyone"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "You won't believe your eyes!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Museum of Illusions is a 21st-century museum offering a unique experience that tricks the mind, challenges the vision and makes you question all of your senses."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "All exhibits are based on science, mathematics, psychology and art allowing you to learn a lot about vision and the human brain, but in a fun and interactive way!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction:  While photography is encouraged, using flash photography or tripods might be restricted in certain areas."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Visitors with mobility limitations or who are pregnant should exercise caution and navigate the museum at their own pace."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction:  Be aware that eating and drinking are not permitted inside the exhibition halls."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "This allows you to inquire about the specific accessibility features of the museum on the day of your visit and discuss any accommodations you might need."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The voucher is valid for 30 days from the booking confirmation date. Children aged 0-17 must be accompanied by a paying adult Free for children aged 0-4 No Food And Drinks in MOI Student tickets, present Student card or ID at the front counter Non Mykad is for non Malaysian/ no malaysian ID"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The voucher is valid for 30 days from the booking confirmation date. Children aged 0-17 must be accompanied by a paying adult Free for children aged 0-4 No Food And Drinks in MOI Student tickets, present Student card or ID at the front counter Mykad is for Malaysian Citizens with Malaysian ID card"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The voucher is valid for 30 days from the booking confirmation date. Children aged 0-17 must be accompanied by a paying adult Free for children aged 0-4 No Food And Drinks in MOI Mykad is for Malaysian Citizens with Malaysian ID card"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: The voucher is valid for 30 days from the booking confirmation date. Children aged 0-17 must be accompanied by a paying adult Free for children aged 0-4 No Food And Drinks in MOI Non Mykad is for non Malaysian/ no malaysian ID"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Museum Of Illusions Kuala Lumpur - Non Mykad"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/museum-of-illusions-kuala-lumpur"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "museums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER2p7n8k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (16–54 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 52
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (5–15 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 42
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (55–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Museum Of Illusions Kuala Lumpur - My Kad"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/museum-of-illusions-kuala-lumpur"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "museums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER2p7n8k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (16–54 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 42
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (5–15 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 34
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (55–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 38
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Museum Of Illusions Kuala Lumpur - My Kad"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/museum-of-illusions-kuala-lumpur"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "museums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER2p7n8k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-student",
+              "title": "Student (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 38
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Museum Of Illusions Kuala Lumpur - Non Mykad"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/museum-of-illusions-kuala-lumpur"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "museums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg4k6mJ1JzDER2p7n8k5l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-student",
+              "title": "Student (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/424/DSP/424_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Museum Of Illusions Kuala Lumpur"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Museum Of Illusions Kuala Lumpur"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJg4k6mJ1JzDER2p7n8k5l9Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300538
+  },
+  "products": [
+    {
+      "id": "product-306",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Dickson Dragon Cruise"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Introducing the Dickson Dragon, a remarkable Trimaran Pontoon boat designed and crafted in the beautiful shores of Phuket, Thailand. With a maximum capacity of 60 passengers, we invite you to indulge in a cruise like no other.Set sail along the mesmerizing Port Dickson coastline, a hidden gem known for its enchanting sunsets. Immerse yourself in the captivating beauty of the Straits of Melaka as the sun dips below the horizon, painting the sky with vibrant hues of orange and gold.But that's not all! Feast your senses on our delectable BBQ Grill, where succulent grilled meats sizzle to perfection. Indulge in a mouth-watering culinary experience as you relish the flavours of the sea and the savoury aroma of grilled goodness. (Note: Pre order your BBQ during booking)Get ready to let loose and dance the night away! Our Karaoke Machine, dazzling disco lights, and powerful speakers will elevate your experience to new heights. Sing your heart out, show off your dance moves, and create memories that will last a lifetime.Take relaxation to the next level with our unique saltwater jacuzzi experience. Lounge on our floating net, dip your toes in the refreshing waters, and let gentle waves create a soothing sensation. It's pure bliss as you unwind and soak up the magic of the sea.Looking to celebrate a special event? The Dickson Dragon is your perfect venue. Whether it's a birthday, wedding, reunion, or team building program, our exceptional boat sets the stage for unforgettable moments. Create cherished memories as you celebrate in style on the picturesque waters of Port Dickson.At the Dickson Dragon Sunset Cruise, we strive to offer you an affordable cruise experience that exceeds your expectations. As the sun sets, we a blessed with awe-inspiring vistas that will leave you breathless, capturing the true essence of Port Dickson's beauty.Join us on the Dickson Dragon Sunset Cruise and let us transport you to a world of wonder, excitement, and pure joy. Book your unforgettable experience today and embark on a journey that will leave you with cherished memories for years to come."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Unwind in a floating saltwater jacuzzi, celebrate life's special moments"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Imagine the sky ablaze with vibrant colors as you capture breathtaking panoramic views."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Immerse yourself in a lively atmosphere with delectable BBQ delights, exciting karaoke options, or even a fun disco atmosphere"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Expect a mesmerizing sunset cruise aboard the Dickson Dragon, featuring delectable BBQ, karaoke fun, and a unique saltwater jacuzzi experience, all amidst the enchanting beauty of Port Dickson's shores."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather: If a Service is delayed or cancelled due to an Event Outside Our Control (ex: Bad weather or Technical problems)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dress code: Please bring your own bathing suit and bath towels if you intend to indulge yourself in any sea activity."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Free Flow of Orange Cordial, Filtered Water and Banana Cake"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Free use of Karaoke"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Free use of Salt Water Jacuzzi"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Public Liability Insurance"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Lavatories"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Open Shower"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Life Jackets (Child & Adults)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Ample sitting place"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Caklempong Malay traditional musical instrument - small brass gong"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Confirm before visiting to contact +6012 900 8200 for your visit."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Infant ( 3 Years and below ) Is Free Of Charge If a Service is delayed or cancelled due to an Event Outside Our Control (ex: Bad weather or Technical problems), Platinum Charters will endeavor to re-schedule the Service to a different day at no extra cost. This decision will be at Platinum Charters sole discretion. All passengers must pay attention to and comply with all regulations and notices relating to the safety and security of the boat, crew, passengers and the boarding facilities. Please check-in at the departure point at least 20 minutes before the schedule departure time. Please bring your own bathing suit and bath towels if you intend to indulge yourself in any sea activities. If you do not have a Bath Towel, it is available on board for rent at RM5 per towel. Free flow of Orange Juice and Filtered Water and Banana Cake. Mineral Water, Canned Drinks and Beer are sold on board. If guests bring their own alcoholic beverages, corkage applies. If you wish to reschedule your cruise date, we require a minimum of 24hrs notice before the original sailing date. Failure to comply with this condition will result in forfeit of total charges. Rescheduling will incur additional handling charges of RM30.00 per ticket. For more information, please call/what's app our Booking Hotline number +6012 9008200 or email us at serawong@platinumcharters.com.my"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dickson Dragon Cruise Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/port-dickson/dickson-dragon-cruise"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cruises"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJk6p9pXxMzDER2n7p5m4l9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 82
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 46
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/306/DSP/306_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dickson Dragon Cruise"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Platinum Charters"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJk6p9pXxMzDER2n7p5m4l9Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

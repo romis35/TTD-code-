@@ -1,0 +1,559 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300608
+  },
+  "products": [
+    {
+      "id": "product-276",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Aquaria KLCC"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Discover the wonders of the underwater world at Aquaria KLCC, a world-class oceanarium located beneath the Kuala Lumpur Convention Centre, just steps away from the iconic Petronas Twin Towers. As one of the city’s top attractions, Aquaria KLCC offers an immersive marine experience in the heart of Kuala Lumpur.Home to over 5,000 aquatic and land-bound creatures, the oceanarium showcases fascinating marine life from around the globe, including tiger sharks, stingrays, sea snakes, seahorses, jellyfish, and more. Interactive zones allow visitors to enjoy close-up encounters with selected species, making the visit both educational and exciting.One of the main highlights is the spectacular 90-meter underwater tunnel, where you can walk through a transparent glass walkway surrounded by sharks, rays, and other marine creatures swimming overhead. Don’t miss the touch pool experience, where you can gently interact with starfish and sea cucumbers."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "One of the Top Five Aquariums in Asia: Aquaria KLCC is recognized as one of the top five aquariums in Asia."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Impressive Exhibits: It showcases over 5,000 land and aquatic creature exhibits spread over a sprawling 60,000 sq ft square."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Underwater Journey: You can take the longest underwater tunnel in Malaysia that showcases some iconic Malaysian species."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Conservation Efforts: Aquaria KLCC has taken steps in providing conservation solutions which will help make our oceans healthier."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Exhibitions"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Evolution zone: Red-bellied Piranha"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Touch pool: Red-bellied Piranha, Brown-banded Bamboo Shark & Horseshoe Crab"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Jewels of Jungle: Asian Small-clawed Otter, Electric Eel & Tokay Gecko"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Shipwreck: Red Lionfish & Reef Stonefish"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Stream: Asian Small-clawed Otter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Station Aquarius: Moon Jelly & Seahorse"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Flooded Forest: Arapaima & Alligator Garfish"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Coastal: Archerfish & Giant Mudskipper"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Living Ocean: Sand Tiger Shark, Green Sea Turtle & Giant Moray Eel"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weird and Wonderful: Pinecone Fish"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Aquaria KLCC official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather: Indoor attraction with no wet weather restrictions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Aquaria KLCC have wheelchairs for rental."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Tickets are valid for 180 days from the date of purchase. Eligibility Children below 3 years: Free admission. Guests aged 13 and above are considered Adults; ages 3–12 are eligible for Child rate. Children below 13 must be accompanied by an Adult. Attraction Access This activity is stroller and wheelchair-accessible. Staff is available for guests requiring disability assistance. Additional Information Check the feeding schedule to enjoy feeding sessions. Important Notes Re-entry is not allowed after leaving the venue."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Full-Day Ticket to Aquaria KLCC"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Tickets are valid for 180 days from the date of purchase.Eligibility Children below 3 years: Free admission. Guests aged 13 and above are considered Adults; ages 3–12 are eligible for Child rate. Children below 13 must be accompanied by an Adult.Attraction Access This activity is stroller and wheelchair-accessible. Staff is available for guests requiring disability assistance.Additional Information Check the feeding schedule to enjoy feeding sessions.Important Notes Re-entry is not allowed after leaving the venue."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - Off Peak [Tourist]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/aquaria-klcc"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 52
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 43
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - Peak [Tourist]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/aquaria-klcc"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 59
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 49
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (60–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 49
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - Off Peak [Local]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/aquaria-klcc"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 36
+              }
+            },
+            {
+              "id": "option-3-senior",
+              "title": "Senior (60–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 36
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - Peak [Local]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/aquaria-klcc"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "aquariums"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 50
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 41
+              }
+            },
+            {
+              "id": "option-4-senior",
+              "title": "Senior (60–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/276/DSP/276_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Aquaria KLCC"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Aquaria KLCC"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJM5cxndM3zDER7WuP_cN-omg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

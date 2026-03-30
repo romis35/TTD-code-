@@ -1,0 +1,243 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300560
+  },
+  "products": [
+    {
+      "id": "product-1828",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Legong Dance Show Tickets at Ubud Palace Bali"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Legong Dance, also known as Legong Kraton, is one of Bali’s most revered classical court dances, once performed exclusively within royal palaces. Originating in the 19th century, it is renowned for its intricate choreography, expressive gestures, and fast-paced movements executed by young female dancers adorned in elaborate gold costumes. Accompanied by a powerful gamelan orchestra, the dance narrates an ancient royal tale of love, conflict, and fate, blending elegance, precision, and storytelling into a mesmerizing cultural performance now enjoyed at cultural stages across Bali."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience the essence of Bali's cultural heritage through the visually stunning Legong Dance"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Delve into Bali's royal history as you witness the Legong Kraton, originally performed exclusively within palace walls for the royal family"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "atch in awe as young female performers demonstrate incredible agility and grace, executing the demanding poses and quick movements of the Legong Dance"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The highly stylized Legong Kraton enacts a drama of a most purified and abstract kind. The story is performed by three dancers: a female attendant of the court and two identically dressed legongs who adopt the roles of royal persons. The suggestive themes of the magnificent gamelan orchestra and the minds of the audience conjure up imaginary changes of scene.&nbsp;The story derives from the history of East Java in the 12th and 13th centuries. A king finds the maiden Rangkesari lost in the forest. He takes her home and locks her in a house of stone. Rangkesari's brother, the Prince of Daha, learns of her captivity and threatens war unless she is set free.&nbsp;Rangkesari begs her captor to avoid war by giving her liberty, but the king prefers to fight. On his way to battle, he is met by a bird of ill omen that predicts his death. In the fight that ensues he is killed. The dance dramatizes the farewells of the King as he departs for the battlefield and his ominous encounter with the bird."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please refer to the ticket information for most updated operating hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather: Light, breathable clothing is recommended, and bringing a hat or sunscreen is advised for outdoor activities."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Most venues are easily accessible and suitable for visitors of all ages. However, some performance locations may have steps or uneven surfaces"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Show entry ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid for all passport holders. Ticket is valid only on the selected date.Eligibility Children will be charged the same rate as adults.Attraction Access This activity is stroller- and wheelchair-accessible.Additional Information Show time: 7:30 PM, with a duration of approximately 90 minutes. Guests are recommended to arrive at the venue 45 minutes before show time to secure a good seat. What to bring: Comfortable clothes, camera, and cash.Important Notes Not allowed: Weapons or sharp objects. Cancellation policy: Full refund is available up to 24 hours before the selected date. Otherwise, a full cancellation charge will apply."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Show Entry Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bali/legong-dance-show-tickets-at-ubud-palace-bali"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cultural-shows"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJd8k2l6wzUDAR2n7p5m4k8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 22
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/1828/DSP/1828_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Legong Dance Show Tickets at Ubud Palace Bali"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Legong Dance Ubud Palace"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJd8k2l6wzUDAR2n7p5m4k8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

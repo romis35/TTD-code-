@@ -1,0 +1,373 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603271039
+  },
+  "products": [
+    {
+      "id": "product-3",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Berjaya Times Square Theme Park"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Experience endless fun and excitement at Berjaya Times Square Theme Park, a world-class indoor amusement park located within one of Kuala Lumpur's largest shopping malls. Enjoy adrenaline-pumping rides like the Supersonic Odyssey suspended roller coaster and thrilling Go-Kart racing, alongside family-friendly attractions in the Kids' Zone with colorful rides and safe play areas. The Experience Pass offers unlimited access to rides and attractions, plus entertainment in the arcade filled with games for all ages. With flexible single- or multi-day passes, dining options, and shopping just steps away, it's the perfect destination for thrill-seekers, families, and friends looking for an action-packed day indoors."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.2,
+        "rating_count": 13500
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience heart-pounding excitement with a variety of thrilling rides at Berjaya Times Square Theme Park."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Challenge your friends and family to a thrilling race on our exhilarating Go-Kart track, where speed and skill will determine the victor."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "For the younger ones, the Kids' Zone offers a magical and enchanting experience."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Step into our Arcade section and discover a world of entertainment and gaming."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience endless fun at a world-class indoor amusement park in Berjaya Times Square, with rides for thrill-seekers and families. How to get there: take the KL Monorail to Imbi station, directly connected to Berjaya Times Square."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission to Berjaya Times Square Theme Park and amusement rides. Rides included: Supersonic Odyssey Roller Coaster, Robo Crash, Honey Bump, Molly-Cool's Swing, Crazy Bus, Botanic Drive, Flying Bumble Bee, Buddy Go Round, Fantasy Trail, Dizzy Izzy, Spinning Orbit, Ooorts' Express."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience heart-racing attractions like Supersonic Odyssey, Go-Kart racing, the Kids' Zone with Fantasy Garden, and the Arcade. Enjoy unlimited rides with flexible single- or multi-day passes. Located inside Berjaya Times Square mall with dining and shopping nearby."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Not included: transportation to the meet-up location, other personal expenses, insurance. Excludes Terry Carnival Games Level 5 and 7, Haunted House, Semico Battle, Winter Wonderland Snow Town, 7D Xperia, Combat Heroes, Arcade Games, and Go-Kart @ BTSKL."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Show your mobile ticket at the ticketing counter."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket is valid for one-time entry within the validity period. Invalid, redeemed, lost, or expired tickets will not be replaced. Malaysian tickets require MyKad/MyKid at redemption; a surcharge applies if not presented. Child below 3 years or below 90 cm height enters free. Height, weight, age, and medical restrictions apply per ride (see Guest Services)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operating hours and ride availability may change without notice; maintenance or closures may apply with no refund. Not recommended for certain medical conditions, pregnancy, or guests with impaired mobility. No jewelry or valuables on rides. Check the official website before your visit."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Free cancellation till validity ends (per vendor policy)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The theme park offers varying levels of accessibility for guests with disabilities."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Some rides have minimum height requirements for safety reasons."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Pregnant women are generally advised to avoid rides with intense movements or sudden drops."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wear light, breathable clothing and comfortable closed-toe shoes or sneakers. Avoid loose accessories, dangling jewelry, slippers, or high heels."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket (Malaysian)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/berjaya-times-square-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJZ5K2mJtJzDERZK6m4g6l9gQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 60
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 50
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket (Non Malaysian)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/berjaya-times-square-theme-park"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "theme-parks"
+            },
+            {
+              "label": "family-friendly"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJZ5K2mJtJzDERZK6m4g6l9gQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13-59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 86
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3-12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 71
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://berjayatimessquarethemeparkkl.com/wp-content/uploads/2023/05/BTSTP-VR2-website-banner-150-ppi-1-scaled.jpg",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Berjaya Times Square Theme Park"
+              }
+            ]
+          }
+        },
+        {
+          "url": "https://berjayatimessquarethemeparkkl.com/wp-content/uploads/2022/08/Frame-51.jpg",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Berjaya Times Square Theme Park"
+              }
+            ]
+          }
+        },
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/285/DSP/285_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Berjaya Times Square Theme Park"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Berjaya Times Square Theme Park"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJZ5K2mJtJzDERZK6m4g6l9gQ"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

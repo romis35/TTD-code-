@@ -1,0 +1,526 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300538
+  },
+  "products": [
+    {
+      "id": "product-406",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Lost World Of Tambun Ipoh"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Make your Malaysia trip extra memorable at Sunway Lost World of Tambun Amusement and Water Park! Enter Malaysia's premier family destination and explore its themed areas and over 80 attractions. Begin your trip by going to the Lost World Water Park, featuring the country's biggest wave pool, Jungle Wave Bay, and the longest man-made river, Adventure River. Experience a thrilling ride on the two water slides in the park, the Cliff Racer and Tube Raider! Don't miss out on the Kids Explorabay with your little ones."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "88 Attractions 10 Parks: The park is cocooned by lush tropical jungle, natural hot springs, and 400 million-year-old limestone hills."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "123 Animal Species: The park is home to 123 different species of animals."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Natural Hot Springs: The park is the only theme park in Southeast Asia with natural hot springs."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Water Park, Amusement Park, Petting Zoo, Tiger Valley, Tin Valley, Hot Springs & Spa: These are some of the main attractions within the park."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hotspring Night Park: Experience the magical ambiance of the park as it transforms into a haven of relaxation and tranquility at night."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Discover a full day of adventure at The Lost World of Tambun. Cool off at the Water Park, enjoy thrilling rides at the Amusement Park, and explore Ipoh’s tin mining heritage at Tin Valley. Get close to majestic Siberian tigers during feeding time, meet friendly animals at the Petting Zoo, and boost your adrenaline at the Adventure Park with fun, team-based activities suitable for all ages."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Lost World Of Tabun official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Minimum height requirements apply for selected rides. Please read and observe these and other physical requirements."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Guests are required to comply with all safety rules and regulations displayed at each attraction/ride."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Children 12 years of age and below must be accompanied by a competent person aged 18 years and above."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Guests are encouraged to wear appropriate swimming attire to enjoy the pools at all times for safety and hygiene purposes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Appropriate swimming attire with Lycra or Nylon material are encouraged (these are the non-absorbent material which is suitable for swimming)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Please comply with the dress code displayed at the relevant areas of the park, including those relating to swimwear."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Baby strollers, wheelchairs and push cars are available for rent inside the park."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission Lost World Of Tambun inclusive Access to Water Park, Amusement Park, Tiger Valley, Tin Valley, Petting Zoo and Hot Springs & Spa."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid only on the selected date. Non-Malaysian tickets are for International / Passport holders. Non-Malaysian customers will be required to top up the price difference if they are found holding a Malaysian MyKad e-ticket.Eligibility Adult rate applies to guests aged 13 years and above. Child rate applies to guests aged 12 years and below, or Seniors aged 60 years and above. Child rates apply to children above 90cm in height and aged 12 years (based on year of birth) and below. Child rate is not based on 4 years old; it is chargeable based on height (90cm and above). Free admission for children below 90cm in height. All ages are determined based on year of birth. Children under 12 years old must be accompanied by an adult. Proof of identity is required for both Child and Senior tickets (e.g., birth certificate or passport). IC and Passport authentication will be required at the ticketing counter. Ticket confirmation guidelines apply for Adult, Child, and Senior guests.Attraction Access Please ensure proper swimming attire according to the waterpark’s dress code Muslim women are allowed to wear dry-fit round-neck t-shirts and dry-fit / Lycra aerobic tights. No face masks, flippers, or outside flotation devices are allowed in the pools.Additional Information Please enter the Hot Springs and Spa before exiting the park, as your wristband will be removed once you exit the Hot Springs and Spa area, and you will no longer have access to the rest of the theme park. The management of Sunway Lost World of Tambun reserves the right to request additional information or documentation for verification purposes.Important Notes Re-entry is NOT allowed after leaving the venue. All visitors’ wristband tags will be removed upon exit. The cashier reserves the right to reject redemption if the information provided does not match or is unclear. If the name on the ticket is different from the name on the IC/Passport, the venue reserves the right to refuse admission without refund. The management of Sunway Lost World of Tambun reserves the right to refuse entry if guests do not comply with the terms and conditions. The management reserves the right to refuse, alter, amend, delete, add to the terms and conditions, or withdraw the promotion at any time without prior notice."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation if cancelled till the selected date."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid only on the selected date. Mykad ticket is for Malaysia blue card or Mykid onlyEligibility Adult rate applies to guests aged 13 years and above. Child rate applies to guests aged 12 years and below, or Seniors aged 60 years and above. Child rates apply to children above 90cm in height and aged 12 years (based on year of birth) and below. Child rate is not based on 4 years old; it is chargeable based on height (90cm and above). Free admission for children below 90cm in height. All ages are determined based on year of birth. Children under 12 years old must be accompanied by an adult. Proof of identity is required for both Child and Senior tickets (e.g., birth certificate or passport). IC and Passport authentication will be required at the ticketing counter. Ticket confirmation guidelines apply for Adult, Child, and Senior guests.Attraction Access Please ensure proper swimming attire according to the waterpark’s dress code Muslim women are allowed to wear dry-fit round-neck t-shirts and dry-fit / Lycra aerobic tights. No face masks, flippers, or outside flotation devices are allowed in the pools.Additional Information Please enter the Hot Springs and Spa before exiting the park, as your wristband will be removed once you exit the Hot Springs and Spa area, and you will no longer have access to the rest of the theme park. The management of Sunway Lost World of Tambun reserves the right to request additional information or documentation for verification purposes.Important Notes Re-entry is NOT allowed after leaving the venue. All visitors’ wristband tags will be removed upon exit. The cashier reserves the right to reject redemption if the information provided does not match or is unclear. If the name on the ticket is different from the name on the IC/Passport, the venue reserves the right to refuse admission without refund. The management of Sunway Lost World of Tambun reserves the right to refuse entry if guests do not comply with the terms and conditions. The management reserves the right to refuse, alter, amend, delete, add to the terms and conditions, or withdraw the promotion at any time without prior notice."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission into the Lost World Hot Springs Night Park"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid only on the selected date. Non-Malaysian tickets are for International / Passport holders. Non-Malaysian customers will be required to top up the price difference if they are found holding a Malaysian MyKad e-ticket. Eligibility Adult rate applies to guests aged 13 years and above. Child rate applies to guests aged 12 years and below, or Seniors aged 60 years and above. Child rates apply to children above 90cm in height and aged 12 years (based on year of birth) and below. Child rate is not based on 4 years old; it is chargeable based on height (90cm and above). Free admission for children below 90cm in height. All ages are determined based on year of birth. Children under 12 years old must be accompanied by an adult. Proof of identity is required for both Child and Senior tickets (e.g., birth certificate or passport). IC and Passport authentication will be required at the ticketing counter. Ticket confirmation guidelines apply for Adult, Child, and Senior guests. Attraction Access Please ensure proper swimming attire according to the waterpark’s dress code Muslim women are allowed to wear dry-fit round-neck t-shirts and dry-fit / Lycra aerobic tights. No face masks, flippers, or outside flotation devices are allowed in the pools. Additional Information Please enter the Hot Springs and Spa before exiting the park, as your wristband will be removed once you exit the Hot Springs and Spa area, and you will no longer have access to the rest of the theme park. The management of Sunway Lost World of Tambun reserves the right to request additional information or documentation for verification purposes. Important Notes Re-entry is NOT allowed after leaving the venue. All visitors’ wristband tags will be removed upon exit. The cashier reserves the right to reject redemption if the information provided does not match or is unclear. If the name on the ticket is different from the name on the IC/Passport, the venue reserves the right to refuse admission without refund. The management of Sunway Lost World of Tambun reserves the right to refuse entry if guests do not comply with the terms and conditions. The management reserves the right to refuse, alter, amend, delete, add to the terms and conditions, or withdraw the promotion at any time without prior notice."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian - Lost World Of Tambun Entrance Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 95
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 88
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (60–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 88
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysia MyKad Holder - Lost World Of Tambun Entrance Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–59 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 95
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 88
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (60–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 88
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian - Lost World Hot Springs Night Park Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 74
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 64
+              }
+            },
+            {
+              "id": "option-3-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 64
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysia MyKad Holder - Lost World Hot Springs Night Park Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/ipoh/lost-world-of-tambun-ipoh"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 74
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 64
+              }
+            },
+            {
+              "id": "option-4-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 64
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/406/DSP/406_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost World Of Tambun Ipoh"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Lost World Of Tambun Ipoh"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJb8c2m4sxzDER6p4n9k7m2lQ"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

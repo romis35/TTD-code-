@@ -1,0 +1,700 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300623
+  },
+  "products": [
+    {
+      "id": "product-191",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Singapore Cable Car"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Begin the ultimate travel experience around Lion City with this unique Singapore Cable Car promotion. Take to the skies and enjoy unparalleled views of Singapore's top attractions from Mount Faber Park to Sentosa Island. Start or end your journey at Mount Faber, located near Bukit Merah and one of Singapore's oldest hilltop parks. Ride on a cable car in Singapore with your Sky Pass and access all six stations across the Sentosa Line and the Mount Faber Line. Get the Sky Pass with Meal deal and enjoy a daily set lunch at Arbora Hilltop Garden &amp; Bistro, a unique restaurant offering the perfect dining experience and majestic views of Sentosa, or dinner at Good Old Days Restaurant, a family-friendly halal restaurant offering wok-made stir-fried vegetables and aromatic dishes."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Location: The only cableway that links Mount Faber, HarbourFront, and Sentosa Island."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience: Fly on board the Singapore Cable Car and enjoy the amazing aerial views that unfold all around you from 100 meters above sea level."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Duration: Each ride lasts around 30 minutes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "New Cable Cars: New spherical cable cars with transparent bottoms will be unveiled in Feb 2024 but will run in 2nd quarter of the year."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mount Faber Line"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The most scenic way to experience Singapore, the Mount Faber Line offers a variety of priceless 360º panoramic views. Start at the Mount Faber Station and enjoy the wonderful hilltop view of the lush rainforest before flying to the HarbourFront station to take in the stunning view of the Singapore Harbour. Be mesmerised by the breathtaking view of Sentosa as you fly into Sentosa station."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Sentosa Line"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Sentosa Line runs seamlessly throughout the island. Hop on the Singapore Cable Car at Imbiah Lookout Station and enjoy the spectacular bird’s eye view of the island before alighting at Siloso Point Station. Discover the rich history of Fort Siloso before hopping back on the cable car headed to Merlion station. Fly above the golden sandy beaches and snap an insta-worthy picture of the stunning landscape below."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Singapore Cable Car official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Maximum capacity per cabin is 8 pax."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Mount Faber Leisure Group reserves the right to change the terms and conditions at any time without prior notice."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Pram/stroller and wheelchair users are able to board the cabins."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mount Faber to HarbourFront: 700 metres – around 6 minutes. (Time taken depends on weather conditions and speed of the cabin)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "HarbourFront to Sentosa: 950 metres – around 7 minutes. (Time taken depends on weather conditions and speed of the cabin)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mount Faber to Sentosa: 1650 metres – around 13 minutes. (Time taken depends on weather conditions and speed of the cabin)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Cable Car Sky Pass (Round Trip) - Sentosa line and Mount Faber line"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the boarding platform directly for the cable car ride"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Valid for 60 days from the date of purchase. Both the Mount Faber Line and Sentosa Line must be used on the same day of redemption. Cable Car Sky Pass includes one round trip on the Mount Faber Line and Sentosa Line, valid for same-day use only. Please refer to the official website for the latest operating hours and closure information. Please present either mobile or printed Final Ticket for redemption. Eligibility Free admission for children below 4 years old (age verification documents may be required).Attraction Access Manual wheelchair users may board and alight at any cable car station (lifts are available at stations). Motorised wheelchairs are not permitted onboard due to safety reasons. FIT guest may take shuttle bus up to MFP and use Sentosa Express into Sentosa. Groups with tour bus to drive up/down to/from MFP and enter via Sentosa Gantry.Additional Information Please refer to the official website for the latest operating hours and closure information.Important Notes Guests must comply with all operational and safety guidelines during their visit."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Voucher is strictly valid on the date of redemption and subject to availability."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Present the barcode for admission, and you're good to go!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Toast Box Voucher Validity for 6 months Not redeemable for cash. Unused value is not refundable. May be used cumulatively. This voucher is valid for redemption at all Toast Box Stores Singapore except, Jewel Changi Airport, and Outlets in Food Republic, Food Junction or Food Opera Expired vouchers will not be accepted and strictly no extensions are allowed. Toast Box reserves the right to amend the terms and conditions at all times without prior notice. Cable Car Sky Pass - Round Trip (Direct Entry) Valid 180 days from the date of purchase Free admission for children below 4 years old. We reserve the right to request for presentation of documents for verification of age. Both the Mount Faber Line and Sentosa Line have to be used on the same day of redemption. Cable Car Sky Pass refers to one round trip on Mount Faber Line and Sentosa Line and is valid for same-day use only."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission Cable Car – Mount Faber Line Round Trip"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the boarding platform"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Enter the GTXXXXX code in the confirmation code box."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Toast Box Voucher Validity for 6 months Not redeemable for cash. Unused value is not refundable. May be used cumulatively. This voucher is valid for redemption at all Toast Box Stores Singapore except, Jewel Changi Airport, and Outlets in Food Republic, Food Junction or Food Opera Expired vouchers will not be accepted and strictly no extensions are allowed. Toast Box reserves the right to amend the terms and conditions at all times without prior notice.Cable Car Sky Pass - Round Trip (Direct Entry) Valid 180 days from the date of purchase Free admission for children below 4 years old. We reserve the right to request for presentation of documents for verification of age. Both the Mount Faber Line and Sentosa Line have to be used on the same day of redemption. Cable Car Sky Pass refers to one round trip on Mount Faber Line and Sentosa Line and is valid for same-day use only."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: SkyOrb Cabin on Mount Faber Line (Round Trip) + Sentosa Line (Round Trip)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: At the location"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Each e-ticket is valid for one (1) guest only and can be used once. Once scanned, the ticket is considered utilized and cannot be reused on another day. No partial redemption of any e-ticket is allowed. All confirmed bookings are non-cancellable, non-refundable, and non-amendable. No extension of the validity period will be entertained. Usage of duplicated tickets will be denied.Eligibility Tickets must be presented with required supporting documents if requested. Admission may be refused if required documents are not adequately furnished.Attraction Access SkyOrb Cabin (Round Trip) includes one round trip on the SkyOrb Cabin only. SkyOrb Cabin operates on the Mount Faber Line, boarding at either Mount Faber Cable Car Station or Sentosa Cable Car Station. Flammable materials (liquids, gases, ionised and non-ionised lithium batteries) and devices containing flammable materials such as motorized personal mobility devices, electronic scooters, and helium balloons are strictly prohibited onboard.Additional Information Promotional items are not valid in conjunction with other promotions, discounts, or privileges. Please refer to the official website for the latest operating hours and closure information.Important Notes Mount Faber Leisure Group reserves the right to deny ticket usage and admission if tickets are found to be duplicated. In the event of any dispute, the management reserves the right to make the final decision based on electronic records. Terms & Conditions are subject to change without prior notice."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Cable Car- Cable Car Sky Pass (Round Trip) - Direct Entry"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-cable-car"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cable-car"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJrXj5d5AZ2jER0m2n7k5p8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 64
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 60
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Comforting Local Breakfast Set Voucher + Cable Car Sky Pass - Round Trip"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-cable-car"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cable-car"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJrXj5d5AZ2jER0m2n7k5p8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 89
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 77
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cable Car Sky Pass – Mount Faber Line"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-cable-car"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cable-car"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJrXj5d5AZ2jER0m2n7k5p8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 63
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "$5 Toast Box + Cable Car Sky Pass - Round Trip"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-cable-car"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cable-car"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJrXj5d5AZ2jER0m2n7k5p8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 85
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 73
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "$10 Toast Box + Cable Car Sky Pass - Round Trip"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-cable-car"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cable-car"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJrXj5d5AZ2jER0m2n7k5p8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 101
+              }
+            },
+            {
+              "id": "option-5-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 88
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SkyOrb SkyPass Premium Round Trip"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-cable-car"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cable-car"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJrXj5d5AZ2jER0m2n7k5p8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 131
+              }
+            },
+            {
+              "id": "option-6-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 105
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/191/DSP/191_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore Cable Car"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Mount Faber Leisure Group"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJrXj5d5AZ2jER0m2n7k5p8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

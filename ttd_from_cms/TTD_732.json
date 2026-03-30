@@ -1,0 +1,315 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300564
+  },
+  "products": [
+    {
+      "id": "product-732",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Wetland Studios Putrajaya"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Wetland Studios Putrajaya is a one-of-a-kind edutainment indoor theme park not to be missed when you visit Putrajaya, Malaysia. Have fun learning about the past, present and how we can shape a better future as future generations to come.KRU Studios Sdn Bhd (KRU) is a multi-award-winning media and entertainment company in Malaysia, and an emerging brand globally.On 5 October 2022, Putrajaya Corporation and KRU signed a collaboration agreement whereby KRU is entrusted to design, market and operate Wetland Studios Putrajaya with the objective to promote the flora and fauna of Putrajaya Wetland Park using modern technology to create an immersive, memorable, entertaining, and rewarding experience for our visitors."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Unite fun and education at Putrajaya's unique indoor theme park."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Shape a sustainable future at Wetland Studios in Malaysia."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore past, present, and future through edutainment at Wetland Studios, Putrajaya."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy scenic walking trails, guided boat tours, and interactive exhibits."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Expect a captivating journey through time and nature, blending education and entertainment at Wetland Studios PutrajayaPutrajaya Wetland Park serves as a sanctuary for a diverse array of wildlife, including hundreds of species of birds, mammals, reptiles, fish, insects, trees, and plants. The park provides vital habitat and food sources for these various organisms, playing a crucial role in supporting their survival. Many of the species found within the park are threatened or endangered, making the conservation efforts at Putrajaya Wetland Park even more crucial. By maintaining a healthy ecosystem with a variety of habitats, the park helps sustain populations of these vulnerable species and contributes to their protection and conservation.&nbsp;"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: You must be at least 18 years old or above as of the time of your ticket purchase."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: The admission for all infants aged 3 years old and below as of the date of entry to WSP is FREE"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wear comfortable shoes suitable for walking."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to Wetland Studios Putrajaya"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid only on the selected visit date. In the event of technical malfunction and/or safety concerns, management reserves the right to suspend entry to exhibitions and reschedule, change, or cancel entry times or dates.Eligibility Adults are individuals aged 13 to 64 years old. Senior citizens are individuals aged 65 years old and above. Children are individuals aged 4 to 12 years old. At the point of entry, visitors may be required to present valid personal identification documents (e.g., MyKad, MyTentera, MyKid for Malaysians and/or Passport, MyPR, MyKAS for foreigners) for verification purposes.Attraction Access Customers are not permitted to bring animals into the venue.Additional Information Wear comfortable shoes suitable for walking. Bring insect repellent, especially during dusk and dawn. Stay hydrated by bringing your own water bottle.Important Notes The operator is not responsible for any loss, damage, death, or injury caused by patrons’ actions or negligence."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation if cancelled till the selected date."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysian - Standard Admission"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/putrajaya/wetland-studios-putrajaya"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJk8n5yP9MzDER5l7k3m1n9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 29
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 18
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 18
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian - Standard Admission"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/putrajaya/wetland-studios-putrajaya"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJk8n5yP9MzDER5l7k3m1n9Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 42
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 24
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 24
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/732/DSP/732_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wetland Studios Putrajaya"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Wetland Studios Sdn Bhd"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJk8n5yP9MzDER5l7k3m1n9Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

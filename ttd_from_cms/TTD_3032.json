@@ -1,0 +1,196 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300564
+  },
+  "products": [
+    {
+      "id": "product-3032",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Hoverland at Wyndham Ion Majestic Hotel, Genting Highlands"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Elevate your experience at Hoverland, the Highest Altitude Observation Deck at Genting Highlands, now open at Wyndham Ion Majestic Hotel. Located at 6,106 feet above sea level, Hoverland blends panoramic views with imaginative spaces, making it a must-visit for families, couples, and adventure-seekers alike."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Take in sweeping views of the highlands and sky above. A peaceful space for stargazing or snapping the perfect photo."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hoverland Highlights – What to Explore:Rawr Rawr Ra Café:&nbsp;Recharge at this whimsical café with delightful bites and drinks, perfect for a mid-adventure break.Observatory:&nbsp;Take in sweeping views of the highlands and sky above. A peaceful space for stargazing or snapping the perfect photo.Rhythm at the Sky:&nbsp;Enjoy light, sound, and movement in this immersive zone designed to elevate your senses.The Hangout:&nbsp;Enjoy light, sound, and movement in this immersive zone designed to elevate your senses.Stairway to Heaven:&nbsp;A visual illusion and Instagram favourite, this stairway leads straight into the sky for a truly surreal moment.Riser Deck:&nbsp;The perfect stage for group photos or to take in the full majesty of the surroundings."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Hoverland Entry Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the Hoverland Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: QR code at Hoverland Counter (M1 Level G) to redeem Hoverland Wristband"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Child is Above 90cm – 11 years old Visitors must show the QR code to redeem the wristband. The wristband must be worn and presented when visiting Hoverland at all times. ⁠The wristband is non-transferable. ⁠Covers admission to Hoverland only; additional charges (food, beverages, The Hangout experience or other services) are not included. ⁠No-shows on the reserved date will result in forfeiture of the ticket. ⁠The Hoverland team reserves the rights to modify or terminate these terms and conditions without prior notice. ⁠By purchasing the ticket, you agree to all terms and conditions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Standard Admission"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/genting-highlands/hoverland-at-wyndham-ion-majestic-hotel-genting-highlands"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "attraction-tickets"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJx8r7yM5JzDER7p2m9k4n6Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3032/DSP/3032_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hoverland at Wyndham Ion Majestic Hotel, Genting Highlands"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Ion Majestic Hospitality"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJx8r7yM5JzDER7p2m9k4n6Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

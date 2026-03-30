@@ -1,0 +1,211 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300549
+  },
+  "products": [
+    {
+      "id": "product-3117",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Eco Tourism Boat Tour Kampung Sungai Melayu"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Experience eco-tourism at Kampung Sungai Melayu, an environmentally responsible boat tour designed to connect with nature while supporting the local community. This tour offers a unique opportunity to appreciate the natural environment through activities like mangrove exploration, crab catching, and visiting a mussel farm. It's a journey that promotes conservation and provides an educational insight into the area's ecology and traditional practices."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: At Ticketing Counter/To Tour Guide"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show booking confimation email to the tour guide/ticketing counter once you reached the destination."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Environmental Responsibility:-Participants are required to follow all eco-friendly practices, including proper waste disposal, avoiding disturbance to wildlife, and respecting local flora and fauna. Liability Waiver:-The organizer shall not be held responsible for any injury, loss, or damage to personal property during the activity. Participants join at their own risk and are advised to have personal insurance coverage. Compliance and Conduct:-Participants must follow the guide's instructions at all times and comply with local regulations. Any behavior deemed harmful to the environment or community may result in removal from the activity without refund."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Boat Tour (Malaysian)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/johor/eco-tourism-boat-tour-kampung-sungai-melayu"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "boat-rides"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJt9mZ1p9QzDER4n2p7k5l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 55
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–5 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 27
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Boat Tour (Foreigner)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/johor/eco-tourism-boat-tour-kampung-sungai-melayu"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "boat-rides"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJt9mZ1p9QzDER4n2p7k5l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 70
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–5 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3117/DSP/3117_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Eco Tourism Boat Tour Kampung Sungai Melayu"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Ibibo Group Merchant"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJt9mZ1p9QzDER4n2p7k5l8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

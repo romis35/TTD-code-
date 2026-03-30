@@ -1,0 +1,310 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300553
+  },
+  "products": [
+    {
+      "id": "product-521",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Melaka Menara Taming Sari Tower"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "A 360° viewing tower that provides a breath-taking view form a height of 80 meters in the air. The 7-minutes ride enables you to view spectacular and panoramic sights of Melaka. UNESCO World Heritage City such as St Paul’s Hill, Independence Memorial Building, Samudra Museum (Flor De La Mar), Melaka River, Dataran Pahlawan, Selat Melaka Mosque, Pulau Besar and the Straits of Melaka.While enjoying the exhilarating sightseeing in the air, the ride also enables you to witness the rapid development taking place in Melaka.With an overall tower height of 110 meters from the ground to the top and built using Swiss technology, the revolving glass cabin has a passenger capacity of 66 people per viewing session."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "A 360° viewing tower that provides a breath-taking view form a height of 80 meters in the air."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Menara Taming Sari in Melaka is a popular attraction that offers a spectacular and panoramic view of the Historical Malacca City from a height of 80 meters."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "With an overall tower height of 110 meters from the ground to the top and built using Swiss technology, the revolving glass cabin can accommodate 66 passengers."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The tower is equipped with a revolving viewing deck that rotates 360 degrees, allowing visitors to enjoy breathtaking views of Malacca City from different angles. The ride lasts for about 7 minutes and gives visitors a bird's eye view of the city's historical landmarks and attractions, including St. Paul's Hill, Independence Memorial Building, and the Straits of Malacca."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Apart from the viewing deck, Menara Taming Sari also has a souvenir shop located on the ground floor, where visitors can purchase unique gifts and souvenirs. The tower is also equipped with modern facilities such as elevators and air conditioning, ensuring a comfortable and enjoyable experience for visitors."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Taming Sari Tower official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: You're not allowed to bring drinks and foods to the tower"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: You're not allowed to smoke and visitors with medical conditions such as heart problems, high blood pressure, or vertigo should take caution."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Wheelchair and stroller"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Valid only on the selected date. Entry outside operating hours is not permitted.Eligibility Adult ticket applicable for ages 13 to 54 years old. Child ticket applicable for ages 12 years old and below. Children must be accompanied by an adult. This activity is not recommended for those with medical conditions (high blood pressure, epilepsy, etc.), pregnant women, or seniors.Attraction Access Re-entry is not allowed after you leave the venue. This activity is stroller and wheelchair accessible. No food or drinks are allowed on the viewing platform.Additional Information Get instant confirmation. If you do not receive a booking confirmation, please contact us. You will receive a full refund as long as the voucher is not redeemed.Important Notes Dangerous materials and items such as bottles, firecrackers, lasers, and other items that may disturb or inconvenience others are prohibited inside the venue. Pets are not allowed inside the venue, except for service animals with valid identification. Smoking and drinking are not allowed. Guests will be asked to leave immediately if caught by staff."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation if cancelled till the selected date."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - Non MyKad (9:00 AM – 6:00 PM)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/melaka-menara-taming-sari-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "historical-sites"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJp6E4v5lVzDER1mH2kX1k1vA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–54 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 26
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (0–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 18
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket - MyKad (9:00 AM – 6:00 PM)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/melaka-menara-taming-sari-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "historical-sites"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJp6E4v5lVzDER1mH2kX1k1vA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–54 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 20
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (0–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 15
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/521/DSP/521_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Melaka Menara Taming Sari Tower"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Menara Taming Sari"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJp6E4v5lVzDER1mH2kX1k1vA"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

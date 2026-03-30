@@ -1,0 +1,472 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300573
+  },
+  "products": [
+    {
+      "id": "product-541",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Tropical Fruit Farm Penang"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Welcome to Penang Tropical Fruit Farm. We have South East Asia’s largest collection of fruits with an active area that spans a sprawling 25 acres located in the North West of Penang, Malaysia. With over 200 species of edible fruits identified, we aim to promote the amazing flora of Malaysia through education and information.Tropical Fruit Farm is situated about 800ft above sea level on the hilly terrains of Teluk Bahang in Penang. It is an ideal location for cultivating many types of tropical and sub-tropical fruit trees. The orchard was developed back in 1993 with a few objectives in mind.Firstly, to conserve rare and exotic fruit trees. Secondly, to educate and promote to the locals as well as foreigners of the gift that our land is blessed with. Lastly, to play a positive role towards agriculture and eco/agro tourism amid the intensive development in our state’s rural areas.Over the years, the orchard has acquired many rare and exotic fruit trees from the region as well as from far-flung corners of the globe such as Central and South America, Central Africa, India, the Middle East, the Caribbean, the Pacific Islands etc. Today the orchard boasts of a collection of over 200 different species and the list is still growing.The farm endeavours to use only organic fertilisers. Some of which are processed in the farm using fruit waste collected from around the farm. Chemicals are only used when absolutely necessary. In the farm, our aim is to work towards a cleaner environment for the future.Apart from viewing the fruits, you will be able to enjoy the varieties of fruits (minimum 15 types!) when you join one of our Guided Farm Tours. The orchard also prepares light snacks, juices and a specially prepared buffet spread for pre-booked groups."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The farm endeavours to use only organic fertilisers. Some of which are processed in the farm using fruit waste collected from around the farm"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Over the years, the orchard has acquired many rare and exotic fruit trees from the region as well as from far-flung corners of the globe"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Tropical Fruit Farm is situated about 800ft above sea level on the hilly terrains of Teluk Bahang in Penang"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "We have South East Asia’s largest collection of fruits with an active area that spans a sprawling 25 acres located in the North West of Penang, Malaysia."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "This is a guided farm tour conducted throughout the day from 9:00am to 5:00pm daily. You will be taken on a guided tour of our farm lasting about 30 minutes, together with one of our farm guides. After the tour, the farm guide will conduct the introduction of VCO process, Enzyme process, and also a sample tasting of our very own signature fruit enzymes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "You will also be able to sample our various varieties of our Tropical Honey. A breathtaking view overlooking the hilly terrains of Teluk Bahang awaits you."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "English speaking guide"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mandarin Chinese, Cantonese, Arabic, Malay and Indonesian speaking guide is available on request and is subject to availability"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Guided Farm Tour (30 minutes)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Introduction to Fruit Enzyme process"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Cinnamon & Lemongrass Tea Testing"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Fruit Enzyme tasting"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Wild honey tasting"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show mobile ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Ticket valid 90 days from the date of purchase. Outside food and drinks are not allowed."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1 Glass of 100% Pure Fruit Juice"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Fresh fruit box"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "(Marketplace) Guided Farm Tour - MyKad Holder"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/penang/tropical-fruit-farm-penang"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJp0l5q9DzDER6n2m7p4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 26
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 14
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "(Marketplace) Guided Farm Tour Fruit Plate & Juice Pack - My Kad Holder"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/penang/tropical-fruit-farm-penang"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJp0l5q9DzDER6n2m7p4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 36
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 24
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "(Marketplace) Guided Farm Tour - Non MyKad Holder"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/penang/tropical-fruit-farm-penang"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJp0l5q9DzDER6n2m7p4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 46
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 32
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "(Marketplace) Guided Farm Tour Fruit Plate & Juice Pack - Non My Kad Holder"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/penang/tropical-fruit-farm-penang"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJp0l5q9DzDER6n2m7p4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 60
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 46
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/541/DSP/541_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Tropical Fruit Farm Penang"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Tropical Fruit Farm"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJp0l5q9DzDER6n2m7p4l8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

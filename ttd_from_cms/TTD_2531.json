@@ -1,0 +1,597 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300563
+  },
+  "products": [
+    {
+      "id": "product-2531",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "TAGTHAi Pass"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "TAGTHAi is a collaboration platform between the Thai Government and the private sectors to make traveling in Thailand simple, convenient, and responsive to the needs of various types of the travelers including lifestyles, preferences, and languages based on locals’ recommendation and Thai Chamber of Commerce’s Happy Model philosophy: Eat well, Live well, Fit well, and Give well.How does the pass work1. Receive Your Voucher Code: In order to purchase your Pass through the website, you will receive a voucher code via email.2. Download the TAGTHAi App: Available on bothiOS https://apps.apple.com/th/app/tagthai/id1457643150Android https://play.google.com/store/apps/details?id=com.thaidigitalplatform.tagthaiThe app is where you’ll activate your pass by entering the order verification code.3. Redeem Voucher code before activating:-Sign in to TAGTHAi Application-Tab on the “Menu” (From the option bar at the bottom on the right side)-Select “Redeem My Voucher”-Enter your “Voucher Code” to redeemOnce you redeem the voucher code, you can follow these next steps!Please note:- Do not activate the pass until your travel date, as it is valid for 24 hours (1 day).- Some shops may require advance reservations. For more details, please check the app.1. Click the icon with (Up arrow key in it) to ‘ACTIVATE‘ your Pass.2. Explore and Choose: Browse the attractions, shops, and restaurants available in the app, and pick which ones you'd like to visit.3.. Booking in Advance: Some attractions might need a reservation to save your spot. Be sure to check the details on the website or app!Note: You’re allowed to make reservations even before activating your pass.4. Show Your QR Code: When you arrive at a location, inform them you're using the TAGTHAi City Pass and simply show your QR code for scanning.5. Enjoy your Pass!"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Long Validity: Your pass is valid for 365 days from the day you purchase it."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Once you activated your Pass, your pass is valid for the next 24 hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Get your mobile tickets delivered right away for quick and easy access"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Customize your journey by tailoring your itinerary with the attractions and dining options in your pass"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Bangkok Day Pass RegularChiang Mai Day Pass RegularPhuket Day Pass Regular"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Valid for use within 365day(s) from the date of issue; Invalid after expiration"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Valid for 24 hours after the activation e.g. activated at 8.00AM today, Pass will be expire at 8.00AM tomorrow."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Digital ticket for more than 30+ attractions, activities and restaurants, you can redeem up to 5 benefits in this pass."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at store"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: You may required to use QR code from the TAGTHAi application and present your QR code on-site"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: You can redeem at any shop listed in this Pass (maximum 1 benefit for each shops, restaurant, and attractions) during the pass validity."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: This tickets valid for all market. The Pass is valid for 24 hours (1-day pass) from the time of activation. For example, if the Pass is activated at 8:00 a.m., it will expire at 7:59 a.m. on the following day. Benefits can be redeemed at participating shops, restaurants, or attractions included in the Pass, subject to the quota of each Pass. Each user may redeem one benefit per location only during the validity period. Any redemption exceeding the included limit may be charged separately at the applicable rate. Please arrive at least 15 minutes before your scheduled time to ensure a smooth experience. Late arrival may affect your benefit redemption. The Pass is valid for dine-in services only and cannot be used for take-out orders. An unactivated Pass must be activated within 365 days from the date of purchase, otherwise it will automatically expire. The Pass is non-refundable and cannot be exchanged for cash under any circumstances. TAGTHAi reserves the right to amend the terms and conditions without prior notice.How does the pass work 1. Receive Your Voucher Code: In order to purchase your Pass through the website, you will receive a voucher code via email. 2. Download the TAGTHAi App: Available on both iOS https://apps.apple.com/th/app/tagthai/id1457643150 Android https://play.google.com/store/apps/details?id=com.thaidigitalplatform.tagthai The app is where you’ll activate your pass by entering the order verification code. 3. Redeem Voucher code before activating: -Sign in to TAGTHAi Application -Tab on the “Menu” (From the option bar at the bottom on the right side) -Select “Redeem My Voucher” -Enter your “Voucher Code” to redeem Once you redeem the voucher code, you can follow these next steps! Please note: - Do not activate the pass until your travel date, as it is valid for 24 hours (1 day). - Some shops may require advance reservations. For more details, please check the app. 1. Click the icon with (Up arrow key in it) to ‘ACTIVATE‘ your Pass. 2. Explore and Choose: Browse the attractions, shops, and restaurants available in the app, and pick which ones you'd like to visit. 3.. Booking in Advance: Some attractions might need a reservation to save your spot. Be sure to check the details on the website or app! Note: You’re allowed to make reservations even before activating your pass. 4. Show Your QR Code: When you arrive at a location, inform them you're using the TAGTHAi City Pass and simply show your QR code for scanning. 5. Enjoy your Pass!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Digital ticket for more than 12+ attractions, activities and restaurants, you can redeem up to 6 benefits in this pass."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: This tickets valid for all market. The Pass is valid for 24 hours (1-day pass) from the time of activation. For example, if the Pass is activated at 8:00 a.m., it will expire at 7:59 a.m. on the following day. Benefits can be redeemed at participating shops, restaurants, or attractions included in the Pass, subject to the quota of each Pass. Each user may redeem one benefit per location only during the validity period. Any redemption exceeding the included limit may be charged separately at the applicable rate. Please arrive at least 15 minutes before your scheduled time to ensure a smooth experience. Late arrival may affect your benefit redemption. The Pass is valid for dine-in services only and cannot be used for take-out orders. An unactivated Pass must be activated within 365 days from the date of purchase, otherwise it will automatically expire. The Pass is non-refundable and cannot be exchanged for cash under any circumstances. TAGTHAi reserves the right to amend the terms and conditions without prior notice.How does the pass work 1. Receive Your Voucher Code: In order to purchase your Pass through the website, you will receive a voucher code via email. 2. Download the TAGTHAi App: Available on both iOS https://apps.apple.com/th/app/tagthai/id1457643150 Android https://play.google.com/store/apps/details?id=com.thaidigitalplatform.tagthai The app is where you’ll activate your pass by entering the order verification code. 3. Redeem Voucher code before activating: -Sign in to TAGTHAi Application -Tab on the “Menu” (From the option bar at the bottom on the right side) -Select “Redeem My Voucher” -Enter your “Voucher Code” to redeemOnce you redeem the voucher code, you can follow these next steps! Please note: - Do not activate the pass until your travel date, as it is valid for 24 hours (1 day). - Some shops may require advance reservations. For more details, please check the app. 1. Click the icon with (Up arrow key in it) to ‘ACTIVATE‘ your Pass. 2. Explore and Choose: Browse the attractions, shops, and restaurants available in the app, and pick which ones you'd like to visit. 3.. Booking in Advance: Some attractions might need a reservation to save your spot. Be sure to check the details on the website or app! Note: You’re allowed to make reservations even before activating your pass. 4. Show Your QR Code: When you arrive at a location, inform them you're using the TAGTHAi City Pass and simply show your QR code for scanning. 5. Enjoy your Pass!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Digital ticket for more than 10+ attractions, activities and restaurants, you can redeem up to 8 benefits in this pass."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: This tickets valid for all market. The Pass is valid for 24 hours (1-day pass) from the time of activation. For example, if the Pass is activated at 8:00 a.m., it will expire at 7:59 a.m. on the following day. Benefits can be redeemed at participating shops, restaurants, or attractions included in the Pass, subject to the quota of each Pass. Each user may redeem one benefit per location only during the validity period. Any redemption exceeding the included limit may be charged separately at the applicable rate. Please arrive at least 15 minutes before your scheduled time to ensure a smooth experience. Late arrival may affect your benefit redemption. The Pass is valid for dine-in services only and cannot be used for take-out orders. An unactivated Pass must be activated within 365 days from the date of purchase, otherwise it will automatically expire. The Pass is non-refundable and cannot be exchanged for cash under any circumstances. TAGTHAi reserves the right to amend the terms and conditions without prior notice. How does the pass work 1. Receive Your Voucher Code: In order to purchase your Pass through the website, you will receive a voucher code via email. 2. Download the TAGTHAi App: Available on both iOS https://apps.apple.com/th/app/tagthai/id1457643150 Android https://play.google.com/store/apps/details?id=com.thaidigitalplatform.tagthai The app is where you’ll activate your pass by entering the order verification code. 3. Redeem Voucher code before activating: -Sign in to TAGTHAi Application -Tab on the “Menu” (From the option bar at the bottom on the right side) -Select “Redeem My Voucher” -Enter your “Voucher Code” to redeemOnce you redeem the voucher code, you can follow these next steps! Please note: - Do not activate the pass until your travel date, as it is valid for 24 hours (1 day). - Some shops may require advance reservations. For more details, please check the app. 1. Click the icon with (Up arrow key in it) to ‘ACTIVATE‘ your Pass. 2. Explore and Choose: Browse the attractions, shops, and restaurants available in the app, and pick which ones you'd like to visit. 3.. Booking in Advance: Some attractions might need a reservation to save your spot. Be sure to check the details on the website or app! Note: You’re allowed to make reservations even before activating your pass. 4. Show Your QR Code: When you arrive at a location, inform them you're using the TAGTHAi City Pass and simply show your QR code for scanning. 5. Enjoy your Pass!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Digital ticket for more than 18+ attractions, activities and restaurants, you can redeem up to 5 benefits in this pass."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Digital ticket for more than 64+ attractions, activities and restaurants, you can redeem up to 8 benefits in this pass."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Digital ticket for more than 9+ attractions, activities and restaurants, you can redeem up to 3 benefits in this pass."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Bangkok City Day Pass - Save up to 50% - Includes Skywalk"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bangkok/tagthai-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "city-passes"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER5n2p7k4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 265
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Samut Songkhram Pass - save up to 50% - Includes SUP Space Maeklong"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bangkok/tagthai-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "city-passes"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER5n2p7k4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-per-person",
+              "title": "Per Person (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 103
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ayutthaya Pass - Save up to 53% - Includes Mayura's House"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bangkok/tagthai-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "city-passes"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER5n2p7k4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-per-person",
+              "title": "Per Person (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 154
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Pattaya Pass Save 50% - Includes Colosseum Show Pattaya"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bangkok/tagthai-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "city-passes"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER5n2p7k4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 265
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Chiang Mai City Day Pass Access to 64+ Attractions and Restaurants"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bangkok/tagthai-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "city-passes"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER5n2p7k4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 265
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Phuket City Day Pass Access to 9+ Ativities - Include Hanuman World"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/bangkok/tagthai-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "city-passes"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJTydCFXhJzDER5n2p7k4l8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 568
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2531/DSP/2531_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "TAGTHAi Pass"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "TAGTHAi Pass"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJTydCFXhJzDER5n2p7k4l8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

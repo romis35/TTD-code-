@@ -1,0 +1,427 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300543
+  },
+  "products": [
+    {
+      "id": "product-411",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Maha Tower"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Indulge in the sky-high delights of the Maha Tower as you set sail on an unforgettable seaside adventure along the coast of the Andaman Sea. Poised to be the leading leisure and business hub in Langkawi, the tower features a transcendent sky-high experience that elevates, excites, and awakens your senses. A quintessential Langkawian experience not to be missed."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Glimpse of spectacular sunset"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy a 360° view of Andaman Sea and city of Kuah from 102meter top"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Offers transcendent sky-high experience"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Indulge in a world-class leisure experience on the Maha Tower esplanade, where you’ll find a curated collection of wonders that cater to everything you need, all in one place. Blending the best of retail with sky-high splendour, the Maha Tower experience is specially curated to awaken your senses, boasting a unique charm that you can’t get elsewhere.The tower’s unique tilted viewing window also allows visitors to “hover” over the panoramic views of the bustling crowds dotted around the esplanade, coupled with the magical sparkle of the vast Andaman Sea.More than a world-class destination for stunning vistas, the Maha Tower is also a hub for elevated leisure experiences that keep you engaged and inspired with a curated selection of activities."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: FREE entry for children below 3 years old."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: NO outside food and drinks allowed in the Sky Lounge and Sky Deck."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Smoking and chewing gum are not permitted during visits."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Visitors below 12 years old must be accompanied by parents/guardians."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Ticket sold is for access to Level 18’s Sky Lounge and Level 33’s Sky Deck (the “Attractions”) only. Child ticket is valid for age 3-12 years old Adult ticket is valid for age 13-60 years old Senior ticket is valid for age 61 years and above Free entry for children below 3 years old Tickets will only be exchanged or refunded if PIPPSB, in its absolute discretion, chooses to do so. To the extent permitted by law, any request for refunds or cancellations for tickets purchased due to adverse weather conditions will NOT be entertained. Proof of identification is to be presented for registration and check-in on the day of the event FREE entry for children below 3 years old. NO outside food and drinks are allowed in the Sky Lounge and Sky Deck. One (1) ticket admits one (1) person only. Visitors below 12 years old must be accompanied by parents/guardians. Parents and guardians understands that it is their responsibility to ensure compliance with the terms & conditions by themselves and any minors under their care, and warrants that they will take all reasonable effort to ensure that they do not breach their duty of care towards the minor(s). Smoking and chewing gum are not permitted during visits. Visitors MUST comply with the Maha Tower rules and regulations, which include the signs and notices displayed in/on and/or around the premises."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: Free cancellation if cancelled till the selected date."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian - Sunset Session"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/maha-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJl6p3k613zDER9n2m7p4k8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 78
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 47
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysian - Regular Session"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/maha-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJl6p3k613zDER9n2m7p4k8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 35
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 21
+              }
+            },
+            {
+              "id": "option-2-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 21
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysian - Sunset Session"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/maha-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJl6p3k613zDER9n2m7p4k8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 24
+              }
+            },
+            {
+              "id": "option-3-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 24
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non Malaysian - Regular Session"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/langkawi/maha-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJl6p3k613zDER9n2m7p4k8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 68
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 41
+              }
+            },
+            {
+              "id": "option-4-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 41
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/411/DSP/411_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Maha Tower"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "PFCE Intregrated Plant And Project Sdn Bhd"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJl6p3k613zDER9n2m7p4k8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

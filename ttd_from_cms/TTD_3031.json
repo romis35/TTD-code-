@@ -1,0 +1,288 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300563
+  },
+  "products": [
+    {
+      "id": "product-3031",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Cruise Tasik Putrajaya"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "See Kuala Lumpur's calm side with a Putrajaya sightseeing cruise. Get on a boat and have a relaxing cruise at Putrajaya Lake to see the wonders of the city from a different perspective. See the Putra Mosque, the principal mosque of Putrajaya, which houses the Malaysian Prime Minister's office. Continue the tour with a visit to Putrajaya Government Centre and don't miss out on exploring the iconic Perdana Putra in detail. Incorporating a mix of architectural elements from Turkestan, Kazakhstan, and Morocco, it's a true sight to admire. Finally, get to see the grand Putra Bridge and all its wonders up close before heading back to your hotel."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Discover unique local architecture at Putrajaya Government Centre and Putra Mosque, which houses the Malaysian Prime Minister's office"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy a relaxing half day trip on a Putrajaya cruise and discover Kuala Lumpur's calmer side in Putrajaya, 25km south of the capital"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Hop on a sightseeing cruise, take a full glance of Putrajaya Lake"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Learn more about this activity’s Enhanced Health & Hygiene Measures"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Relaxing Cruise on Putrajaya Lake:Serene Boat Ride:&nbsp;Begin your journey with a tranquil cruise on the picturesque Putrajaya Lake. Enjoy the calm waters and the beautiful surroundings as you take in the sights from a unique perspective.Viewing Putra Mosque:Iconic Landmark:&nbsp;Sail past the stunning Putra Mosque, the principal mosque of Putrajaya. Admire its pink-domed architecture and its significant role as a major religious site in the city.Malaysian Prime Minister’s Office:&nbsp;The mosque is situated next to Perdana Putra, the Malaysian Prime Minister’s office, offering a remarkable view of these two important buildings.Visit to Putrajaya Government Centre:Architectural Marvel:&nbsp;Continue your tour with a visit to the Putrajaya Government Centre. Explore its impressive buildings and learn about the functions of this administrative hub.Perdana Putra:&nbsp;Delve into the details of Perdana Putra, a notable structure that incorporates a mix of architectural styles from Turkestan, Kazakhstan, and Morocco. Its unique design and grandeur make it a must-see attraction.Exploring Putra Bridge:Structural Wonder:&nbsp;Witness the grandeur of Putra Bridge, an architectural masterpiece that spans Putrajaya Lake. Get up close to appreciate its intricate design and the stunning views it offers.Return to Your Hotel:End of Tour:&nbsp;After exploring the key sights of Putrajaya, relax on your journey back to the hotel, reflecting on the serene and enriching experience."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Bring sunscreen and a hat to protect yourself from the sun during the cruise and outdoor explorations."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wear comfortable clothing and shoes suitable for walking, especially as you will be exploring several sites on foot."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Ticket Valid on Selected date Child rates apply to children above 80 cm height or aged 3 to 12 years old Free admission for children below 80 cm height or less than 3 years old, with only one lap child allowed per adult. Outside food and drinks are strictly prohibited. Smoking, vaping, or the use of any e-cigarettes are not allowed at the venue or on the boat. Unruly or violent behaviour is strictly prohibited. Guests, tour leaders, or tour guides not adhering to rules and safety guidelines may be evicted from the venue or boat. Outside food and beverages (excluding those for infants or special medical needs) are not allowed. Alcoholic drinks are strictly prohibited"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Non-Malaysian Sightseeing Cruise"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/putrajaya/cruise-tasik-putrajaya"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cruises"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJk8n5yP9MzDER9l2m7n4p8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 75
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysian Sightseeing Cruise"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/putrajaya/cruise-tasik-putrajaya"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cruises"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJk8n5yP9MzDER9l2m7n4p8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 50
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 32
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3031/DSP/3031_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cruise Tasik Putrajaya"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Cruise Tasik Putrajaya"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJk8n5yP9MzDER9l2m7n4p8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

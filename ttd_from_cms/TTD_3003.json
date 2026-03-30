@@ -1,0 +1,774 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300535
+  },
+  "products": [
+    {
+      "id": "product-3003",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Carnival Magic Phuket"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Carnival Magic is the crowning jewel in nighttime entertainment on the resort island of Phuket. Spanning over 40 acres and awash with dazzling colors and sparkling imagery, Carnival Magic comes to light as the very first Thai Cultural Carnival Park, celebrating the vibrancy and rich cultural heritage found in the many traditional festivals, carnivals and market fairs that abound throughout the Kingdom. Inspired by exotic carnival celebrations from around the world, Carnival Magic presents a breathtaking evening of joyous celebration, regal pageantry and cultural fun unmatched by any other show on earth."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Carnival Magic Phuket creates a vibrant and festive atmosphere reminiscent of traditional carnivals."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The carnival features a wide array of thrilling rides and attractions suitable for guests of all ages."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Visitors can enjoy live performances by talented entertainers, including circus acts, acrobats, magicians, and street performers."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Carnival Magic Phuket offers a variety of carnival games where guests can test their skills and win prizes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "A dazzling nighttime experience with colorful parades, Thai cultural performances, illuminated displays, and festive carnival vibes. Enjoy grand pageantry, photo spots, shopping, and a magical evening atmosphere."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions:   Children under a certain age might require adult supervision in specific areas or activities onboard."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weather: The park operates rain or shine, but it’s advisable to check the weather forecast and bring an umbrella or raincoat if needed."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: The park is wheelchair accessible with ramps and designated viewing areas for those with mobility issues."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission ticket to the show"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please present either mobile or printed voucher at ticketing counter for exchange physical ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid based on the visit date. The above rates are per person and inclusive of 7% VAT. Re-entry is not allowed after you leave the venue. Same-day visits: please purchase tickets before 07:30 PM.Eligibility The above rate is applicable for Worldwide (WW), including Thai residents. Infants (0–4 years old or height under 100 cm) are free of charge for the ticket. Infant transfer will be charged THB 450 per person (round-trip transfer). Infants (height under 100 cm or 39 inches, inclusive) can attend the parade show free of charge, but must be under constant adult supervision and will not be provided with Paradium seats. Child rate is applicable for height 101–140 cm (40–55 inches). Guests above this height will be charged the adult rate.Attraction Access Same day available please purchase ticket at least 1 hrs in advance before visit date. Guests can enter the park from 5:30 PM onwards. “River Carnival” parade show is performed at the River Palace Paradium at 9:00 PM. Doors open at 8:30 PM. Show duration is 50 minutes. Show time: 08:30 PM – 09:20 PM (50 minutes).Additional Information Customers can pay directly at the onsite counter. This activity is stroller and wheelchair accessible.Important Notes Please ensure you follow the above eligibility and admission requirements before visiting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Royal seat"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid based on the visit date. The above rates are per person and inclusive of 7% VAT. Re-entry is not allowed after you leave the venue. Same-day visits: please purchase tickets before 07:30 PM.Eligibility The above rate is applicable for Worldwide (WW), including Thai residents. Infants (0–4 years old or height under 100 cm) are free of charge for the ticket. Infant transfer will be charged THB 450 per person (round-trip transfer). Infants (height under 100 cm or 39 inches, inclusive) can attend the parade show free of charge, but must be under constant adult supervision and will not be provided with Paradium seats. Child rate is applicable for height 101–140 cm (40–55 inches). Guests above this height will be charged the adult rate.Attraction Access Same day booking available please purchase ticket at least 1 hrs in advance before visit date. Guests can enter the park from 5:30 PM onwards. “River Carnival” parade show is performed at the River Palace Paradium at 9:00 PM. Doors open at 8:30 PM. Show duration is 50 minutes. Show time: 08:30 PM – 09:20 PM (50 minutes).Additional Information Customers can pay directly at the onsite counter. This activity is stroller and wheelchair accessible.Important Notes Please ensure you follow the above eligibility and admission requirements before visiting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Round Trip Shared Transfer in Phuket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Pick Up Time will send in separately email"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid based on the visit date. The above rates are per person and inclusive of 7% VAT. Re-entry is not allowed after you leave the venue. Please purchase ticket 1 day in advanceEligibility The above rate is applicable for Worldwide (WW), including Thai residents. Infants (0–4 years old or height under 100 cm) are free of charge for the ticket. Infant transfer will be charged THB 450 per person (round-trip transfer). Infants (height under 100 cm or 39 inches, inclusive) can attend the parade show free of charge, but must be under constant adult supervision and will not be provided with Paradium seats. Child rate is applicable for height 101–140 cm (40–55 inches). Guests above this height will be charged the adult rate.Attraction Access Please purchase 1 day in advance before visit date. Guests can enter the park from 5:30 PM onwards. “River Carnival” parade show is performed at the River Palace Paradium at 9:00 PM. Doors open at 8:30 PM. Show duration is 50 minutes. Show time: 08:30 PM – 09:20 PM (50 minutes). Please note that this is a shared transfer. Pick up location is only available for Phuket Hotel. Bird of Paradise Buffet Dinner : Restaurant is open from 5:30 pm till 9:00 pm (Dinner Before Show)Additional Information Customers can pay directly at the onsite counter. This activity is stroller and wheelchair accessible.Important Notes Please ensure you follow the above eligibility and admission requirements before visiting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to the show"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Buffet Dinner"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Royal Seat"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid based on the visit date. The above rates are per person and inclusive of 7% VAT. Re-entry is not allowed after you leave the venue. Same date visit please purchase ticket before 5:00 pmEligibility The above rate is applicable for Worldwide (WW), including Thai residents. Infants (0–4 years old or height under 100 cm) are free of charge for the ticket. Infant transfer will be charged THB 450 per person (round-trip transfer). Infants (height under 100 cm or 39 inches, inclusive) can attend the parade show free of charge, but must be under constant adult supervision and will not be provided with Paradium seats. Child rate is applicable for height 101–140 cm (40–55 inches). Guests above this height will be charged the adult rate.Attraction Access Same day are available, Please purchase ticket at least 3:30 hrs before visit date. Guests can enter the park from 5:30 PM onwards. “River Carnival” parade show is performed at the River Palace Paradium at 9:00 PM. Doors open at 8:30 PM. Show duration is 50 minutes. Show time: 08:30 PM – 09:20 PM (50 minutes). Please note that this is a shared transfer. Pick up location is only available for Phuket Hotel. Bird of Paradise Buffet Dinner : Restaurant is open from 5:30 pm till 9:00 pm (Dinner Before Show)Additional Information Customers can pay directly at the onsite counter. This activity is stroller and wheelchair accessible.Important Notes Please ensure you follow the above eligibility and admission requirements before visiting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission ticket to the show with buffet dinner"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid based on the visit date. The above rates are per person and inclusive of 7% VAT. Re-entry is not allowed after you leave the venue. Please purchase ticket 1 day in advance.Eligibility The above rate is applicable for Worldwide (WW), including Thai residents. Infants (0–4 years old or height under 100 cm) are free of charge for the ticket. Infant transfer will be charged THB 450 per person (round-trip transfer). Infants (height under 100 cm or 39 inches, inclusive) can attend the parade show free of charge, but must be under constant adult supervision and will not be provided with Paradium seats. Child rate is applicable for height 101–140 cm (40–55 inches). Guests above this height will be charged the adult rate.Attraction Access Please purchase booking at least 1 day in advance before visit date. Guests can enter the park from 5:30 PM onwards. “River Carnival” parade show is performed at the River Palace Paradium at 9:00 PM. Doors open at 8:30 PM. Show duration is 50 minutes. Show time: 08:30 PM – 09:20 PM (50 minutes). Please note that this is a shared transfer. Pick up location is only available for Phuket Hotel. Bird of Paradise Buffet Dinner : Restaurant is open from 5:30 pm till 9:00 pm (Dinner Before Show)Additional Information Customers can pay directly at the onsite counter. This activity is stroller and wheelchair accessible.Important Notes Please ensure you follow the above eligibility and admission requirements before visiting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid based on the visit date. The above rates are per person and inclusive of 7% VAT. Re-entry is not allowed after you leave the venue. Please purchase ticket 1 day in advanceEligibility The above rate is applicable for Worldwide (WW), including Thai residents. Infants (0–4 years old or height under 100 cm) are free of charge for the ticket. Infant transfer will be charged THB 450 per person (round-trip transfer). Infants (height under 100 cm or 39 inches, inclusive) can attend the parade show free of charge, but must be under constant adult supervision and will not be provided with Paradium seats. Child rate is applicable for height 101–140 cm (40–55 inches). Guests above this height will be charged the adult rate.Attraction Access Please purchase ticket 1 day in advance before visit date. Guests can enter the park from 5:30 PM onwards. “River Carnival” parade show is performed at the River Palace Paradium at 9:00 PM. Doors open at 8:30 PM. Show duration is 50 minutes. Show time: 08:30 PM – 09:20 PM (50 minutes). Please note that this is a shared transfer. Pick up location is only available for Phuket Hotel. Bird of Paradise Buffet Dinner : Restaurant is open from 5:30 pm till 9:00 pm (Dinner Before Show)Additional Information Customers can pay directly at the onsite counter. This activity is stroller and wheelchair accessible.Important Notes Please ensure you follow the above eligibility and admission requirements before visiting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid based on the visit date. The above rates are per person and inclusive of 7% VAT. Re-entry is not allowed after you leave the venue. Please purchase ticket 1 day in advance.Eligibility The above rate is applicable for Worldwide (WW), including Thai residents. Infants (0–4 years old or height under 100 cm) are free of charge for the ticket. Infant transfer will be charged THB 450 per person (round-trip transfer). Infants (height under 100 cm or 39 inches, inclusive) can attend the parade show free of charge, but must be under constant adult supervision and will not be provided with Paradium seats. Child rate is applicable for height 101–140 cm (40–55 inches). Guests above this height will be charged the adult rate.Attraction Access Please purchase ticket at least 1 day in advance before visit date. Guests can enter the park from 5:30 PM onwards. “River Carnival” parade show is performed at the River Palace Paradium at 9:00 PM. Doors open at 8:30 PM. Show duration is 50 minutes. Show time: 08:30 PM – 09:20 PM (50 minutes). Please note that this is a shared transfer. Pick up location is only available for Phuket Hotel. Bird of Paradise Buffet Dinner : Restaurant is open from 5:30 pm till 9:00 pm (Dinner Before Show)Additional Information Customers can pay directly at the onsite counter. This activity is stroller and wheelchair accessible.Important Notes Please ensure you follow the above eligibility and admission requirements before visiting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission Fee"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Dinner"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is valid based on the visit date. The above rates are per person and inclusive of 7% VAT. Re-entry is not allowed after you leave the venue. Same date visit please purchase ticket before 5:00 pmEligibility The above rate is applicable for Worldwide (WW), including Thai residents. Infants (0–4 years old or height under 100 cm) are free of charge for the ticket. Infant transfer will be charged THB 450 per person (round-trip transfer). Infants (height under 100 cm or 39 inches, inclusive) can attend the parade show free of charge, but must be under constant adult supervision and will not be provided with Paradium seats. Child rate is applicable for height 101–140 cm (40–55 inches). Guests above this height will be charged the adult rate.Attraction Access Same day booking are available, please purchase ticket at least 3.30 hrs before visit date. Guests can enter the park from 5:30 PM onwards. “River Carnival” parade show is performed at the River Palace Paradium at 9:00 PM. Doors open at 8:30 PM. Show duration is 50 minutes. Show time: 08:30 PM – 09:20 PM (50 minutes). Please note that this is a shared transfer. Pick up location is only available for Phuket Hotel. Bird of Paradise Buffet Dinner : Restaurant is open from 5:30 pm till 9:00 pm (Dinner Before Show)Additional Information Customers can pay directly at the onsite counter. This activity is stroller and wheelchair accessible.Important Notes Please ensure you follow the above eligibility and admission requirements before visiting."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "PROMOTION: Park Admission Only"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/phuket/carnival-magic-phuket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJT5p6kq8zUDAR3n8k2m7p5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 219
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 219
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "PROMOTION: Park Admission Only + Royal seat"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/phuket/carnival-magic-phuket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJT5p6kq8zUDAR3n8k2m7p5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 196
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 196
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "PROMOTION: Park Admission Only + Round Trip Shared Transfer in Phuket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/phuket/carnival-magic-phuket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJT5p6kq8zUDAR3n8k2m7p5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 208
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 208
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "PROMOTION: Park Admission with Buffet Dinner + Royal Seat"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/phuket/carnival-magic-phuket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJT5p6kq8zUDAR3n8k2m7p5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 221
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 209
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "PROMOTION: Park Admission with Buffet Dinner + Round Trip Shared Transfer in Phuket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/phuket/carnival-magic-phuket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJT5p6kq8zUDAR3n8k2m7p5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 233
+              }
+            },
+            {
+              "id": "option-5-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 221
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "PROMOTION: Park Admission Only + Royal Seat + Round Trip Shared Transfer in Phuket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/phuket/carnival-magic-phuket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJT5p6kq8zUDAR3n8k2m7p5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 239
+              }
+            },
+            {
+              "id": "option-6-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 239
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "PROMOTION: Park Admission with Buffet Dinner + Royal Seat + Round Trip Shared Transfer in Phuket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/phuket/carnival-magic-phuket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJT5p6kq8zUDAR3n8k2m7p5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 264
+              }
+            },
+            {
+              "id": "option-7-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 251
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-8",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "PROMOTION: Park Admission with Buffet Dinner"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/phuket/carnival-magic-phuket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJT5p6kq8zUDAR3n8k2m7p5Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-8-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 267
+              }
+            },
+            {
+              "id": "option-8-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 267
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3003/DSP/3003_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Carnival Magic Phuket"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Carnival Magic"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJT5p6kq8zUDAR3n8k2m7p5Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

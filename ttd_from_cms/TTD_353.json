@@ -1,0 +1,627 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300585
+  },
+  "products": [
+    {
+      "id": "product-353",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "KL Tower"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "See Kuala Lumpur’s mesmerizing landscapes from up high as you head to the observation deck of KL Tower, the 7th tallest freestanding tower in the world that rises 421 meters above ground level. Enjoy spectacular panoramic views of the city and its notorious skyscrapers. KL Tower’s Observation Deck offers unobstructed 360-degree views of Kuala Lumpur and is, without doubt, the best spot in town for taking great photos. Get your entrance tickets early and don’t waste any time in long lines. Head right to the top of Malaysia’s famous skyscraper and watch the city unfold before your eyes. Choose from the indoor Observation Deck, the outdoor Sky Deck or, if you dare, the completely glass Sky Box which extends on a ledge from the Sky Deck!"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Sky Deck: An observation deck that offers a stunning view of the KL skyline."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Sky Box: A glass structure suspending from the edge of the sky deck, providing an amazing bird’s eye view of Kuala Lumpur."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Jelutong Tree: A notable attraction within the KL Tower premises."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Mini Zoo: A small zoo located at the base of the tower."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Upside Down House: An interesting attraction where everything is upside down."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Prepare to be awestruck as you reach the observation deck, featuring floor-to-ceiling windows for unobstructed vistas.  High-powered binoculars are available to get an even closer look at iconic landmarks like the Petronas Twin Towers, the Sultan Abdul Samad Building, and the KL Menara Forest Eco Park.  Thrill-seekers can even test their courage by stepping onto the transparent sky box, offering a heart-pounding walk on air with the city far below.Beyond the panoramic views, the KL Tower offers interactive exhibits that delve into the tower's history and construction.  Learn about the engineering marvel that is this skyscraper and its role in shaping Kuala Lumpur's skyline.  The tower also boasts a revolving restaurant, allowing you to enjoy a delicious meal (à la carte) while the city slowly rotates beneath you, creating an ever-changing dining experience.  Whether you're seeking breathtaking views, interactive experiences, or a unique dining opportunity, the KL Tower promises an unforgettable experience in the heart of Kuala Lumpur."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: children 4 years old and below are strictly not allowed."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Security checks are conducted for all visitors."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dress modestly when visiting."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1 Observation Deck ticket(s)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Guest who aged 3 years old and below free of charge. Guest who aged 4 - 11 years old entitled to purchase for the Child ticket; aged 12 years old and above entitled to purchase for the Adult ticket. Ticket is valid for single redemption and entry. All tickets purchased must be redeemed at any one time and there is no partial redemption are allowed. This ticket only applicable for the Malaysian. Identification is required. Unauthorized flying drone are not allowed within kl tower premise. If guest have already redeemed voucher and faced cases of inclement weather on the day of visit, they may inform the staff at KL Tower and revisit on the following day for free. For the safety of all guests, the open-air Sky Deck and Sky Box will not be open in cases of inclement weather. For safety and security purposes, no personal bags (including laptop bags), or backpacks are permitted at the Sky Deck area. Permitted items allowed must fit into these dimensions: 16\" x 16\" x 8\". For group visits of more than 100 pax on the same day, shall inform LSHSM at least 2 working days in advance. LSHSM reserves its right to refuse entry to such Customers if such prior written notice has not been provided to LSHSM. Please be informed that for refund considerations, once a customer has scanned their ticket, they are required to proceed to the KL Tower ticket counter to obtain a slip/form in order to reschedule their visit within seven (7) days from their original visit date. Kindly note that no monetary refunds will be provided in the event of rain."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Guest who aged 3 years old and below free of charge. Ticket is valid for single redemption and entry. All tickets purchased must be redeemed at any one time and there is no partial redemption are allowed. This ticket only applicable for the Non Malaysian. Identification is required. Unauthorized flying drone are not allowed within kl tower premise. If guest have already redeemed voucher and faced cases of inclement weather on the day of visit, they may inform the staff at KL Tower and revisit on the following day for free. For the safety of all guests, the open-air Sky Deck and Sky Box will not be open in cases of inclement weather. For safety and security purposes, no personal bags (including laptop bags), or backpacks are permitted at the Sky Deck area. Permitted items allowed must fit into these dimensions: 16\" x 16\" x 8\". For group visits of more than 100 pax on the same day, shall inform LSHSM at least 2 working days in advance. LSHSM reserves its right to refuse entry to such Customers if such prior written notice has not been provided to LSHSM. Please be informed that for refund considerations, once a customer has scanned their ticket, they are required to proceed to the KL Tower ticket counter to obtain a slip/form in order to reschedule their visit within seven (7) days from their original visit date. Kindly note that no monetary refunds will be provided in the event of rain."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Sky Terrace Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Ticket is applicable for Malaysian citizens only (Identification required). Valid for single redemption and entry (all tickets must be redeemed at one time; no partial redemption allowed). Re-entry is not permitted after leaving the venue. Once a ticket has been scanned, guests must proceed to the ticket counter to obtain a slip/form to reschedule within 7 days (no monetary refund in the event of rain).Eligibility Free Admission: Children aged 3 years old and below. Child Ticket: Ages 4–11 years old. Adult Ticket: Ages 12 years old and above.Attraction Access In cases of inclement weather, the Sky Deck and Sky Box (open-air areas) will be closed for safety. Guests who have redeemed their voucher and are affected by bad weather may inform staff and revisit the following day free of charge. No personal bags (including laptop bags) or backpacks are allowed at the Sky Deck area. Permitted items must not exceed 16\" x 16\" x 8\". Unauthorized drone flying is strictly prohibited within KL Tower premises. For group visits exceeding 100 persons on the same day, prior written notice of at least 2 working days must be given to LSHSM. Management reserves the right to refuse entry without prior notice.Additional Information This activity is stroller and wheelchair-accessible.Important Notes No monetary refund will be provided in the event of rain. Management reserves the right to refuse entry to guests who fail to comply with the stated rules and regulations."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission for Sky Terrace + Observation Deck"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission This ticket only applicable for the Non Malaysian. Identification is required. Please be reminded by purchasing this ticket, you acknowledge that entry is only valid from 9am to 11am. Entry will be denied after 11am. Valid for single redemption and entry (all tickets must be redeemed at one time; no partial redemption allowed). Re-entry is not permitted after leaving the venue. Once a ticket has been scanned, guests must proceed to the ticket counter to obtain a slip/form to reschedule within 7 days (no monetary refund in the event of rain).Eligibility Free Admission: Children aged 3 years old and below. Child Ticket: Ages 4–11 years old. Adult Ticket: Ages 12 years old and above.Attraction Access In cases of inclement weather, the Sky Deck and Sky Box (open-air areas) will be closed for safety. Guests who have redeemed their voucher and are affected by bad weather may inform staff and revisit the following day free of charge. No personal bags (including laptop bags) or backpacks are allowed at the Sky Deck area. Permitted items must not exceed 16\" x 16\" x 8\". Unauthorized drone flying is strictly prohibited within KL Tower premises. For group visits exceeding 100 persons on the same day, prior written notice of at least 2 working days must be given to LSHSM. Management reserves the right to refuse entry without prior notice.Additional Information This activity is stroller and wheelchair-accessible.Important Notes No monetary refund will be provided in the event of rain. Management reserves the right to refuse entry to guests who fail to comply with the stated rules and regulations."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission This ticket only applicable for the Non Malaysian. Identification is required. Valid for single redemption and entry (all tickets must be redeemed at one time; no partial redemption allowed). Re-entry is not permitted after leaving the venue. Once a ticket has been scanned, guests must proceed to the ticket counter to obtain a slip/form to reschedule within 7 days (no monetary refund in the event of rain).Eligibility Free Admission: Children aged 3 years old and below. Child Ticket: Ages 4–11 years old. Adult Ticket: Ages 12 years old and above.Attraction Access In cases of inclement weather, the Sky Deck and Sky Box (open-air areas) will be closed for safety. Guests who have redeemed their voucher and are affected by bad weather may inform staff and revisit the following day free of charge. No personal bags (including laptop bags) or backpacks are allowed at the Sky Deck area. Permitted items must not exceed 16\" x 16\" x 8\". Unauthorized drone flying is strictly prohibited within KL Tower premises. For group visits exceeding 100 persons on the same day, prior written notice of at least 2 working days must be given to LSHSM. Management reserves the right to refuse entry without prior notice.Additional Information This activity is stroller and wheelchair-accessible.Important Notes No monetary refund will be provided in the event of rain. Management reserves the right to refuse entry to guests who fail to comply with the stated rules and regulations."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Observation Deck – Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4z7n5Y1JzDER6wQy7d7Fz6Y"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 25
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 18
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Observation Deck - Non-Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4z7n5Y1JzDER6wQy7d7Fz6Y"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 64
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 42
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Sky Terrace - Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4z7n5Y1JzDER6wQy7d7Fz6Y"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 24
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Combo (Sky Terrace + Observation Deck) [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4z7n5Y1JzDER6wQy7d7Fz6Y"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 55
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 26
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Observation Deck Morning Hours [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4z7n5Y1JzDER6wQy7d7Fz6Y"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-adult",
+              "title": "Adult (13–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 58
+              }
+            },
+            {
+              "id": "option-5-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Sky Terrace - Non-Malaysian"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4z7n5Y1JzDER6wQy7d7Fz6Y"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 112
+              }
+            },
+            {
+              "id": "option-6-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 66
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Combo (Sky Terrace + Observation Deck) [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-tower"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "observation-towers"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ4z7n5Y1JzDER6wQy7d7Fz6Y"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 143
+              }
+            },
+            {
+              "id": "option-7-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 82
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/353/DSP/353_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL Tower"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "KL Tower"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJ4z7n5Y1JzDER6wQy7d7Fz6Y"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

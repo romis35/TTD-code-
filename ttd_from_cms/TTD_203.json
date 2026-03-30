@@ -1,0 +1,273 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300535
+  },
+  "products": [
+    {
+      "id": "product-203",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Singapore River Cruise"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "The Singapore River Cruise offers a relaxing way to explore the city’s rich history and iconic skyline from the water. Glide along the historic Singapore River aboard a traditional bumboat while enjoying panoramic views of both old and new Singapore.As the cruise passes through Clarke Quay, Boat Quay, and Marina Bay, you’ll see famous landmarks such as Merlion Park, Marina Bay Sands, and the Esplanade. Audio commentary provides insights into how the river transformed from a busy trading port into the vibrant heart of the city.Perfect for first-time visitors and returning travelers alike, the cruise is a calm yet engaging experience suitable for all ages. Whether during the day or at night, it’s an easy and memorable way to take in Singapore’s charm at a leisurely pace."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience a delightful bumboat cruise along the Singapore River."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore Singapore's past and present while sailing past key landmarks."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy views of the old shophouses at Boat Quay, Merlion Park, Marina Bay Sands and more."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Learn interesting facts about Singapore's history and landmarks through onboard commentary."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Expect a smooth and leisurely boat ride along the Singapore River on a traditional bumboat. The cruise typically lasts around 40 minutes, offering a comfortable pace to sit back, relax, and enjoy the scenery.During the journey, you’ll pass iconic areas such as Clarke Quay, Boat Quay, and Marina Bay, with clear views of well-known landmarks including Merlion Park, Marina Bay Sands, and the Esplanade. Recorded audio commentary shares brief stories about Singapore’s history, culture, and riverside development.The cruise is suitable for all ages and runs throughout the day, with evening cruises offering especially beautiful city views as the skyline lights up. Seating is sheltered, making it a pleasant experience in most weather conditions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Singapore River Cruise official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Redeem your online ticket at Clarke Quay Jetty only. Upon arrival, present your QR code at our ticketing counter to get a boarding pass."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Advisory: Marina Bay water closure from 17:30h to 21:00h on selected Saturdays and National Day. Visit Singapore River Cruise website for more details."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Approx 40 minutes cruise"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please present either mobile or printed voucher to redeem your ticket at Clarke Quay Jetty (Next to Hooters restaurant)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Ticket Redemption Entry is permitted upon presentation of a valid voucher. Vouchers must be redeemed at the designated Singapore River Cruise counter before boarding. Each voucher is valid for one-time use only. Ticket Validity Tickets are valid for 3 months from the date of purchase. Tickets are valid for one (1) trip on the Singapore River Cruise only. Tickets are open-dated and may be used on any operating day within the validity period. Boarding & Availability Walk-in guests are accepted on a first-come, first-served basis, subject to availability. Boarding is subject to boat capacity and operational conditions. Guests are advised to arrive early to secure preferred departure times. Operating Hours & Duration The cruise duration is approximately 40 minutes. Operating hours may vary by day and are subject to change without prior notice. Eligibility Adult Ticket: Applicable for guests aged 12 years old and above. Child Ticket: Applicable for children aged 3 to 11 years old. Children below 3 years old may be allowed onboard free of charge, subject to operator policy. Weather & Operational Changes The operator reserves the right to delay, reschedule, or cancel cruises due to adverse weather, safety concerns, or unforeseen circumstances. In the event of cancellation by the operator, guests may be offered rescheduling or a refund, subject to operator policy. Safety & Conduct All guests must comply with safety instructions provided by the crew at all times. The operator reserves the right to refuse boarding or remove any guest who behaves in an unsafe or disruptive manner without compensation. Personal Belongings The operator is not responsible for any loss, damage, or theft of personal belongings during the cruise."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore River Cruise - Standard Admission (Open Dated)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/singapore-river-cruise"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "boat-rides"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJAVkDPzdX2jER6n2p5m4k8Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (12–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 79
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–11 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 51
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/203/DSP/203_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Singapore River Cruise"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Singapore River Cruise"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJAVkDPzdX2jER6n2p5m4k8Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

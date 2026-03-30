@@ -1,0 +1,1045 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300609
+  },
+  "products": [
+    {
+      "id": "product-77",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Gardens by the Bay"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Visit one of Singapore’s top attractions—Gardens by the Bay! Get your ticket today and enjoy a series of gardens full of flora and fauna set in mesmerizing interior and exterior structures. With the Flower Dome and Cloud Forest ticket, access the Flower Dome, the world's largest greenhouse, to witness its collection of exquisite florals and lush plants. Tour different gardens such as Mediterranean Garden, Succulent Garden, Australian Garden and more. Then, head to Cloud Forest, which boasts one of the world's largest indoor waterfalls at 35 metres tall. This landscape offers dramatic greenery, featuring vegetation that is typically native to habitats 2,000 metres above sea level. You can also admire the breathtaking Flight of the Moth Orchid display, a striking selection of orchids that form a cascading bloom.For a detailed overview of the 2026 seasonal highlights and floral showcases at Gardens by the Bay, view the official 2026 Highlights Flyer[Here]2026 Floral Displays in the Flower DomeJan – Mar 2026 | Spring Blossoms: Gallop into ProsperityMar – Apr 2026 | SakuraApr – May 2026 | TulipmaniaMay – Jun 2026 | Blue BeautiesJul – Aug 2026 | Orchid ExtravaganzaAug – Sep 2026 | LilytopiaOct – Nov 2026 | Sunflower SurpriseNov 2026 – Jan 2027 | Christmas Train Show"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Visit one of Singapore’s top attractions—Gardens by the Bay!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Get your ticket today and enjoy a series of gardens full of flora and fauna set in mesmerizing interior and exterior structures."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Visit the world's largest greenhouse, to witness its collection of exquisite florals and lush plants"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Featuring vegetation that is typically native to habitats 2,000 metres above sea level."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cloud Forest: Home to one of the world’s tallest indoor waterfalls and a lush mountain clad with plants from around the world, Cloud Forest rewards the curious and adventurous. Go on a fascinating journey of discovery and get up close with some of the world’s most exotic plant species as you stroll along its unique aerial walkways."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Flower Dome: Get up-close with unusual plants native to a range of unique habitats – from the Mediterranean region, to South African savannahs and arid deserts!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Floral Fantasy: A stone’s throw from Bayfront MRT station, Floral Fantasy offers a magical escape among suspended bouquets and creative floral arrangements. Here, explore diverse garden landscapes that segue into each other through a meandering space. Along the way, stop by a vivarium populated by tiny poison dart frogs in a gamut of stunning hues!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "OCBC Skyway: Enjoy the most enthralling views on the OCBC Skyway. Suspended between two Supertrees at 22 metres above ground, this 128m-long aerial walkway offers marvellous opportunities to capture that postcard-worthy shot of the Gardens’ lush surrounds, set in the heart of downtown Marina Bay."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Supertree Observatory: Get your cameras ready! Located at the tallest Supertree’s canopy, the Supertree Observatory offers unparalleled views of Gardens by the Bay’s lush surrounds and the Marina Bay area. Enjoy refreshments, an immersive digital learning experience, endless photo opportunities, and an unforgettable time at the Gardens’ highest point!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Gardens by the Bay official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Admission is subject to Rules and Regulations which are displayed at the entrances and/or other appropriate locations of Gardens by the Bay."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Casual wear recommended."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Wheelchair rental available at S$2 per day at Arrival Gift Shop."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: My Little Pony at Floral Fantasy (Entry between 10AM and 3PM) - this ticket is only valid for entry before 3:00 PM."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please present either mobile or printed e-ticket along at the turnstile."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: This ticket can only be used from 12 Jan 2026 onwards. This ticket is only valid for entry before 3:00 PM. Proof of residency may be required at the point of ticket purchase and / or admission. In the event proof of residency is not able to be produced, ticket upgrades will be required. The Gardens are maintained regularly to ensure the best visitor experience, and will be closed on the scheduled maintenance dates. Block out dates apply to all day passes as well as Friends of the Gardens members. This E-ticket is non transferable, non-refundable and void if altered. This E-ticket may not be copied, resold or duplicated and may only be use once. Admission to Gardens by the Bay is subjected to Park Rules and Regulations which are displayed at the entrances and/or other appropriate locations of Gardens by the Bay. Gardens by the Bay reserves the right to invalidate tickets in connection with any fraudulent/unauthorized transaction, without refund or compensation. Gardens by the Bay is not responsible for any unauthorized duplication of this E-ticket and do not assume any liability for any damage or loss guest may incur, whether such damage or loss is caused by our negligence or otherwise. Please refer to your Travel Agent for any issues or clarifications. This E-ticket are not to be used for touting purposes. Unauthorized or unlawful resales or attempted resale is grounds for seizure and cancellation without compensation. Loss of E-ticket will be solely under the full responsibility of the guest. E-ticket obtained from unauthorized sources may be lost, stolen or counterfeit and if so, are void This E-ticket cannot be replaced if lost, stolen, or destroyed and is valid only for the date/period indicated on the E-Ticket. Gardens by the Bay may, without prior notice and without refund or compensation or any liability, change the operating hours, close and/or restrict admission to the Conservatories and due to capacity, inclement weather, special events or other reasons. Please note that closure dates apply for all attractions. Please check the attraction's updated closure dates on our website at https://www.gardensbythebay.com.sg/en/whats-on/announcements/closure-dates.html."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Proof of residency status will be required when entering Attractions for verification. This E-ticket is non transferable, non-refundable and void if altered. This E-ticket may not be copied, resold or duplicated and may only be use once. Not valid for special events. No outside food and beverages permitted. Visits to both Conservatories must be completed on the same day and re-entry is not allowed. Admission to Gardens by the Bay is subjected to Park Rules and Regulations which are displayed at the entrances and/or other appropriate locations of Gardens by the Bay. Gardens by the Bay reserves the right to invalidate tickets in connection with any fraudulent/unauthorized transaction, without refund or compensation. Gardens by the Bay is not responsible for any unauthorized duplication of this E-ticket and do not assume any liability for any damage or loss guest may incur, whether such damage or loss is caused by our negligence or otherwise. Please refer to your Travel Agent for any issues or clarifications. This E-ticket are not to be used for touting purposes. Unauthorized or unlawful resales or attempted resale is grounds for seizure and cancellation without compensation. Loss of E-ticket will be solely under the full responsibility of the guest. E-ticket obtained from unauthorized sources may be lost, stolen or counterfeit and if so, are void This E-ticket cannot be replaced if lost, stolen, or destroyed and is valid only for the date/period indicated on the E-Ticket. Gardens by the Bay may, without prior notice and without refund or compensation or any liability, change the operating hours, close and/or restrict admission to the Conservatories and due to capacity, inclement weather, special events or other reasons. Operating hours are from 9.00am to 9.00pm. Last admission will be at 8.00pm (unless otherwise stated). Operating hours may change without prior notice or liability. Please note that closure dates apply for all attractions. Please check the attraction's updated closure dates on our website at https://www.gardensbythebay.com.sg/en/whats-on/announcements/closure-dates.html. For guests who wish to use the Double Conservatories E-ticket on a closure date, please note that there will be no refund or exchange."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: This ticket can only be used from 12 Jan 2026 onwards. This ticket is only valid for entry before 12:00 PM. Proof of residency may be required at the point of ticket purchase and / or admission. In the event proof of residency is not able to be produced, ticket upgrades will be required. The Gardens are maintained regularly to ensure the best visitor experience, and will be closed on the scheduled maintenance dates. Block out dates apply to all day passes as well as Friends of the Gardens members. This E-ticket is non transferable, non-refundable and void if altered. This E-ticket may not be copied, resold or duplicated and may only be use once. Admission to Gardens by the Bay is subjected to Park Rules and Regulations which are displayed at the entrances and/or other appropriate locations of Gardens by the Bay. Gardens by the Bay reserves the right to invalidate tickets in connection with any fraudulent/unauthorized transaction, without refund or compensation. Gardens by the Bay is not responsible for any unauthorized duplication of this E-ticket and do not assume any liability for any damage or loss guest may incur, whether such damage or loss is caused by our negligence or otherwise. Please refer to your Travel Agent for any issues or clarifications. This E-ticket are not to be used for touting purposes. Unauthorized or unlawful resales or attempted resale is grounds for seizure and cancellation without compensation. Loss of E-ticket will be solely under the full responsibility of the guest. E-ticket obtained from unauthorized sources may be lost, stolen or counterfeit and if so, are void This E-ticket cannot be replaced if lost, stolen, or destroyed and is valid only for the date/period indicated on the E-Ticket. Gardens by the Bay may, without prior notice and without refund or compensation or any liability, change the operating hours, close and/or restrict admission to the Conservatories and due to capacity, inclement weather, special events or other reasons. Please note that closure dates apply for all attractions. Please check the attraction's updated closure dates on our website at https://www.gardensbythebay.com.sg/en/whats-on/announcements/closure-dates.html."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Flower Dome"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Cloud Forest featuring Jurassic World: The Experience"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Supertree Observatory (9:00am–4:00pm)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Proof of residency status will be required when entering Attractions for verification. Supertree Observatory: Valid entry between 9.00am and 4.00pm. This E-ticket is non transferable, non-refundable and void if altered. This E-ticket may not be copied, resold or duplicated and may only be use once. Not valid for special events. No outside food and beverages permitted. Visits to both Conservatories must be completed on the same day and re-entry is not allowed. Admission to Gardens by the Bay is subjected to Park Rules and Regulations which are displayed at the entrances and/or other appropriate locations of Gardens by the Bay. Gardens by the Bay reserves the right to invalidate tickets in connection with any fraudulent/unauthorized transaction, without refund or compensation. Gardens by the Bay is not responsible for any unauthorized duplication of this E-ticket and do not assume any liability for any damage or loss guest may incur, whether such damage or loss is caused by our negligence or otherwise. Please refer to your Travel Agent for any issues or clarifications. This E-ticket are not to be used for touting purposes. Unauthorized or unlawful resales or attempted resale is grounds for seizure and cancellation without compensation. Loss of E-ticket will be solely under the full responsibility of the guest. E-ticket obtained from unauthorized sources may be lost, stolen or counterfeit and if so, are void This E-ticket cannot be replaced if lost, stolen, or destroyed and is valid only for the date/period indicated on the E-Ticket. Gardens by the Bay may, without prior notice and without refund or compensation or any liability, change the operating hours, close and/or restrict admission to the Conservatories and due to capacity, inclement weather, special events or other reasons. Operating hours are from 9.00am to 9.00pm. Last admission will be at 8.00pm (unless otherwise stated). Operating hours may change without prior notice or liability. Please note that closure dates apply for all attractions. Please check the attraction's updated closure dates on our website at https://www.gardensbythebay.com.sg/en/whats-on/announcements/closure-dates.html. For guests who wish to use the Double Conservatories E-ticket on a closure date, please note that there will be no refund or exchange. In addition, please also adhere to the guidelines of the Gardens’ MSP for Flower Dome + Cloud Forest + Supertree Observatory tickets at $60/Adult and $42/Child. Do note that the MSP is subject to change without prior notice. Failure to abide by the MSP will risk the termination of Travel Agent privileges."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Flower Dome & Cloud forest featuring Jurassic World: THE EXPERIENCE + My Little Pony at Flower Fantasy + Shuttle Service"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: This ticket is valid for visit date from 11 December 2025 to 31 March 2026. Ticket includes 2-way rides for one (1) on the Shuttle Service, only for: Bayfront Plaza (Exit B from Bayfront MRT) ←→ Active Garden ←→ Flower Dome Shuttle Service will be suspended in the event of heavy rain or lightning warning for the safety of visitors. Visit to the attractions, utilization of shuttle service must be completed on the same day and re-entry to attractions is not allowed. Child aged from 3-12 years old. Adults aged from 13 years old and above. Admission ticket sold is non-transferable, non-refundable and void if altered. Admission ticket may not be copied, resold or duplicated and may only be used once. For guests who wish to use the Flower Dome + Cloud Forest featuring Jurassic World: The Experience + My Little Pony at Floral Fantasy and Shuttle Service ticket on a closure date, please note that there will be no refund or exchange. Guests will have to join the queue to board the Shuttle Service and operation of the Shuttle Service is subjected to weather conditions. Singapore residents may be required to present proof of residency for admission. Admission ticket is not valid for special events. Admission to Gardens by the Bay is subject to Park Rules and Regulations which are displayed at the entrances and/or other appropriate locations of Gardens by the Bay. Gardens by the Bay is not responsible and does not assume any liability for any damage or loss you may incur, whether such damage or loss is caused by our negligence or otherwise. Gardens by the Bay may, without prior notice and without refund or compensation or any liability, change the operating hours, close and/or restrict admission to the attraction(s) due to capacity, inclement weather, special events or other reasons."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Outdoor Audio Tour (Tram) ticket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Please present either mobile or printed e-ticket along at the turnstile."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Each ticket allows one (1) on board. Child refers to any person aged 3 to 12 years old. Child 3 years old and below is free and must be accompanied by an adult. Audio Tour tickets are not valid for special events. Service will be suspended in the event of heavy rain or lightning warning for the safety of visitors. Tickets sold are non-refundable and void if altered. No food and drinks are allowed inside the vehicle. Pets are not allowed inside the vehicle. This vehicle is not stroller and wheelchair-friendly, bicycles, strollers, personal mobility devices, luggages are not allowed on board the Audio Tour. Visitors with medical conditions, special physical needs and expecting mothers are advised not to board the Audio tour for safety reasons. Gardens by the Bay reserves the right to invalidate tickets in connection with any fraudulent/unauthorized transaction, without refund or compensation. Gardens by the Bay is not responsible for any unauthorized duplication of this E-ticket and do not assume any liability for any damage or loss guest may incur, whether such damage or loss is caused by our negligence or otherwise. Please refer to your Travel Agent for any issues or clarifications. This E-ticket are not to be used for touting purposes. Unauthorized or unlawful resales or attempted resale is grounds for seizure and cancellation without compensation. Loss of E-ticket will be solely under the full responsibility of the guest. E-ticket obtained from unauthorized sources may be lost, stolen or counterfeit and if so, are void. This E-ticket cannot be replaced if lost, stolen, or destroyed and is valid only for the date/period indicated on the E-Ticket. Gardens by the Bay is not responsible and does not assume any liability for any damage or loss you may incur, whether such damage or loss is caused by our negligence or otherwise. Gardens by the Bay may, without prior notice and without refund or compensation or any liability, change the operating hours, close and/or restrict admission to the attraction(s) due to capacity, inclement weather, special events or other reasons."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Your booking is confirmed. Final Ticket will be sent to you separately. Please present either mobile or printed Final Ticket for redemption."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Flower Dome and Cloud Forest admission tickets are dated and valid only on the scheduled date of tour. Advance booking is required at least 7 working days in advance and confirmation will be on a first-come first-served basis, subject to guide availability. Rates apply to overseas students group only. Rates include 45 minutes guided tour, certificate of completion, A4 Sustainability Tour Information handout and admission to Flower Dome and Cloud Forest. Each tour is fixed group size of 20 participants. There will be no refund in-lieu of lesser number of guests in-attendance on the day, cancellation, or postponement of tour. Tours are strictly capped at maximum of 20 pax per group and are conducted in English Language Maximum number of pax per tour slot is (3 groups of 20 pax), subject to guide’s availability. No refund will be made in the event that the guest do not turn up on date of visit. Once payment is made and booking is confirmed, no cancellation is allowed. For guests who wish to use the Double Conservatories ticket on a closure date, please note that there will be no refund or exchange. In the event of any dispute, Gardens by the Bay is not liable for any miscommunication and will direct the guests back to the Travel Agent whom they have purchased the ticket These Terms & Conditions may be varied, amended or supplemented by GB from time to time without prior notice Not valid for special events. No outside food and beverages permitted. Visits to both Conservatories must be completed on the same day and re-entry is not allowed. Operating hours for Flower Dome and Cloud Forest are from 9.00am to 9.00pm. Last admission will be at 8.00pm (unless otherwise stated). Operating hours may change without prior notice or liability. Please note that closure dates apply for all attractions. Please check the attraction's updated closure dates on our website at https://www.gardensbythebay.com.sg/en/whats-on/announcements/closure-dates.html. For guests who wish to use the Double Conservatories E-ticket on a closure date, please note that there will be no refund or exchange."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Gardens by the Bay - My Little Pony at Floral Fantasy Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: This ticket is valid for visit date from 11 December 2025 to 12 April 2026. Each ticket admits one (1) to the attraction(s) within the selected time slot. Kindly note that re-entry is not allowed. Child aged from 3-12 years old. Adults aged from 13 years old and above. Admission ticket sold is non-transferable, non-refundable and void if altered. Admission ticket may not be copied, resold or duplicated and may only be used once. Singapore residents may be required to present proof of residency for admission. Admission ticket is not valid for special events. Admission to Gardens by the Bay is subject to Park Rules and Regulations which are displayed at the entrances and/or other appropriate locations of Gardens by the Bay. Gardens by the Bay is not responsible and does not assume any liability for any damage or loss you may incur, whether such damage or loss is caused by our negligence or otherwise. Gardens by the Bay may, without prior notice and without refund or compensation or any liability, change the operating hours, close and/or restrict admission to the attraction(s) due to capacity, inclement weather, special events or other reasons."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Jurassic World: The Exhibition at Cloud Forest"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Disney Garden of Wonder at Floral Fantasy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Outdoor Audio Tour (Tram)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Refer to the 2nd page onwards for the barcode to scan at the entrance"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1 x Gardens by the Bay - Flower Dome + Jurassic World: The Exhibition at Cloud Forest  (Valid from 29 May 2025)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 1 x Gardens by the Bay - Floral Fantasy (Valid from 6th September)"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "[Promo] My Little Pony at Floral Fantasy (Entry between 10AM and 3PM)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 25
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Flower Dome & Cloud Forest featuring Jurassic World: The Experience"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 142
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 99
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "[Promo] Supertree Observatory (Entry between 9AM and 12PM)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 34
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 25
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Flower Dome + Cloud Forest featuring Jurassic World: The Experience + Supertree Observatory (Entry between 9AM untill 4PM)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 185
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 130
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Flower Dome + Cloud Forest featuring Jurassic World: The Experience + My Little Pony at Floral Fantasy + Shuttle Service"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 179
+              }
+            },
+            {
+              "id": "option-5-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 127
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Outdoor Audio Tour (Tram)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 31
+              }
+            },
+            {
+              "id": "option-6-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 15
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Sustainability Tour Oversea Student Package (Flower Dome + Cloud Forest + Sustainability Tour) - Valid from 1 April 2026 onwards"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-per-package",
+              "title": "Per Package (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 2846
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-8",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Sustainability Tour Oversea Student Package (Flower Dome + Cloud Forest + Sustainability Tour) - Valid from 8 January 2026 to 31 March 2026"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-8-per-package",
+              "title": "Per Package (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 2476
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-9",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "My Little Pony at Floral Fantasy Admission"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-9-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 74
+              }
+            },
+            {
+              "id": "option-9-child",
+              "title": "Child (3–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 49
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-10",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Flower Dome + Jurassic World: The Exhibition at Cloud Forest + Supertree Observatory (9:00am–4:00pm) + Outdoor Audio Tour (Tram)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-10-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 216
+              }
+            },
+            {
+              "id": "option-10-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 145
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-11",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Flower Dome + Jurassic World: The Exhibition at Cloud Forest + My Little Pony at Floral Fantasy Admission"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/gardens-by-the-bay"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "botanical-garden"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-11-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 216
+              }
+            },
+            {
+              "id": "option-11-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 148
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/77/DSP/77_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Gardens by the Bay"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Gardens by the Bay E-Ticket (For travel agent sales)"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJvXj5d5AZ2jERKxE0e0dH9yg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

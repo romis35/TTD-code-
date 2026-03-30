@@ -1,0 +1,686 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300584
+  },
+  "products": [
+    {
+      "id": "product-352",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "KL Hop On Hop Off Pass"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Let us take you through every aspect of Kuala Lumpur - from the high-rise buildings and skyscrapers to the historical places and green scenery in this attractive and recreational tour. Worry no more, as you can be the timekeeper for your own travel. KL Hop On Hop Off is the ONLY OPEN TOP Double Deck bus in Kuala Lumpur, with lively guides and helpful ground crew to assist you during the tour. It's also famous as the main transport that connects to more than 60 sites and attractions in Kuala Lumpur and is recognized as a tourist-friendly transportation system. With 27 designated stops, you will get to know Kuala Lumpur like never before. Red Line (City Route) - 1 loop approximately 2 hours Stop.1 - Bukit Bintang (Interchange Stop) Stop 2 - Sheraton (Jalan Sultan Ismail) Stop 3 - Seri Pacific (Putra World Trade Center - PWTC) Stop 4 - Intercontinental Stop 5 - KLCC (Petronas Twin Towers) Stop 6 - Matic (Malaysia Tourism Centre) Stop 7 - KL Tower (Menara Kuala Lumpur) Stop 8 - KL City Walk Stop 9 - Aquaria Stop 10 - Changkat (Jalan Alor) Stop 11 - Swiss Garden Stop 12 - Chinatown Green Line (Garden Routes) - 1 loop approximately 2 hours Stop 13 - Central Market Stop 14 - Dataran Merdeka (Independence Square) Stop 15 - Little India Stop 16 - KL Sentral (Transit Hub to KL International Airport) Stop 17 - National Museum Stop 18 - National Palace (King's Residence) Stop 19 - Lake Garden Stop 20 - Bird Park Stop 21 - National Mosque Stop 22 - Merdeka Square (Independence Square) Stop 23 - Medan Mara Stop 24 - Chow Kit Stop 25 - Quill City Mall Stop 26 - Concorde (Hard Rock Cafe) Stop 27 - Tribeca Hotel"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Double-Decker Bus: Discover Kuala Lumpur’s major landmarks on an air-conditioned double-decker with an open top deck."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Two Routes: The service operates two routes - the City Route (Red Line) and the Garden Route (Green Line), each offering a unique set of attractions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Audio Commentary: The service provides an English audio commentary, offering interesting insights about the city and its attractions."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Let us bring you to the every aspect of Kuala Lumpur. From the hi-rise building up to the skyscrapers, towards the historical places and the green scenery that amidst of this attractive and recreational tour. Hassle free, worries no more, you are the timekeeper for your own travel.The ONLY OPEN TOP Double Deck bus in Kuala Lumpur, with the lively guide and the helpful ground crew to assist you during the tour. KL Hop On Hop Off also famous for the main transport that connected to more than 60 sites &amp; attractions in Kuala Lumpur, it is also being recognized as a tourist-friendly transportation system. With a 27 designated stops, you will get to know Kuala Lumpur like never before."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Children below the age of 5 travel for free."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Smoking, eating and drinking are strictly prohibited on the bus."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Standard Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: KL Hop On Hop Off (Day Tour) - 24 Hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: please show the E-ticket in PDF format at the ticketing  counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Children between 1-4 years old ride free Student means with any valid student card to be present. KL Hop on Hop off is day tour pass ticket for usage from 9am until 6pm with 24hr validity. (Last pickup at any designated stop at 4pm) Company may change (if any) the term or price if there is any changes on management decision along the offer period."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: KL Hop On Hop Off (Day Tour) - 48 Hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: KL City Of Lights Tour (Night Tour) - Sungei Wang"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at our Kiosk Stop 01, Bukit Bintang (next to Sungei Wang Plaza) 10-15 minutes before the tour start. Tour start 8.00PM"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: The ticket can be redeem from 09.00AM on the departure day from our Kiosk Stop 01, Bukit Bintang (next to Sungei Wang Plaza)."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Please be punctual."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: To avoid any inconvenience, please confirm the visit date as soon as possible via the contact information provided. Cancellation is not permitted once you have contacted and confirmed your visit date and time with KL Hop On Hop Off Ticket is valid on the selected date Children between 1-4 years old ride free Student means with any valid student card to be present. KL City of Light one-time usage ticket only at 8 pm slot. (Everyday) Advance booking is needed for Ronda Ronda KL and KL City of Lights. (Limited Seat) Company may change (if any) the term or price if there is any changes on management decision along the offer period."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: KL City Of Lights Tour (Night Tour) - KLCC"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at our KLCC Kiosk located in KLCC Bus Stop 10-15 minutes before the tour start. Tour start at 8.00PM"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: The ticket can be redeem from 09.00AM on the departure day from our KLCC KIOSK."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at our Kiosk Stop 01, Bukit Bintang (next to Sungei Wang Plaza) 10-15 minutes before the tour start. Tour start at 8.00PM"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL Hop On Hop Off (Day Tour) - 24 Hours [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-hop-on-hop-off-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "hop-on-hop-off"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ0z1n2o1JzDER6Z4y8s3kX6M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 76
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 38
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL Hop On Hop Off (Day Tour) - 24 Hours [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-hop-on-hop-off-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "hop-on-hop-off"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ0z1n2o1JzDER6Z4y8s3kX6M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 38
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 19
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL Hop On Hop Off (Day Tour) - 48 Hours [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-hop-on-hop-off-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "hop-on-hop-off"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ0z1n2o1JzDER6Z4y8s3kX6M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 114
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 57
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL Hop On Hop Off (Day Tour) - 48 Hours [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-hop-on-hop-off-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "hop-on-hop-off"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ0z1n2o1JzDER6Z4y8s3kX6M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 57
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 29
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-5",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL City Of Lights Tour (Night Tour) - Sungei Wang [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-hop-on-hop-off-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "hop-on-hop-off"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ0z1n2o1JzDER6Z4y8s3kX6M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-5-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            },
+            {
+              "id": "option-5-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 20
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-6",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL City Of Lights Tour (Night Tour) - KLCC [Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-hop-on-hop-off-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "hop-on-hop-off"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ0z1n2o1JzDER6Z4y8s3kX6M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-6-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            },
+            {
+              "id": "option-6-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 20
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-7",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL City Of Lights Tour (Night Tour) - Sungei Wang [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-hop-on-hop-off-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "hop-on-hop-off"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ0z1n2o1JzDER6Z4y8s3kX6M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-7-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 80
+              }
+            },
+            {
+              "id": "option-7-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-8",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL City Of Lights Tour (Night Tour) - KLCC [Non-Malaysian]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/kl-hop-on-hop-off-pass"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "hop-on-hop-off"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJ0z1n2o1JzDER6Z4y8s3kX6M"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-8-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 80
+              }
+            },
+            {
+              "id": "option-8-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/352/DSP/352_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "KL Hop On Hop Off Pass"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "KL Hop On Hop Off"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJ0z1n2o1JzDER6Z4y8s3kX6M"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

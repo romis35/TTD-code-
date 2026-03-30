@@ -1,0 +1,273 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300569
+  },
+  "products": [
+    {
+      "id": "product-37",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Breakfast in the Wild"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Start your day well with this iconic dining experience designed to inspire a love for wildlife and delight your senses!Savour a hearty meal of local and international flavours in our charming rainforest zoo and meet our wildlife ambassadors and their keepers, who will fill your minds (and hearts) with stories about the animal kingdom, habitats and nature. Enjoy a scrumptious planet-friendly breakfast spread that is thoughtfully prepared by our chefs."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy photo opportunities and interact with our animal ambassadors such as the Coatimundi, Macaw and Orangutans in this iconic dining experience"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Start your day well with this iconic dining experience designed to inspire a love for wildlife and delight your senses!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Savour a hearty meal of local and international flavours in our charming rainforest zoo and meet our wildlife ambassadors and their keepers"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "As part of making good choices to protect wildlife and our planet, our kitchen uses only sustainably-sourced palm oil and we serve Owa Coffee, which uses beans grown in a wildlife-friendly manner in Indonesia.&nbsp;The menu also doesn’t feature beef because of its disproportionately high environmental impact.&nbsp;Enjoy photo opportunities and interact with our animal ambassadors such as the Coatimundi, Macaw and Orangutans in this iconic dining experience."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Appearances of our wildlife ambassadors are not fixed, subject to rotation, weather and animal conditions"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Kids 0 to 5 years eat free, with 1 kid to every paying Adult"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Professional photo opportunities are available at authorised photography areas. You can opt to bring home a memory of your wildlife experience"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Please note that flash photography is not allowed for the wellbeing of our animals"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entry pass generation will take 6-12 hours"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Breakfast in the Wild experience (Excludes standard entry admission)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Your booking is confirmed. Ticket will be sent to you separately. Please present either mobile or printed voucher for redemption."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Menu contains no Pork & no Lard; items may change without prior notice. Vegetarian items based on Ovo-Lacto Vegetarian diet which include both Eggs and Dairy Products Bookings to be made via TA Reseller Portal at least 7 working days prior to dining date; subject to availability. The rates above exclude general admission to Singapore Zoo, which will need to be purchased separately. The TA Meals purchased at TA rates are strictly for sale to foreign tourists only and are not to be re-sold to local visitors. Tourist guide and/or guests must present the meal ticket(s) with barcode for entry at the restaurant. Reservation of TA Meals is subject to availability at the time of booking. A child is defined as a person from 6 to 12 years of age for the purpose of TA Meals. A complimentary meal for a child below 6 years of age is limited to one (1) child per one (1) accompanying adult. A child who does not meet this rule shall be charged at the TA Rates indicated for a child in the above Price Table 1. A booking of TA Meals is confirmed upon the successful receipt of payment received by MWG. No return, exchange, cancellations, amendment and/or refund (whether in the form of cash or otherwise) is allowed for confirmed TA Meals purchased."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakfast in the Wild"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/singapore/breakfast-in-the-wild"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "wildlife-sanctuaries"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJr0l5d5AZ2jER3p8n2l4k7Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 142
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 114
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/37/DSP/37_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakfast in the Wild"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Mandai Wildlife Group (MWG)"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJr0l5d5AZ2jER3p8n2l4k7Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

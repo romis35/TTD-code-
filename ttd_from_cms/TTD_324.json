@@ -1,0 +1,276 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300556
+  },
+  "products": [
+    {
+      "id": "product-324",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Genting Highlands Premium Outlets Cable Car (Previously Known as Awana SkyWay)"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Hop aboard a crystal-clear cable car at Awana Station and enjoy a scenic 10-minute gondola ride up to Genting Highlands. As you glide through the sky, take in breathtaking panoramic views of the surrounding mountains, lush rainforest, and tall pagodas emerging from the greenery along the way.You can also stop at Chin Swee Station to visit the famous Chin Swee Caves Temple, a Taoist temple located in the Genting Highlands. Capture photos of iconic landmarks such as the 9-storey grand pagoda, the Sky Terrace, and the impressive 15-meter-tall Buddha statue. Upon arrival at Genting Highlands, explore a wide range of attractions, luxury hotels, shopping outlets, and exciting theme parks."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Fly up in just 10 minutes: The gondola lift system takes you from the Awana Station at mid-hill to the SkyAvenue Station at the peak."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Chin Swee Caves Temple: With the same ticket, you get a free stop at the Chin Swee Station, where you can explore the beautiful Chin Swee Caves Temple."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Offers stunning 360-degree views of surrounding rainforest."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Fly up in just 10 minutes from the Awana Station at mid-hill to the SkyAvenue Station at the peak. With the same ticket, you get a free stop at the Chin Swee Station, where you can explore the beautiful Chin Swee Caves Temple and its magnificent surroundings at no extra cost."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operation Hours: Please kindly visit Awana SkyWay official website for any updates of operation hours."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Please be reminded that each passenger is allowed to bring one aircraft cabin size bag into the gondola. A surcharge will be imposed otherwise."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Each Standard Gondola can seat 10 passengers, including children. Glass floor gondolas can seat 6 passengers."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restrictions: Child with the height below 90cm entitles for a free ride."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Please dress in appropriate attire at all times while taking the ride with Awana SkyWay."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Dresscode: Please be reminded to bring a mask as it is compulsory to wear a face mask when on board the Awana SkyWay."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Accessibility: Wheelchair and stroller access are available for Standard Gondola. Only baby strollers are allowed in the Glass floor gondolas."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission Awana Skyway - One Way (Standard Gondola)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Confirmation email is non-transferable, not for resale or exchange, and non-refundable under any circumstances. No request to change the validity date of the confirmation email will be entertained. Eligibility Free Ride: Child with height below 90 cm. Guests aged 16 years old and below must be accompanied by a supervising companion with valid tickets, passes, or wristbands at all times. Attraction Access Scan the QR code from the confirmation email at the turnstile for direct boarding without exchanging for a physical ticket. Guests must retain confirmation email for inspection. Management reserves the right to deny redemption if a valid confirmation email is not presented. If stopping at Chin Swee Station, guests must keep their ticket or QR code to continue the journey to the top or exit via SkyAvenue Station. Each passenger can bring one cabin-size bag into the gondola. Oversized baggage will incur a surcharge (RM22 one-way / RM38 return). Standard Gondola Capacity: 10 passengers (including children). Wheelchair and stroller access is available for Standard Gondola. Only baby strollers are allowed in Glass Floor Gondolas. If the Genting Highlands Premium Outlet Cable Car is closed for maintenance, service will be available at Gohtong Jaya Cable Car, approximately 15 minutes away by car. Additional Information This is a non-smoking attraction. Smoking or vaping is strictly prohibited. Pets are not allowed in stations or inside gondolas. Guests must dress in appropriate attire during the ride. Guests are responsible for their personal belongings. Management is not liable for loss or damage. Photography and recording for personal use are allowed if it does not disturb others. Commercial photography or videography requires written approval from management. Management may take photos, audio, or video recordings in non-restricted areas for reasonable purposes without compensation. Guests may contact team members onsite for assistance, feedback, or suggestions. Important Notes In case of discrepancies between English and other language versions, the English version shall prevail. No delay or failure in exercising rights shall be considered a waiver of such rights. Terms & Conditions are governed by the laws of Malaysia, and disputes are subject to Malaysian courts. Management reserves the right to review, revise, or update Terms & Conditions at any time. These Terms & Conditions and the Rules & Regulations (including all subsequent amendments and updates to either or both of them) will be published at Resorts World Genting official website at https://www.rwgenting.com/gettinghere/awanaskyway/ The Management reserves the right to: Require additional information or proof of identity from you for the purpose of redeeming the Tickets; and Deny your confirmation email redemption if you breach these Terms & Conditions or if, in our reasonable opinion, the transaction is fraudulent."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "One Way (Standard Gondola)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/genting-highlands/genting-highlands-premium-outlets-cable-car-previously-known-as-awana-skyway"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "cable-car"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJL4p4x85JzDER9oH1x2yQY7Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 11
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/324/DSP/324_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Genting Highlands Premium Outlets Cable Car (Previously Known as Awana SkyWay)"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Resorts World Genting"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJL4p4x85JzDER9oH1x2yQY7Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

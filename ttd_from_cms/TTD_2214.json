@@ -1,0 +1,273 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300546
+  },
+  "products": [
+    {
+      "id": "product-2214",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Big Bucket Splash Ticket at Gamuda Luge Gardens"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Experience the excitement of Big Bucket Splash, a 10,000 square foot waterpark featuring thrilling slides and a refreshing rain bucket. Take a break from the slides and relax in the shallow pool. Conveniently located next to FunPark and Skyline Luge, Big Bucket Splash is the perfect destination for a day of adventure and family fun. Whether you're celebrating a special occasion or looking for a spontaneous outing, Big Bucket Splash offers unforgettable memories for all ages."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Perfect for celebrations and impromptu visits, offering fun-filled moments with family and friends"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Experience thrilling water fun at a sprawling 10,000 sqft attraction featuring towering slides and a rain bucket"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Conveniently located adjacent to FunPark and Skyline Luge for a full day of adventure"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Take a break from the slides and enjoy a leisurely swim in the shallow pool"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Prepare for a day of exhilarating water fun at Big Bucket Splash. Experience the thrill of towering slides and the refreshing splash of the rain bucket. Take a leisurely swim in the shallow pool or simply relax and soak up the sun. With its convenient location adjacent to FunPark and Skyline Luge, Big Bucket Splash offers a full day of adventure and entertainment for the whole family."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Smoking and drinking are not allowed"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Free for children below 90cm in height"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Children aged 0-16 must be accompanied by a paying adult"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Outside food and drinks are not allowed inside the venue"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Pets are not allowed, except for service animals"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Restriction: Bottles, firecrackers, lasers, and other disruptive items are prohibited"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Valid until June, 19th 2025 Free for children below 90cm in height Children aged 0-16 must be accompanied by a paying adult Re-entry is allowed by presenting your ticket, wristband, or stamp at the entrance. Bringing outside food and beverages into the venue is prohibited. Hazardous items like bottles, firecrackers, lasers, or anything that could disrupt or inconvenience others are not allowed inside the venue. General Park Rules & Regulations Follow Ride Instructions: 1. Always follow the instructions given by ride operators, including how to board and exit theride/attraction, as well as safety guidelines. Ensure to always keep all body parts inside the ride/attraction. Height, Weight and Age Restrictions: 2.Amusement parks have rides with different classes of height, weight and age restrictions for safety reasons. Make sure to adhere to these restrictions to ensure a safe and enjoyable experience. Secure Loose Items: 3. Secure loose items such as hats, sunglasses, and cell phones before getting on a ride/attraction to prevent them from falling and causing injury or damage. Dress Code: 4. Dress appropriately and avoid clothing with loose straps or dangling accessories that could get caught in rides/attractions. Stay Hydrated: 5. Drink plenty of water to stay hydrated, especially on hot days. No Smoking & Vaping: 6. Smoking and Vaping is prohibited in ride queues, on rides, or other non-designated areas. No Alcohol or Drugs: 7. Alcohol and drugs are prohibited to maintain a safe and family-friendly environment. Respect Queues: 8. Don't cut queues. Wait your turn and be courteous to others. Use Trash Bins: 9. Dispose of trash in designated bins and help keep the park clean. Supervise Children: 10. If you have young children with you, always keep an eye on them and make sure they follow the rules and safety guidelines. Listen to Announcements: 11. Pay attention to announcements over the public address system for important information or changes in park operations. Photo and Video Policies: 12. Be aware of the park's photography and video recording policies, especially on rides. Respect the privacy of others when taking photos or videos"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Entrance ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/selangor/big-bucket-splash-ticket-at-gamuda-luge-gardens"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "attraction-tickets"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJn9x1y3BMzDER5p8k2n7l4Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (17–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 20
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (3–16 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 40
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2214/DSP/2214_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Big Bucket Splash Ticket at Gamuda Luge Gardens"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Gamuda Land"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJn9x1y3BMzDER5p8k2n7l4Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

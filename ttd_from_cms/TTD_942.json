@@ -1,0 +1,310 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300574
+  },
+  "products": [
+    {
+      "id": "product-942",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Melaka River Cruise"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Melaka River Cruise, Malaysia – Through Lights and Colours; Experience Melaka’s rich and vibrant heritage’s focal point – where the trading ships docked and the goods traded. Taking a Melaka River Cruise allows you to experience part of the history that goes back 600 years. Journey through the heart of the UNESCO heritage site giving you an exclusive riverscape view of the city. Best enjoyed in the evening, this river cruise promises a serene and captivating journey to the past."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "A Different Perspective & Melaka’s Modern Side"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The River That Flowed Through Time"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Historical Landmarks of Different Eras"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "The Melaka River Cruise is certainly a worthwhile trip for your visit to the historic city of Melaka. It is a river that is embedded in history and made this city a success in the first place. Popular with both local and international tourists, the journey is not difficult or strenuous, so it’s something that the whole family can do, from kids to seniors."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wear light, breathable clothing suitable for warm and humid weather, as the cruise is mostly outdoors."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Opt for comfortable, flat shoes or sandals for easy boarding and disembarkation."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Bring a light jacket or shawl for the evening breeze during night cruises."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "This attraction/activity is subject to weather conditions"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: 45 minute Melaka River Cruise"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Show Mobile Ticket: at the attractions counters, Taman Rempah Jetty (Mein Jetty) and Muara Jetty"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Tickets are valid for 120 days from the date of purchase.Eligibility Child ticket is valid for children aged 2 – 12 years old. Free entrance for children under two (2) years old and must be accompanied by an adult.Attraction Access This activity is not wheelchair accessible.Additional Information This attraction/activity is subject to weather conditions. You do not need to print the ticket; simply present the QR code on your phone.Important Notes Passport must be presented at the attraction for purchase of International (non-MyKad) tickets. Identification card for age verification must be presented at the attraction for purchase of Child tickets."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the attractions counters, Taman Rempah Jetty (Mein Jetty) or Muara Jetty"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "International - Non MyKad Holders"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/melaka-river-cruise"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "boat-rides"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJv5a6yJlVzDER6b0n2x5p8lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 50
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 44
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Malaysian - with MyKad"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/melaka-river-cruise"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "boat-rides"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJv5a6yJlVzDER6b0n2x5p8lQ"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 35
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (2–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 26
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/942/DSP/942_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Melaka River Cruise"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Globaltix 1113"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJv5a6yJlVzDER6b0n2x5p8lQ"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300568
+  },
+  "products": [
+    {
+      "id": "product-2536",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "SplashMania Night Splash"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Experience SplashMania Waterpark as it transforms into a colourful splashy paradise at sunset, with an exciting line-up of performances, live music and illuminated pools &amp; waterslides! As the sun sets, our water park transforms into a glowing wonderland, where thrills and chills await at every turn. Dive into a whole new experience with lit-up slides, glowing pools, and a vibrant atmosphere filled with music, lights, and endless fun."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SplashMania at Gamuda Cove in Selangor is a unique waterpark where nature meets fun."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "It features first-of-its-kind attractions, award-winning water slides, and entertainment offerings."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "3,4,10,11,17,18,24,25 April & 1-2 May (Fridays and Saturdays only)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: SplashMania Night Splash Admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing Counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Dates are valid on 3,4,10,11,17,18,24,25 April & 1-2 May (Fridays and Saturdays only) Rates are inclusive of 1 night splash admission ticket. Rates are inclusive all rides EXCEPT for pay per ride activities. Operation hours from 7pm until 11pm. Ticket must bear a confirmed visit date is required. Strictly no refund/exchange/revalidation allows. Adult rates are applicable to individuals with age 13 years old till 59 years old. Child rates are applicable to children between age 3 years old till 12 years old. Senior citizen rates are applicable to individuals of aged 60 years or above. Free admission for children below 90cm in height. Children aged 0-12 must be accompanied by a paying adult. Terms and conditions of entry stated at www.glplay.com.my shall apply."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SplashMania Night Splash"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/selangor/splashmania-night-splash"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "water-parks"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJn9x1y3BMzDERzKk3h2k7p1Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 60
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 60
+              }
+            },
+            {
+              "id": "option-1-senior",
+              "title": "Senior (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 60
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2536/DSP/2536_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SplashMania Night Splash"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Gamuda Land"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJn9x1y3BMzDERzKk3h2k7p1Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

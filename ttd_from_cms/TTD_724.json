@@ -1,0 +1,417 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300556
+  },
+  "products": [
+    {
+      "id": "product-724",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Taman Buaya & Rekreasi Melaka"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Experience the unique wildlife of Malaysia at the Melaka Crocodile and Recreation Park, a sprawling 13,000 sq.ft local farm nestled in the historic city of Melaka. Immerse yourself in lush greenery and beautiful vegetation as you explore the farm's diverse facilities. Encounter over 100 crocodiles of four different species in their natural habitat, witnessing trainers interact with these fascinating creatures. The park is also home to various other animals, including emus, tortoises, deers, reptiles, racoons, and more. Explore Miniature Malaysia, featuring smaller replicas of iconic buildings, and cool off in the waterpark—an ideal destination for quality family time!"
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Encounter a variety of crocodiles up close in Melaka's largest reptile park"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Enjoy family-friendly recreational activities and scenic park surroundings"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Explore a mini zoo featuring a variety of other animals."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Embark on an adventure at the Melaka Crocodile and Recreation Park, discovering over 100 crocodiles, diverse wildlife, and Miniature Malaysia's iconic replicas. Enjoy family-friendly facilities, wildlife interactions, and a refreshing waterpark for a day filled with fun and exploration."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Do not feed the animals."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Follow instructions from park rangers and show performers."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Supervise children at all times."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Taman Buaya & Rekreasi Melaka Crocodile and Recreation Park Weekday admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Water Playground"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Tickets are valid on the selected date. The water playground is open to all ages at no additional charge.Eligibility Children aged 4 and below are entitled to free admission. Adult tickets are for individuals aged 13 to 54 years old. Child tickets are for individuals aged 5 to 12 years old. Senior citizens (above 55 years old) must purchase tickets on-site and present a valid Identity Card (IC) at the counter. OKU visitors must buy tickets on-site and present a valid OKU card for a 50% discount. For MY ticket type, please present your MyKad at the counter.Attraction Access The water playground will be open daily and may close in case of rain. This activity is stroller and wheelchair-accessible. Eating and drinking are not allowed in the swimming pool. Please wear appropriate clothing and swimming attire.Additional Information Your safety and that of your family are at your own risk; the park management will not be responsible for any accidents.Important Notes Tickets must be purchased according to the age category and identification requirements stated above."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Taman Buaya & Rekreasi Melaka Crocodile and Recreation Park Weekend admission"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Admission Tickets are valid on the selected date. The water playground is open to all ages at no additional charge. Eligibility Children aged 4 and below are entitled to free admission. Adult tickets are for individuals aged 13 to 54 years old. Child tickets are for individuals aged 5 to 12 years old. Senior citizens (above 55 years old) must purchase tickets on-site and present a valid Identity Card (IC) at the counter. OKU visitors must buy tickets on-site and present a valid OKU card for a 50% discount. For MY ticket type, please present your MyKad at the counter. Attraction Access The water playground will be open daily and may close in case of rain. This activity is stroller and wheelchair-accessible. Eating and drinking are not allowed in the swimming pool. Please wear appropriate clothing and swimming attire. Additional Information Your safety and that of your family are at your own risk; the park management will not be responsible for any accidents. Important Notes Tickets must be purchased according to the age category and identification requirements stated above."
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weekday Ticket (Foreigners)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/taman-buaya-rekreasi-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJX1dQyJtVzDERiXH6Lk7rGvA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 20
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 17
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weekend Ticket (Foreigners)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/taman-buaya-rekreasi-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJX1dQyJtVzDERiXH6Lk7rGvA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 20
+              }
+            },
+            {
+              "id": "option-2-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 17
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weekday Ticket (Local)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/taman-buaya-rekreasi-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJX1dQyJtVzDERiXH6Lk7rGvA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 16
+              }
+            },
+            {
+              "id": "option-3-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Weekend Ticket (Local)"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/taman-buaya-rekreasi-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "zoos"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJX1dQyJtVzDERiXH6Lk7rGvA"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-adult",
+              "title": "Adult (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 17
+              }
+            },
+            {
+              "id": "option-4-child",
+              "title": "Child (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 14
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/724/DSP/724_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Taman Buaya & Rekreasi Melaka"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "TAMAN BUAYA & REKREASI (MELAKA) SDN BHD"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJX1dQyJtVzDERiXH6Lk7rGvA"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

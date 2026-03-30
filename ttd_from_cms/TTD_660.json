@@ -1,0 +1,374 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300592
+  },
+  "products": [
+    {
+      "id": "product-660",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Breakout Escape Game Melaka"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Whether you prefer an experience that challenges your brains, your physical stamina or just want to have fun time together, we’ve got them all here! Our escape rooms and spy game missions come with many difficulty levels, a variety of physical agility requirements and also family friendly option suitable for the younger one. For the horror fans, check out Breakout’s sister brand Hauntu for a different, unique and terrifying experience."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Every theme room can accommodate between 2-8 players."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Solve exciting missions, engaging puzzles, and obstacles and escape within 55 minutes."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Escape game that comes with realistic design & props, an engaging storyline that immerses you in to the gameplay."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "At Breakout Melaka, we're bringing you a one-of-a-kind escape room experience that can only be found here in Melaka! With 4 unique, themed rooms featuring brand new storylines and cutting-edge technology:Exclusive Themes: Our themed escape rooms are only available in Melaka, so you won't find these thrilling adventures anywhere else! Each room offers a completely original storyline that immerses you in a world full of surprises, mystery, and excitement.Innovative Technology: Get ready for a truly modern escape room experience. Our rooms feature the latest technology to enhance your adventure, from interactive elements to high-tech puzzles that elevate your gameplay and keep you on your toes.New Storylines &amp; Challenges: Every room offers fresh and exciting narratives, designed to take you on a journey like no other. Whether you're solving ancient mysteries, racing against time, or navigating a high-stakes mission, there’s a new challenge waiting for you at every turn.A Mix of Difficulty Levels: No matter your experience level, Breakout Melaka has something for everyone. Whether you're a beginner or a seasoned escape artist, the rooms are designed to test your teamwork, critical thinking, and problem-solving skills.Immersive Atmosphere: From intricate room designs to captivating sound effects, everything in our escape rooms is crafted to pull you deeper into the story. The atmosphere alone will make you feel like you're truly part of an epic adventure.Perfect for Groups: Whether you’re here with friends, family, or colleagues, Breakout Melaka is perfect for group activities. Teamwork is key, so rally your group and see if you can escape before time runs out!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Some experiences may require physical agility or movement. Ensure that all participants are physically capable of engaging in the activities involved."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Wear comfortable clothing and footwear suitable for potential physical challenges or movement."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Listen to the briefing provided by staff before the experience begins. Pay attention to rules, guidelines, and safety instructions to ensure a smooth and enjoy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Customers can choose 1 of the listed games: Wonderland, Capsule (minimum 3 players), Section 13, Missing Case of Melaka (minimum 3 players)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission at Breakout The Shore Melaka"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: Ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Once a ticket is purchased, please WhatsApp 6012-683 3628 for the steps and instructions to book your preferred timeslot. Additionally, we are reachable on social media (IG: @breakoutmy & FB: Breakout Malaysia)"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: If customers are late for less than 10 minutes, the game will start and the experience time will be shortened. If customers are late for more than 10 minutes, the game will be rescheduled with another available time slot (subject to availability of the game session). If customers arrive with fewer participants than the purchase amount, no refund will be available. Additional players will be charged accordingly. Children aged 7 and below can play for FREE. Children aged 12 and below must be accompanied by a guardian who is 18 years old or above inside the room to play with them. Underage teens aged 13-17 will require a guardian to be present, and the guardian must sign a consent form before the teens are allowed to play alone."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout The Shore Melaka [2 Pax] Choose one: Wonderland, Capsule, Section 13, Missing Case of Melaka"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/breakout-escape-game-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg7cQzJlVzDER6n2p8k5l3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 48
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout The Shore Melaka [3 - 4 Pax] Choose one: Wonderland, Capsule, Section 13, Missing Case of Melaka"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/breakout-escape-game-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg7cQzJlVzDER6n2p8k5l3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 42
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-3",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout The Shore Melaka [5 - 6 Pax] Choose one: Wonderland, Capsule, Section 13, Missing Case of Melaka"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/breakout-escape-game-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg7cQzJlVzDER6n2p8k5l3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-3-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-4",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout The Shore Melaka [7 - 8 Pax] Choose one: Wonderland, Capsule, Section 13, Missing Case of Melaka"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/melaka/breakout-escape-game-melaka"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJg7cQzJlVzDER6n2p8k5l3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-4-per-pax",
+              "title": "Per Pax (3–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 37
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/660/DSP/660_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Breakout Escape Game Melaka"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Superdough Sdn Bhd"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJg7cQzJlVzDER6n2p8k5l3Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

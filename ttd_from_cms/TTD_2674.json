@@ -1,0 +1,262 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300606
+  },
+  "products": [
+    {
+      "id": "product-2674",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Monkey Splash Zone Water Park Ticket"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Get ready for a fun-filled day at the Monkey Splash Zone Water Park! This ticket grants you access to an exciting array of water attractions for all ages. From thrilling water slides to relaxing lazy rivers, you'll find everything you need for a perfect day of fun. With water features designed for both kids and adults, there's no shortage of excitement, whether you're looking to race down water slides, enjoy wave pools, or simply splash around with family and friends."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Only here can you take on three high-adrenaline water rides back-to-back—spin, twist, and race your way to non-stop excitement!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lost in Amazon is more than a playground—it’s an immersive jungle experience where water, adventure, and imagination collide!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Giggling Geyser delivers an unpredictable ride full of soaring highs, splashy drops, and guaranteed laughter!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Whether you’re conquering the Whirlpool Whirl, riding the Whacky Wave Pool, or dashing down slides, every splash is an adventure"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "From high-speed plunges to gentle splash zones, we’ve got the perfect mix of adventure and family-friendly fun for every thrill level!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Get ready for a splashtastic adventure full of thrills, spills, and nonstop fun! Twist, turn, and race your way down epic slides, take on giant waves, and get drenched in a wild jungle splash zone. Whether you're a thrill-seeker, a little explorer, or just in it for the giggles, there’s something for everyone. So grab your swim gear, bring your crew, and let the good times flow!"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Age and Height Restrictions: Some rides may have age, height, or weight restrictions for safety reasons. Be sure to check before you queue."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Food and Beverage: Food stalls and snack bars are located throughout the park. Outside food and beverages are typically not allowed."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Safety Measures: Lifeguards are stationed at key areas, and water attractions are maintained to ensure safe and fun experiences."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: Admission to Monkey Splash Zone Water Park"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: at the ticketing counter"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Eligibility Requirements Age: Open to all ages. Children less than 90cm must be accompanied by a paying adult (18+). Health Restrictions: Participants with heart conditions, mobility impairments, pregnancy, or other serious medical issues are advised not to participate. Consult a physician before entry if unsure. All guests (or guardians for minors) must fill and sign an Indemnity form before accessing the Monkeys Splash Zone. Height - Adult (more than 130cm) - Children (90cm – 130cm) User Responsibilities Supervision: Guardians must actively supervise children less than 90cm at all times. Compliance: Follow all posted rules, staff instructions, and safety signage. Attire: Wear appropriate swimwear. Prohibited items: jeans, loose jewelry, or sharp accessories. Belongings: Monkeys Splash Zone is not liable for lost, stolen, or damaged personal items. Hazards: Report spills, broken equipment, or unsafe behavior to staff immediately. Prohibitions & Limitations Items: No outside food/drinks, glass containers, alcohol, smoking/vaping, or pets. Behavior: No running, diving, rough play, or climbing on structures. Photography: No photography/videography in restrooms or restricted zones. Removal: Guests violating rules may be ejected without refund."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Admission Ticket"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/selangor/monkey-splash-zone-water-park-ticket"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "water-parks"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJm2n7k5BMzDER8p4l9k6n3Q"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-adult",
+              "title": "Adult (13–99 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 65
+              }
+            },
+            {
+              "id": "option-1-child",
+              "title": "Child (4–12 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 45
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/2674/DSP/2674_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Monkey Splash Zone Water Park Ticket"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Monkeys Canopy"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJm2n7k5BMzDER8p4l9k6n3Q"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

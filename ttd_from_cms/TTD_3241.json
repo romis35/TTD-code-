@@ -1,0 +1,338 @@
+{
+  "feed_metadata": {
+    "shard_id": 0,
+    "total_shards_count": 1,
+    "processing_instruction": "PROCESS_AS_SNAPSHOT",
+    "nonce": 202603300573
+  },
+  "products": [
+    {
+      "id": "product-3241",
+      "title": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "[PROMO] SuperPark Malaysia"
+          }
+        ]
+      },
+      "description": {
+        "localized_texts": [
+          {
+            "language_code": "en",
+            "text": "Experience non-stop action and excitement at SuperPark Malaysia, an all-in-one indoor activity park designed for visitors of all ages. Whether you're a thrill-seeking teen, an energetic parent, or just a kid at heart, SuperPark offers over 25 fun-filled activities spread across themed zones that guarantee a day of laughter, movement, and unforgettable memories!Perfect for families, friends, and even corporate groups, SuperPark is the ultimate indoor playground that combines fitness, fun, and adventure — all under one roof."
+          }
+        ]
+      },
+      "rating": {
+        "average_value": 4.3,
+        "rating_count": 100
+      },
+      "product_features": [
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Freestyle Hall with trampolines, climbing walls, and skating areas"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Access to over 25 indoor activities suitable for all ages"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Adventure Area with obstacle courses, slides, and zip wires"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Game Arena featuring sports simulations and interactive games"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_HIGHLIGHT",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "All-in-one indoor venue ideal for families, groups, and all-weather fun"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "At SuperPark Malaysia, guests can explore three themed zones: the Adventure Area, Game Arena, and Freestyle Hall. Each zone offers a variety of physical and interactive games designed to challenge and entertain. From trampolines, climbing walls, and zip wires to pedal cars, basketball hoops, and obstacle courses, there’s something for everyone to enjoy. Visitors can take part in solo activities, team games, or family-friendly attractions in a safe, indoor environment with staff on hand to assist and ensure a fun-filled experience."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Re-entry is not allowed once you exit the park"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Children under 8 years old must be accompanied by an adult"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Grip socks and appropriate sportswear are required for entry"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Ticket is valid for one-time entry on the selected date and session"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Lockers are available for rent on-site"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Operating hours may vary on public holidays — please check in advance"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: SuperPark Malaysia 3 Hour Pass Individual"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "How to use: Show Mobile Ticket: At the location"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Terms & Conditions: Please check the official website for the attraction's operating dates and hours. Information provided on external websites is for reference only. Actual opening dates and hours may be adjusted or closed due to seasons, weather, special holidays, etc. No additional notice will be given for official schedule changes. Please refer to the official announcement for the most accurate information. We appreciate your understanding. Free for children under 3 or under 100cm tall. Children under 13 must be accompanied by a paying adult aged 18 or over. This admission ticket is only valid for the selected date and time, and is non-transferable or resalable. Tampering will render it invalid. Please arrive at least 15 minutes before your selected time slot to avoid missing it. Every visitor entering the attraction must fill out a disclaimer form. Please observe the attraction's rules and regulations while on the premises, otherwise you may be asked to leave. For technical, health and safety, and/or operational reasons, or due to special activities or private events, the attraction reserves the right to change operating dates and times, or cancel all or any activities or areas within the park. By participating in Superpark playground, you agree to the attraction's privacy policy and consent to the attraction taking photos or videos for promotional or safety notification purposes, with ownership rights belonging to the attraction. Non-slip socks (with rubber soles) are required and available for purchase at the ticket counter."
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_MUST_KNOW",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "Cancellation Policy: No cancellation for this activity as per vendor policy"
+              }
+            ]
+          }
+        },
+        {
+          "feature_type": "TEXT_FEATURE_INCLUSION",
+          "value": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "What’s included: SuperPark Malaysia 3 Hour Pass Individual at 10.00 AM"
+              }
+            ]
+          }
+        }
+      ],
+      "options": [
+        {
+          "id": "option-1",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SuperPark Malaysia 3 Hour Pass"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/promo-superpark-malaysia"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJd9g9t5xJzDER8xQx7d9pQ5g"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-1-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 41
+              }
+            }
+          ]
+        },
+        {
+          "id": "option-2",
+          "title": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "SuperPark Malaysia 3 Hour Pass Standard [10:00 AM]"
+              }
+            ]
+          },
+          "landing_page": {
+            "url": "https://www.redbus.my/things-to-do/malaysia/kuala-lumpur/promo-superpark-malaysia"
+          },
+          "cancellation_policy": {},
+          "option_categories": [
+            {
+              "label": "amusement-theme-park"
+            }
+          ],
+          "related_locations": [
+            {
+              "location": {
+                "location": {
+                  "place_id": "ChIJd9g9t5xJzDER8xQx7d9pQ5g"
+                }
+              },
+              "relation_type": "RELATION_TYPE_ADMISSION_TICKET"
+            }
+          ],
+          "price_options": [
+            {
+              "id": "option-2-per-pax",
+              "title": "Per Pax (0–0 yrs)",
+              "price": {
+                "currency_code": "MYR",
+                "units": 41
+              }
+            }
+          ]
+        }
+      ],
+      "related_media": [
+        {
+          "url": "https://s3.rdbuz.com/activity-images/Activity/3241/DSP/3241_1.png",
+          "type": "MEDIA_TYPE_PHOTO",
+          "attribution": {
+            "localized_texts": [
+              {
+                "language_code": "en",
+                "text": "[PROMO] SuperPark Malaysia"
+              }
+            ]
+          }
+        }
+      ],
+      "inventory_types": [
+        "INVENTORY_TYPE_OPERATOR_DIRECT"
+      ],
+      "operator": {
+        "google_business_profile_name": {
+          "localized_texts": [
+            {
+              "language_code": "en",
+              "text": "Trip.com (MYR)"
+            }
+          ]
+        },
+        "locations": [
+          {
+            "location": {
+              "place_id": "ChIJd9g9t5xJzDER8xQx7d9pQ5g"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
